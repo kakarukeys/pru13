@@ -1,0 +1,6206 @@
+[
+  {
+    "voters_turnout": "80.05",
+    "constituency_code": "P.1",
+    "total_registered_voters": "36613",
+    "state": "Perlis",
+    "constituency_name": "PADANG BESAR",
+    "majority": "5348",
+    "winner_name": "DATO' SERI AZMI KHALID",
+    "spoilt_votes": "674",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "11643",
+        "name": " ZOLKHARNAIN ABIDIN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "16991",
+        "name": " DATO' SERI AZMI KHALID"
+      }
+    ],
+    "unreturned_ballot_sheets": "2",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "29310"
+  },
+  {
+    "voters_turnout": "80.00",
+    "constituency_code": "P.2",
+    "total_registered_voters": "43591",
+    "state": "Perlis",
+    "constituency_name": "KANGAR",
+    "majority": "13671",
+    "winner_name": "DATO' SERI MOHD RADZI SHEIKH AHMAD",
+    "spoilt_votes": "808",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "23821",
+        "name": " DATO' SERI MOHD RADZI SHEIKH AHMAD"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "10150",
+        "name": " TUNKU ABDUL RAHMAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "167",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "34946"
+  },
+  {
+    "voters_turnout": "83.23",
+    "constituency_code": "P.3",
+    "total_registered_voters": "39877",
+    "state": "Perlis",
+    "constituency_name": "ARAU",
+    "majority": "300",
+    "winner_name": "DATUK ISMAIL KASIM",
+    "spoilt_votes": "586",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "16451",
+        "name": " DATUK ISMAIL KASIM"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "16151",
+        "name": " DATUK DR. HARON DIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "88",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "33276"
+  },
+  {
+    "voters_turnout": "78.55",
+    "constituency_code": "P.4",
+    "total_registered_voters": "29567",
+    "state": "Kedah",
+    "constituency_name": "LANGKAWI",
+    "majority": "4970",
+    "winner_name": "DATO' PADUKA HJ. ABU BAKAR TAIB",
+    "spoilt_votes": "670",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "13762",
+        "name": " DATO' PADUKA HJ. ABU BAKAR TAIB"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "8792",
+        "name": " WAN SALLEH"
+      }
+    ],
+    "unreturned_ballot_sheets": "49",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "23273"
+  },
+  {
+    "voters_turnout": "81.83",
+    "constituency_code": "P.5",
+    "total_registered_voters": "45513",
+    "state": "Kedah",
+    "constituency_name": "JERLUN",
+    "majority": "2205",
+    "winner_name": "DATO' MUKHRIZ MAHATHIR",
+    "spoilt_votes": "599",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "17219",
+        "name": " USTAZ IDRIS AHMAD"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19424",
+        "name": " DATO' MUKHRIZ MAHATHIR"
+      }
+    ],
+    "unreturned_ballot_sheets": "55",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "37297"
+  },
+  {
+    "voters_turnout": "79.19",
+    "constituency_code": "P.6",
+    "total_registered_voters": "53323",
+    "state": "Kedah",
+    "constituency_name": "KUBANG PASU",
+    "majority": "7060",
+    "winner_name": "DATUK MOHD JOHARI BAHARUM",
+    "spoilt_votes": "928",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "17119",
+        "name": " DR. ISA ISMAIL"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "24179",
+        "name": " DATUK MOHD JOHARI BAHARUM"
+      }
+    ],
+    "unreturned_ballot_sheets": "127",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "42353"
+  },
+  {
+    "voters_turnout": "85.89",
+    "constituency_code": "P.7",
+    "total_registered_voters": "35403",
+    "state": "Kedah",
+    "constituency_name": "PADANG TERAP",
+    "majority": "369",
+    "winner_name": "MOHD NASIR ZAKARIA",
+    "spoilt_votes": "770",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "14634",
+        "name": " GHAZALI IBRAHIM"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "15003",
+        "name": " MOHD NASIR ZAKARIA"
+      }
+    ],
+    "unreturned_ballot_sheets": "38",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "30445"
+  },
+  {
+    "voters_turnout": "78.53",
+    "constituency_code": "P.8",
+    "total_registered_voters": "69631",
+    "state": "Kedah",
+    "constituency_name": "POKOK SENA",
+    "majority": "5731",
+    "winner_name": "HJ. MAHFUZ OMAR",
+    "spoilt_votes": "1039",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "23956",
+        "name": " DATO' PADUKA ABDUL RAHMAN IBRAHIM"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "29687",
+        "name": " HJ. MAHFUZ OMAR"
+      }
+    ],
+    "unreturned_ballot_sheets": "636",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "55318"
+  },
+  {
+    "voters_turnout": "73.03",
+    "constituency_code": "P.9",
+    "total_registered_voters": "58957",
+    "state": "Kedah",
+    "constituency_name": "ALOR STAR",
+    "majority": "184",
+    "winner_name": "CHOR CHEE HEUNG",
+    "spoilt_votes": "1757",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "20557",
+        "name": " GOOI HSIAO - LEUNG"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "20741",
+        "name": " CHOR CHEE HEUNG"
+      }
+    ],
+    "unreturned_ballot_sheets": "151",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "43206"
+  },
+  {
+    "voters_turnout": "79.08",
+    "constituency_code": "P.10",
+    "total_registered_voters": "83142",
+    "state": "Kedah",
+    "constituency_name": "KUALA KEDAH",
+    "majority": "7018",
+    "winner_name": "AHMAD KASIM",
+    "spoilt_votes": "1385",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "35689",
+        "name": " AHMAD KASIM"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "28671",
+        "name": " HASHIM JAHAYA"
+      }
+    ],
+    "unreturned_ballot_sheets": "5",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "65750"
+  },
+  {
+    "voters_turnout": "84.02",
+    "constituency_code": "P.11",
+    "total_registered_voters": "61346",
+    "state": "Kedah",
+    "constituency_name": "PENDANG",
+    "majority": "4073",
+    "winner_name": "DR. MOHD HAYATI HJ. OTHMAN",
+    "spoilt_votes": "991",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "27311",
+        "name": " DR. MOHD HAYATI HJ. OTHMAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "23238",
+        "name": " DATO' PADUKA HJ. MD ROZAI HJ. SHAFIAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "105",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "51645"
+  },
+  {
+    "voters_turnout": "78.78",
+    "constituency_code": "P.12",
+    "total_registered_voters": "65739",
+    "state": "Kedah",
+    "constituency_name": "JERAI",
+    "majority": "2299",
+    "winner_name": "USTAZ FIRDAUS JAAFAR",
+    "spoilt_votes": "1070",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "24211",
+        "name": " DATO' PADUKA HJ. BADRUDDIN AMIRULDIN"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "26510",
+        "name": " USTAZ FIRDAUS JAAFAR"
+      }
+    ],
+    "unreturned_ballot_sheets": "122",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "51913"
+  },
+  {
+    "voters_turnout": "83.67",
+    "constituency_code": "P.13",
+    "total_registered_voters": "40339",
+    "state": "Kedah",
+    "constituency_name": "SIK",
+    "majority": "481",
+    "winner_name": "CIKGU UDA",
+    "spoilt_votes": "505",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "16383",
+        "name": " DATO' HJ. OTHMAN DESA"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "16864",
+        "name": " CIKGU UDA"
+      }
+    ],
+    "unreturned_ballot_sheets": "107",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "33859"
+  },
+  {
+    "voters_turnout": "76.54",
+    "constituency_code": "P.14",
+    "total_registered_voters": "64443",
+    "state": "Kedah",
+    "constituency_name": "MERBOK",
+    "majority": "3098",
+    "winner_name": "DATO' RASHID DIN",
+    "spoilt_votes": "1338",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "22443",
+        "name": " DATO' TAJUL URUS MAT ZAIN"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "25541",
+        "name": " DATO' RASHID DIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "396",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "49718"
+  },
+  {
+    "voters_turnout": "77.67",
+    "constituency_code": "P.15",
+    "total_registered_voters": "76284",
+    "state": "Kedah",
+    "constituency_name": "SUNGAI PETANI",
+    "majority": "9381",
+    "winner_name": "JOHARI ABDUL",
+    "spoilt_votes": "986",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "33822",
+        "name": " JOHARI ABDUL"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "24441",
+        "name": " ZAINUDIN MAIDIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "129",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "59378"
+  },
+  {
+    "voters_turnout": "83.38",
+    "constituency_code": "P.16",
+    "total_registered_voters": "78784",
+    "state": "Kedah",
+    "constituency_name": "BALING",
+    "majority": "7613",
+    "winner_name": "USTAZ TAIB AZAMUDDEN",
+    "spoilt_votes": "1154",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "28461",
+        "name": " DATUK ABDUL AZEEZ ABDUL RAHIM"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "36074",
+        "name": " USTAZ TAIB AZAMUDDEN"
+      }
+    ],
+    "unreturned_ballot_sheets": "75",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "65764"
+  },
+  {
+    "voters_turnout": "79.48",
+    "constituency_code": "P.17",
+    "total_registered_voters": "59218",
+    "state": "Kedah",
+    "constituency_name": "PADANG SERAI",
+    "majority": "11738",
+    "winner_name": "GOBALAKRISHNAN",
+    "spoilt_votes": "1259",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "28774",
+        "name": " GOBALAKRISHNAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "17036",
+        "name": " BOEY CHIN GAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "55",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "47124"
+  },
+  {
+    "voters_turnout": "76.83",
+    "constituency_code": "P.18",
+    "total_registered_voters": "51995",
+    "state": "Kedah",
+    "constituency_name": "KULIM-BANDAR BAHARU",
+    "majority": "5583",
+    "winner_name": "ZULKIFLI NOORDIN",
+    "spoilt_votes": "1022",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "16672",
+        "name": " DATO' ABD AZIZ SHEIKH FADZIR"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "22255",
+        "name": " ZULKIFLI NOORDIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "233",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "40182"
+  },
+  {
+    "voters_turnout": "81.28",
+    "constituency_code": "P.19",
+    "total_registered_voters": "80072",
+    "state": "Kelantan",
+    "constituency_name": "TUMPAT",
+    "majority": "9377",
+    "winner_name": "DATUK KAMARUDDIN JAFFAR",
+    "spoilt_votes": "1032",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "27337",
+        "name": " DR. ASYRAF WAJDI DATO' DUSUKI"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "36714",
+        "name": " DATUK KAMARUDDIN JAFFAR"
+      }
+    ],
+    "unreturned_ballot_sheets": "171",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "65254"
+  },
+  {
+    "voters_turnout": "81.72",
+    "constituency_code": "P.20",
+    "total_registered_voters": "52350",
+    "state": "Kelantan",
+    "constituency_name": "PENGKALAN CHEPA",
+    "majority": "11311",
+    "winner_name": "DATO' HALIM",
+    "spoilt_votes": "564",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "26763",
+        "name": " DATO' HALIM"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "15452",
+        "name": " RAHIM ZAIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "270",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "43049"
+  },
+  {
+    "voters_turnout": "78.49",
+    "constituency_code": "P.21",
+    "total_registered_voters": "68261",
+    "state": "Kelantan",
+    "constituency_name": "KOTA BHARU",
+    "majority": "11288",
+    "winner_name": "DATUK WAN ABD RAHIM WAN ABDULLAH",
+    "spoilt_votes": "609",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "32129",
+        "name": " DATUK WAN ABD RAHIM WAN ABDULLAH"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "20841",
+        "name": " DATUK MOHAMAD FATMI CHE SALLEH"
+      }
+    ],
+    "unreturned_ballot_sheets": "131",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "53710"
+  },
+  {
+    "voters_turnout": "82.53",
+    "constituency_code": "P.22",
+    "total_registered_voters": "59640",
+    "state": "Kelantan",
+    "constituency_name": "PASIR MAS",
+    "majority": "8991",
+    "winner_name": "DATUK IBRAHIM ALI",
+    "spoilt_votes": "864",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "28673",
+        "name": " DATUK IBRAHIM ALI"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "19682",
+        "name": " HJ. ROSDI"
+      }
+    ],
+    "unreturned_ballot_sheets": "125",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "49344"
+  },
+  {
+    "voters_turnout": "77.93",
+    "constituency_code": "P.23",
+    "total_registered_voters": "45384",
+    "state": "Kelantan",
+    "constituency_name": "RANTAU PANJANG",
+    "majority": "4486",
+    "winner_name": "SITI ZAILAH MOHD YUSOFF",
+    "spoilt_votes": "837",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "14858",
+        "name": " USTAZ AFANDI"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "330",
+        "name": " KOSING"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "19344",
+        "name": " SITI ZAILAH MOHD YUSOFF"
+      }
+    ],
+    "unreturned_ballot_sheets": "82",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "35451"
+  },
+  {
+    "voters_turnout": "82.91",
+    "constituency_code": "P.24",
+    "total_registered_voters": "53496",
+    "state": "Kelantan",
+    "constituency_name": "KUBANG KERIAN",
+    "majority": "4642",
+    "winner_name": "SALAHUDDIN AYUB",
+    "spoilt_votes": "638",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "21179",
+        "name": " SALAHUDDIN AYUB"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "16537",
+        "name": " AB GHANI MAMAT"
+      }
+    ],
+    "unreturned_ballot_sheets": "120",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "44474"
+  },
+  {
+    "voters_turnout": "85.76",
+    "constituency_code": "P.25",
+    "total_registered_voters": "64808",
+    "state": "Kelantan",
+    "constituency_name": "BACHOK",
+    "majority": "2901",
+    "winner_name": "USTAZ NASHARUDIN",
+    "spoilt_votes": "811",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "28835",
+        "name": " USTAZ NASHARUDIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "25934",
+        "name": " DATUK AWANG ADEK HUSSIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "144",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "55724"
+  },
+  {
+    "voters_turnout": "84.36",
+    "constituency_code": "P.26",
+    "total_registered_voters": "52240",
+    "state": "Kelantan",
+    "constituency_name": "KETEREH",
+    "majority": "400",
+    "winner_name": "HJ. AB AZIZ AB KADIR",
+    "spoilt_votes": "993",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "21338",
+        "name": " TAN SERI ANNUAR MUSA"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "21738",
+        "name": " HJ. AB AZIZ AB KADIR"
+      }
+    ],
+    "unreturned_ballot_sheets": "308",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "44377"
+  },
+  {
+    "voters_turnout": "81.24",
+    "constituency_code": "P.27",
+    "total_registered_voters": "44347",
+    "state": "Kelantan",
+    "constituency_name": "TANAH MERAH",
+    "majority": "1584",
+    "winner_name": "AMRAN HJ. AB GHANI",
+    "spoilt_votes": "1064",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "15970",
+        "name": " DATO' IR. SHAARI"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "17554",
+        "name": " AMRAN HJ. AB GHANI"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "1439",
+        "name": " ASMADI"
+      }
+    ],
+    "unreturned_ballot_sheets": "99",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "36126"
+  },
+  {
+    "voters_turnout": "83.31",
+    "constituency_code": "P.28",
+    "total_registered_voters": "64393",
+    "state": "Kelantan",
+    "constituency_name": "PASIR PUTEH",
+    "majority": "3968",
+    "winner_name": "USTAZ MUHAMMAD HUSAIN",
+    "spoilt_votes": "886",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "28365",
+        "name": " USTAZ MUHAMMAD HUSAIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "24397",
+        "name": " AMRAN MAT NOR"
+      }
+    ],
+    "unreturned_ballot_sheets": "130",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "53778"
+  },
+  {
+    "voters_turnout": "84.16",
+    "constituency_code": "P.29",
+    "total_registered_voters": "49157",
+    "state": "Kelantan",
+    "constituency_name": "MACHANG",
+    "majority": "1460",
+    "winner_name": "SAIFUDDIN NASUTION",
+    "spoilt_votes": "748",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "21041",
+        "name": " SAIFUDDIN NASUTION"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "19581",
+        "name": " SAZMI MIAH"
+      }
+    ],
+    "unreturned_ballot_sheets": "124",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "41494"
+  },
+  {
+    "voters_turnout": "83.68",
+    "constituency_code": "P.30",
+    "total_registered_voters": "36298",
+    "state": "Kelantan",
+    "constituency_name": "JELI",
+    "majority": "4436",
+    "winner_name": "DATUK SERI MUSTAPA MOHAMED",
+    "spoilt_votes": "474",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "17168",
+        "name": " DATUK SERI MUSTAPA MOHAMED"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "12732",
+        "name": " HJ. NASIR @ HJ. PENDI"
+      }
+    ],
+    "unreturned_ballot_sheets": "181",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "30555"
+  },
+  {
+    "voters_turnout": "82.10",
+    "constituency_code": "P.31",
+    "total_registered_voters": "52250",
+    "state": "Kelantan",
+    "constituency_name": "KUALA KRAI",
+    "majority": "4984",
+    "winner_name": "DR. HATTA",
+    "spoilt_votes": "756",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "23562",
+        "name": " DR. HATTA"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "18578",
+        "name": " PROF. DATO' DR. CHE MUSA"
+      }
+    ],
+    "unreturned_ballot_sheets": "117",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "43013"
+  },
+  {
+    "voters_turnout": "83.56",
+    "constituency_code": "P.32",
+    "total_registered_voters": "28986",
+    "state": "Kelantan",
+    "constituency_name": "GUA MUSANG",
+    "majority": "4394",
+    "winner_name": "TENGKU RAZALEIGH TENGKU MOHD HAMZAH",
+    "spoilt_votes": "489",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "14063",
+        "name": " TENGKU RAZALEIGH TENGKU MOHD HAMZAH"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "9669",
+        "name": " DR. ZUL"
+      }
+    ],
+    "unreturned_ballot_sheets": "62",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "24283"
+  },
+  {
+    "voters_turnout": "83.68",
+    "constituency_code": "P.33",
+    "total_registered_voters": "58353",
+    "state": "Terengganu",
+    "constituency_name": "BESUT",
+    "majority": "10590",
+    "winner_name": "DATO' DR. ABDULLAH MD ZIN",
+    "spoilt_votes": "668",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "18786",
+        "name": " DATO' HJ. HUSAIN AWANG"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "29376",
+        "name": " DATO' DR. ABDULLAH MD ZIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "473",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "49303"
+  },
+  {
+    "voters_turnout": "85.88",
+    "constituency_code": "P.34",
+    "total_registered_voters": "54520",
+    "state": "Terengganu",
+    "constituency_name": "SETIU",
+    "majority": "7232",
+    "winner_name": "DATUK MOHD JIDIN SHAFEE",
+    "spoilt_votes": "833",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "26610",
+        "name": " DATUK MOHD JIDIN SHAFEE"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "19378",
+        "name": " USTAZ MOHD PAUZI MUDA"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "46821"
+  },
+  {
+    "voters_turnout": "85.36",
+    "constituency_code": "P.35",
+    "total_registered_voters": "61214",
+    "state": "Terengganu",
+    "constituency_name": "KUALA NERUS",
+    "majority": "1341",
+    "winner_name": "DATO' MOHD NASIR IBRAHIM FIKRI",
+    "spoilt_votes": "713",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "25098",
+        "name": " CIKGU SHUKRIMUN SHAMSUDIN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "26439",
+        "name": " DATO' MOHD NASIR IBRAHIM FIKRI"
+      }
+    ],
+    "unreturned_ballot_sheets": "289",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "52539"
+  },
+  {
+    "voters_turnout": "82.31",
+    "constituency_code": "P.36",
+    "total_registered_voters": "80325",
+    "state": "Terengganu",
+    "constituency_name": "KUALA TERENGGANU",
+    "majority": "628",
+    "winner_name": "DATO' RAZALI ISMAIL",
+    "spoilt_votes": "931",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "32562",
+        "name": " DATO' RAZALI ISMAIL"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "685",
+        "name": " MAIMUN YUSUF"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "31934",
+        "name": " HJ. MOHAMAD SABU"
+      }
+    ],
+    "unreturned_ballot_sheets": "119",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "66231"
+  },
+  {
+    "voters_turnout": "86.79",
+    "constituency_code": "P.37",
+    "total_registered_voters": "74813",
+    "state": "Terengganu",
+    "constituency_name": "MARANG",
+    "majority": "2747",
+    "winner_name": "DATUK SERI ABDUL HADI AWANG",
+    "spoilt_votes": "806",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "30688",
+        "name": " DATO' DR. AHMAD RAMZI MOHAMAD ZUBIR"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "33435",
+        "name": " DATUK SERI ABDUL HADI AWANG"
+      }
+    ],
+    "unreturned_ballot_sheets": "79",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "65008"
+  },
+  {
+    "voters_turnout": "87.25",
+    "constituency_code": "P.38",
+    "total_registered_voters": "52515",
+    "state": "Terengganu",
+    "constituency_name": "HULU TERENGGANU",
+    "majority": "10460",
+    "winner_name": "HJ. MOHD NOR OTHMAN",
+    "spoilt_votes": "709",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "27784",
+        "name": " HJ. MOHD NOR OTHMAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "17324",
+        "name": " KAMARUZAMAN ABDULLAH"
+      }
+    ],
+    "unreturned_ballot_sheets": "154",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "45971"
+  },
+  {
+    "voters_turnout": "83.98",
+    "constituency_code": "P.39",
+    "total_registered_voters": "64851",
+    "state": "Terengganu",
+    "constituency_name": "DUNGUN",
+    "majority": "4994",
+    "winner_name": "DATUK MATULIDI JUSOH",
+    "spoilt_votes": "930",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "29264",
+        "name": " DATUK MATULIDI JUSOH"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "24270",
+        "name": " SHAMSUL ISKANDAR MOHD AKIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "54464"
+  },
+  {
+    "voters_turnout": "83.72",
+    "constituency_code": "P.40",
+    "total_registered_voters": "75006",
+    "state": "Terengganu",
+    "constituency_name": "KEMAMAN",
+    "majority": "12683",
+    "winner_name": "DATUK SERI AHMAD SHABERY CHEEK",
+    "spoilt_votes": "1077",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "24516",
+        "name": " FARIZ MUSA"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "37199",
+        "name": " DATUK SERI AHMAD SHABERY CHEEK"
+      }
+    ],
+    "unreturned_ballot_sheets": "76",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "62868"
+  },
+  {
+    "voters_turnout": "84.33",
+    "constituency_code": "P.41",
+    "total_registered_voters": "43019",
+    "state": "Pulau Pinang",
+    "constituency_name": "KEPALA BATAS",
+    "majority": "11246",
+    "winner_name": "DATO' SERI ABDULLAH HJ. AHMAD BADAWI",
+    "spoilt_votes": "634",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "12199",
+        "name": " USTAZ SUBRI ARSHAD"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "23445",
+        "name": " DATO' SERI ABDULLAH HJ. AHMAD BADAWI"
+      }
+    ],
+    "unreturned_ballot_sheets": "50",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "36328"
+  },
+  {
+    "voters_turnout": "83.09",
+    "constituency_code": "P.42",
+    "total_registered_voters": "44466",
+    "state": "Pulau Pinang",
+    "constituency_name": "TASEK GELUGOR",
+    "majority": "4547",
+    "winner_name": "TAN SRI NOR MOHAMED YAKCOP",
+    "spoilt_votes": "600",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "15901",
+        "name": " CIKGU ISMAIL SALLEH"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "20448",
+        "name": " TAN SRI NOR MOHAMED YAKCOP"
+      }
+    ],
+    "unreturned_ballot_sheets": "359",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "37308"
+  },
+  {
+    "voters_turnout": "77.78",
+    "constituency_code": "P.43",
+    "total_registered_voters": "59385",
+    "state": "Pulau Pinang",
+    "constituency_name": "BAGAN",
+    "majority": "22070",
+    "winner_name": "LIM GUAN ENG",
+    "spoilt_votes": "766",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "33748",
+        "name": " LIM GUAN ENG"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "11678",
+        "name": " SONG CHOY LENG"
+      }
+    ],
+    "unreturned_ballot_sheets": "35",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "46227"
+  },
+  {
+    "voters_turnout": "82.01",
+    "constituency_code": "P.44",
+    "total_registered_voters": "58449",
+    "state": "Pulau Pinang",
+    "constituency_name": "PERMATANG PAUH",
+    "majority": "13398",
+    "winner_name": "DATIN SERI WAN AZIZAH",
+    "spoilt_votes": "636",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "16950",
+        "name": " DATO' PIRDAUS HJ. ISMAIL"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "30348",
+        "name": " DATIN SERI WAN AZIZAH"
+      }
+    ],
+    "unreturned_ballot_sheets": "29",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "47963"
+  },
+  {
+    "voters_turnout": "79.27",
+    "constituency_code": "P.45",
+    "total_registered_voters": "64080",
+    "state": "Pulau Pinang",
+    "constituency_name": "BUKIT MERTAJAM",
+    "majority": "25897",
+    "winner_name": "CHONG ENG",
+    "spoilt_votes": "931",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "37882",
+        "name": " CHONG ENG"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "11985",
+        "name": " ONG TANG CHUAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "25",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "50823"
+  },
+  {
+    "voters_turnout": "78.71",
+    "constituency_code": "P.46",
+    "total_registered_voters": "47378",
+    "state": "Pulau Pinang",
+    "constituency_name": "BATU KAWAN",
+    "majority": "9485",
+    "winner_name": "P. RAMASAMY",
+    "spoilt_votes": "640",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "23067",
+        "name": " P. RAMASAMY"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "13582",
+        "name": " KOH TSU KOON"
+      }
+    ],
+    "unreturned_ballot_sheets": "3",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "37292"
+  },
+  {
+    "voters_turnout": "80.18",
+    "constituency_code": "P.47",
+    "total_registered_voters": "47540",
+    "state": "Pulau Pinang",
+    "constituency_name": "NIBONG TEBAL",
+    "majority": "3087",
+    "winner_name": "TAN TEE BENG",
+    "spoilt_votes": "784",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "17123",
+        "name": " DATUK ZAINAL ABIDIN OSMAN"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "20210",
+        "name": " TAN TEE BENG"
+      }
+    ],
+    "unreturned_ballot_sheets": "12",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "38129"
+  },
+  {
+    "voters_turnout": "72.84",
+    "constituency_code": "P.48",
+    "total_registered_voters": "64545",
+    "state": "Pulau Pinang",
+    "constituency_name": "BUKIT BENDERA",
+    "majority": "16112",
+    "winner_name": "LIEW CHIN TONG",
+    "spoilt_votes": "642",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "31243",
+        "name": " LIEW CHIN TONG"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "15131",
+        "name": " DATUK SERI CHIA KWANG CHYE"
+      }
+    ],
+    "unreturned_ballot_sheets": "89",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "47105"
+  },
+  {
+    "voters_turnout": "72.64",
+    "constituency_code": "P.49",
+    "total_registered_voters": "53188",
+    "state": "Pulau Pinang",
+    "constituency_name": "TANJONG",
+    "majority": "18489",
+    "winner_name": "CHOW KON YEOW",
+    "spoilt_votes": "631",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "9759",
+        "name": " KHAW VEON SZU"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "28248",
+        "name": " CHOW KON YEOW"
+      }
+    ],
+    "unreturned_ballot_sheets": "96",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "38734"
+  },
+  {
+    "voters_turnout": "75.78",
+    "constituency_code": "P.50",
+    "total_registered_voters": "61181",
+    "state": "Pulau Pinang",
+    "constituency_name": "JELUTONG",
+    "majority": "16246",
+    "winner_name": "JEFF OOI",
+    "spoilt_votes": "743",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "30493",
+        "name": " JEFF OOI"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "882",
+        "name": " BADRUL ZAMAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "14247",
+        "name": " DR. THOR TEONG GEE"
+      }
+    ],
+    "unreturned_ballot_sheets": "41",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "46406"
+  },
+  {
+    "voters_turnout": "76.16",
+    "constituency_code": "P.51",
+    "total_registered_voters": "65614",
+    "state": "Pulau Pinang",
+    "constituency_name": "BUKIT GELUGOR",
+    "majority": "21015",
+    "winner_name": "KARPAL SINGH RAM SINGH",
+    "spoilt_votes": "707",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "14125",
+        "name": " KOAY KAR HUAH"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "35140",
+        "name": " KARPAL SINGH RAM SINGH"
+      }
+    ],
+    "unreturned_ballot_sheets": "581",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "50553"
+  },
+  {
+    "voters_turnout": "73.89",
+    "constituency_code": "P.52",
+    "total_registered_voters": "60713",
+    "state": "Pulau Pinang",
+    "constituency_name": "BAYAN BARU",
+    "majority": "11029",
+    "winner_name": "DATO' ZAHRAIN",
+    "spoilt_votes": "655",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "16589",
+        "name": " OOI SIEW KIM"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "27618",
+        "name": " DATO' ZAHRAIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "1556",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "46418"
+  },
+  {
+    "voters_turnout": "78.94",
+    "constituency_code": "P.53",
+    "total_registered_voters": "39765",
+    "state": "Pulau Pinang",
+    "constituency_name": "BALIK PULAU",
+    "majority": "708",
+    "winner_name": "YUSMADI YUSOF",
+    "spoilt_votes": "601",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "15041",
+        "name": " DATO' DR. NORRAESAH"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "15749",
+        "name": " YUSMADI YUSOF"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "31391"
+  },
+  {
+    "voters_turnout": "76.74",
+    "constituency_code": "P.54",
+    "total_registered_voters": "26229",
+    "state": "Perak",
+    "constituency_name": "GERIK",
+    "majority": "5573",
+    "winner_name": "DATUK TAN LIAN HOE",
+    "spoilt_votes": "649",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "12526",
+        "name": " DATUK TAN LIAN HOE"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "6953",
+        "name": " MOHD NOOR"
+      }
+    ],
+    "unreturned_ballot_sheets": "365",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "20493"
+  },
+  {
+    "voters_turnout": "74.82",
+    "constituency_code": "P.55",
+    "total_registered_voters": "23223",
+    "state": "Perak",
+    "constituency_name": "LENGGONG",
+    "majority": "4919",
+    "winner_name": "DATUK SHAMSUL ANUAR NASARAH",
+    "spoilt_votes": "311",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "10992",
+        "name": " DATUK SHAMSUL ANUAR NASARAH"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "6073",
+        "name": " USTAZ MUHAMAD ZULKIFLI MOHAMAD ZAKARIA"
+      }
+    ],
+    "unreturned_ballot_sheets": "60",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "17436"
+  },
+  {
+    "voters_turnout": "76.91",
+    "constituency_code": "P.56",
+    "total_registered_voters": "39697",
+    "state": "Perak",
+    "constituency_name": "LARUT",
+    "majority": "1911",
+    "winner_name": "DATUK HAMZAH ZAINUDIN",
+    "spoilt_votes": "687",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "13967",
+        "name": " DR. HJ. MOHD. DHARI OTHMAN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "15878",
+        "name": " DATUK HAMZAH ZAINUDIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "57",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "30589"
+  },
+  {
+    "voters_turnout": "78.53",
+    "constituency_code": "P.57",
+    "total_registered_voters": "45219",
+    "state": "Perak",
+    "constituency_name": "PARIT BUNTAR",
+    "majority": "7551",
+    "winner_name": "DATUK DR. MUJAHID YUSOF",
+    "spoilt_votes": "618",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "21221",
+        "name": " DATUK DR. MUJAHID YUSOF"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "13670",
+        "name": " DATO' ABDUL RAMAN SULIMAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "83",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "35592"
+  },
+  {
+    "voters_turnout": "75.69",
+    "constituency_code": "P.58",
+    "total_registered_voters": "47111",
+    "state": "Perak",
+    "constituency_name": "BAGAN SERAI",
+    "majority": "3413",
+    "winner_name": "MOHSIN FADZLI HJ. SAMSURI",
+    "spoilt_votes": "1186",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "18943",
+        "name": " MOHSIN FADZLI HJ. SAMSURI"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "15530",
+        "name": " DATO' ZAINAL ABIDIN ZIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "52",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "35711"
+  },
+  {
+    "voters_turnout": "72.45",
+    "constituency_code": "P.59",
+    "total_registered_voters": "55471",
+    "state": "Perak",
+    "constituency_name": "BUKIT GANTANG",
+    "majority": "1566",
+    "winner_name": "HJ. ROSLAN SHAHARUM",
+    "spoilt_votes": "851",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "872",
+        "name": " MORGAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "18449",
+        "name": " DATO' SERI ABDUL AZIM MOHD ZABIDI"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "20015",
+        "name": " HJ. ROSLAN SHAHARUM"
+      }
+    ],
+    "unreturned_ballot_sheets": "114",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "40301"
+  },
+  {
+    "voters_turnout": "70.59",
+    "constituency_code": "P.60",
+    "total_registered_voters": "65889",
+    "state": "Perak",
+    "constituency_name": "TAIPING",
+    "majority": "11298",
+    "winner_name": "NGA KOR MING",
+    "spoilt_votes": "1612",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "16800",
+        "name": " M. KAYVEAS"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "28098",
+        "name": " NGA KOR MING"
+      }
+    ],
+    "unreturned_ballot_sheets": "613",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "47123"
+  },
+  {
+    "voters_turnout": "74.90",
+    "constituency_code": "P.61",
+    "total_registered_voters": "24397",
+    "state": "Perak",
+    "constituency_name": "PADANG RENGAS",
+    "majority": "1749",
+    "winner_name": "DATUK SERI MOHAMED NAZRI ABD AZIZ",
+    "spoilt_votes": "362",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "8081",
+        "name": " ALIAS ZENON"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "9830",
+        "name": " DATUK SERI MOHAMED NAZRI ABD AZIZ"
+      }
+    ],
+    "unreturned_ballot_sheets": "77",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "18350"
+  },
+  {
+    "voters_turnout": "70.00",
+    "constituency_code": "P.62",
+    "total_registered_voters": "47424",
+    "state": "Perak",
+    "constituency_name": "SUNGAI SIPUT",
+    "majority": "2466",
+    "winner_name": "DR. KUMAR",
+    "spoilt_votes": "1002",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "14408",
+        "name": " DATO S. SAMY VELLU"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "16874",
+        "name": " DR. KUMAR"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "870",
+        "name": " NOR RIZAN OON"
+      }
+    ],
+    "unreturned_ballot_sheets": "93",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "33247"
+  },
+  {
+    "voters_turnout": "74.57",
+    "constituency_code": "P.63",
+    "total_registered_voters": "68966",
+    "state": "Perak",
+    "constituency_name": "TAMBUN",
+    "majority": "5386",
+    "winner_name": "DATUK SERI AHMAD HUSNI MOHAMAD HANADZLAH",
+    "spoilt_votes": "927",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "27942",
+        "name": " DATUK SERI AHMAD HUSNI MOHAMAD HANADZLAH"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "22556",
+        "name": " MOHAMAD ASRI"
+      }
+    ],
+    "unreturned_ballot_sheets": "419",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "51844"
+  },
+  {
+    "voters_turnout": "69.79",
+    "constituency_code": "P.64",
+    "total_registered_voters": "76647",
+    "state": "Perak",
+    "constituency_name": "IPOH TIMOR",
+    "majority": "22043",
+    "winner_name": "LIM KIT SIANG",
+    "spoilt_votes": "708",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "37414",
+        "name": " LIM KIT SIANG"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "15371",
+        "name": " LIEW MUN HON"
+      }
+    ],
+    "unreturned_ballot_sheets": "501",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "53994"
+  },
+  {
+    "voters_turnout": "72.30",
+    "constituency_code": "P.65",
+    "total_registered_voters": "69773",
+    "state": "Perak",
+    "constituency_name": "IPOH BARAT",
+    "majority": "15534",
+    "winner_name": "M. KULA SEGARAN",
+    "spoilt_votes": "829",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "17042",
+        "name": " YIK PHOOI HONG"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "32576",
+        "name": " M. KULA SEGARAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "194",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "50641"
+  },
+  {
+    "voters_turnout": "72.60",
+    "constituency_code": "P.66",
+    "total_registered_voters": "77313",
+    "state": "Perak",
+    "constituency_name": "BATU GAJAH",
+    "majority": "24627",
+    "winner_name": "FONG PO KUAN",
+    "spoilt_votes": "911",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "15295",
+        "name": " CHEAH YOKE CAN"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "39922",
+        "name": " FONG PO KUAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "142",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "56270"
+  },
+  {
+    "voters_turnout": "71.97",
+    "constituency_code": "P.67",
+    "total_registered_voters": "28325",
+    "state": "Perak",
+    "constituency_name": "KUALA KANGSAR",
+    "majority": "1458",
+    "winner_name": "RAFIDAH AZIZ",
+    "spoilt_votes": "373",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "10735",
+        "name": " RAFIDAH AZIZ"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "9277",
+        "name": " DR. HJ. KHAIRUDDIN DATO' HJ. ABD MALIK"
+      }
+    ],
+    "unreturned_ballot_sheets": "388",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "20773"
+  },
+  {
+    "voters_turnout": "71.00",
+    "constituency_code": "P.68",
+    "total_registered_voters": "43273",
+    "state": "Perak",
+    "constituency_name": "BERUAS",
+    "majority": "1828",
+    "winner_name": "NGEH KOO HAM",
+    "spoilt_votes": "889",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "15831",
+        "name": " NGEH KOO HAM"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "14003",
+        "name": " DATUK CHANG KO YOUN"
+      }
+    ],
+    "unreturned_ballot_sheets": "98",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "30821"
+  },
+  {
+    "voters_turnout": "77.59",
+    "constituency_code": "P.69",
+    "total_registered_voters": "28859",
+    "state": "Perak",
+    "constituency_name": "PARIT",
+    "majority": "2873",
+    "winner_name": "MOHD NIZAR ZAKARIA",
+    "spoilt_votes": "467",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "9526",
+        "name": " NAJIHATUSSALEHAH AHMAD"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "12399",
+        "name": " MOHD NIZAR ZAKARIA"
+      }
+    ],
+    "unreturned_ballot_sheets": "113",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "22505"
+  },
+  {
+    "voters_turnout": "64.57",
+    "constituency_code": "P.70",
+    "total_registered_voters": "59784",
+    "state": "Perak",
+    "constituency_name": "KAMPAR",
+    "majority": "2697",
+    "winner_name": "DATUK LEE CHEE LEONG",
+    "spoilt_votes": "1048",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "20126",
+        "name": " DATUK LEE CHEE LEONG"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "17429",
+        "name": " KEONG MENG SING"
+      }
+    ],
+    "unreturned_ballot_sheets": "350",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "38953"
+  },
+  {
+    "voters_turnout": "71.70",
+    "constituency_code": "P.71",
+    "total_registered_voters": "74344",
+    "state": "Perak",
+    "constituency_name": "GOPENG",
+    "majority": "7368",
+    "winner_name": "DR. LEE BOON CHYE",
+    "spoilt_votes": "1279",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "22328",
+        "name": " LING HEE LEONG"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "29696",
+        "name": " DR. LEE BOON CHYE"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "53303"
+  },
+  {
+    "voters_turnout": "69.02",
+    "constituency_code": "P.72",
+    "total_registered_voters": "38236",
+    "state": "Perak",
+    "constituency_name": "TAPAH",
+    "majority": "3020",
+    "winner_name": "DATUK SARAVANAN MURUGAN",
+    "spoilt_votes": "1390",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "14084",
+        "name": " DATUK SARAVANAN MURUGAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "11064",
+        "name": " S. T. TAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "244",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "26782"
+  },
+  {
+    "voters_turnout": "75.20",
+    "constituency_code": "P.73",
+    "total_registered_voters": "42712",
+    "state": "Perak",
+    "constituency_name": "PASIR SALAK",
+    "majority": "2688",
+    "winner_name": "DATUK TAJUDDIN ABDUL RAHMAN",
+    "spoilt_votes": "950",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "16928",
+        "name": " DATUK TAJUDDIN ABDUL RAHMAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "14240",
+        "name": " MUSTAFFA KAMIL AYUB"
+      }
+    ],
+    "unreturned_ballot_sheets": "1",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "32119"
+  },
+  {
+    "voters_turnout": "72.81",
+    "constituency_code": "P.74",
+    "total_registered_voters": "72763",
+    "state": "Perak",
+    "constituency_name": "LUMUT",
+    "majority": "298",
+    "winner_name": "DATUK SERI KONG CHO HA",
+    "spoilt_votes": "1884",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "25400",
+        "name": " HJ. SUWARDI HJ. SAPUAN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "25698",
+        "name": " DATUK SERI KONG CHO HA"
+      }
+    ],
+    "unreturned_ballot_sheets": "2948",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "55930"
+  },
+  {
+    "voters_turnout": "70.24",
+    "constituency_code": "P.75",
+    "total_registered_voters": "34670",
+    "state": "Perak",
+    "constituency_name": "BAGAN DATOH",
+    "majority": "2692",
+    "winner_name": "DATUK SERI DR AHMAD ZAHID HAMIDI",
+    "spoilt_votes": "814",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "13115",
+        "name": " DATUK SERI DR AHMAD ZAHID HAMIDI"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "10423",
+        "name": " MADHI HASAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "62",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "24414"
+  },
+  {
+    "voters_turnout": "70.01",
+    "constituency_code": "P.76",
+    "total_registered_voters": "52354",
+    "state": "Perak",
+    "constituency_name": "TELOK INTAN",
+    "majority": "1470",
+    "winner_name": "M. MANOGARAN",
+    "spoilt_votes": "1153",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "17016",
+        "name": " DATUK MAH SIEW KEONG"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "18486",
+        "name": " M. MANOGARAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "76",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "36731"
+  },
+  {
+    "voters_turnout": "70.97",
+    "constituency_code": "P.77",
+    "total_registered_voters": "53481",
+    "state": "Perak",
+    "constituency_name": "TANJONG MALIM",
+    "majority": "5422",
+    "winner_name": "DATUK SERI ONG KA CHUAN",
+    "spoilt_votes": "1344",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "21016",
+        "name": " DATUK SERI ONG KA CHUAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "15594",
+        "name": " MOHAMAD AZMAN MARJOHAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "153",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "38107"
+  },
+  {
+    "voters_turnout": "69.89",
+    "constituency_code": "P.78",
+    "total_registered_voters": "23461",
+    "state": "Pahang",
+    "constituency_name": "CAMERON HIGHLANDS",
+    "majority": "3117",
+    "winner_name": "S. K. DEVAMANY",
+    "spoilt_votes": "1186",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "9164",
+        "name": " S. K. DEVAMANY"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "6047",
+        "name": " J. APALASAMY"
+      }
+    ],
+    "unreturned_ballot_sheets": "59",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "16456"
+  },
+  {
+    "voters_turnout": "76.15",
+    "constituency_code": "P.79",
+    "total_registered_voters": "28425",
+    "state": "Pahang",
+    "constituency_name": "LIPIS",
+    "majority": "4137",
+    "winner_name": "DATO' SHAHRUM OSMAN",
+    "spoilt_votes": "561",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "8474",
+        "name": " DR. MOHAMED NILAM"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "12611",
+        "name": " DATO' SHAHRUM OSMAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "112",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "21758"
+  },
+  {
+    "voters_turnout": "73.88",
+    "constituency_code": "P.80",
+    "total_registered_voters": "46454",
+    "state": "Pahang",
+    "constituency_name": "RAUB",
+    "majority": "2752",
+    "winner_name": "DATO' DR NG YEN YEN",
+    "spoilt_votes": "915",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "18078",
+        "name": " DATO' DR NG YEN YEN"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "15326",
+        "name": " ABU BAKAR LEBAI SUDIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "140",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "34459"
+  },
+  {
+    "voters_turnout": "77.79",
+    "constituency_code": "P.81",
+    "total_registered_voters": "48812",
+    "state": "Pahang",
+    "constituency_name": "JERANTUT",
+    "majority": "1946",
+    "winner_name": "TENGKU AZLAN IBNI SULTAN ABU BAKAR",
+    "spoilt_votes": "829",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "17597",
+        "name": " DR. HAMZAH"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19543",
+        "name": " TENGKU AZLAN IBNI SULTAN ABU BAKAR"
+      }
+    ],
+    "unreturned_ballot_sheets": "109",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "38078"
+  },
+  {
+    "voters_turnout": "76.68",
+    "constituency_code": "P.82",
+    "total_registered_voters": "51235",
+    "state": "Pahang",
+    "constituency_name": "INDERA MAHKOTA",
+    "majority": "1027",
+    "winner_name": "AZAN ISMAIL",
+    "spoilt_votes": "668",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "18796",
+        "name": " SALAMON ALI RIZAL HJ. ABDUL RAHMAN"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "19823",
+        "name": " AZAN ISMAIL"
+      }
+    ],
+    "unreturned_ballot_sheets": "390",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "39677"
+  },
+  {
+    "voters_turnout": "74.55",
+    "constituency_code": "P.83",
+    "total_registered_voters": "47745",
+    "state": "Pahang",
+    "constituency_name": "KUANTAN",
+    "majority": "1826",
+    "winner_name": "FUZIAH SALLEH",
+    "spoilt_votes": "623",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "16572",
+        "name": " FU AH KIOW"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "18398",
+        "name": " FUZIAH SALLEH"
+      }
+    ],
+    "unreturned_ballot_sheets": "179",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "35772"
+  },
+  {
+    "voters_turnout": "77.34",
+    "constituency_code": "P.84",
+    "total_registered_voters": "39882",
+    "state": "Pahang",
+    "constituency_name": "PAYA BESAR",
+    "majority": "8503",
+    "winner_name": "ABDUL MANAN ISMAIL",
+    "spoilt_votes": "637",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "10852",
+        "name": " MOHD JAFRI HJ. AB RASHID"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19355",
+        "name": " ABDUL MANAN ISMAIL"
+      }
+    ],
+    "unreturned_ballot_sheets": "44",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "30888"
+  },
+  {
+    "voters_turnout": "81.28",
+    "constituency_code": "P.85",
+    "total_registered_voters": "58217",
+    "state": "Pahang",
+    "constituency_name": "PEKAN",
+    "majority": "26464",
+    "winner_name": "DATUK SERI MOHD NAJIB TUN ABD RAZAK",
+    "spoilt_votes": "1261",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "9798",
+        "name": " KHAIRUL ANUAR"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "36262",
+        "name": " DATUK SERI MOHD NAJIB TUN ABD RAZAK"
+      }
+    ],
+    "unreturned_ballot_sheets": "549",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "47870"
+  },
+  {
+    "voters_turnout": "78.70",
+    "constituency_code": "P.86",
+    "total_registered_voters": "32517",
+    "state": "Pahang",
+    "constituency_name": "MARAN",
+    "majority": "6641",
+    "winner_name": "DATO' HJ. ISMAIL HJ. ABD MUTTALIB",
+    "spoilt_votes": "495",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "9227",
+        "name": " USTAZ NASRUDIN TANTAWI"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "15868",
+        "name": " DATO' HJ. ISMAIL HJ. ABD MUTTALIB"
+      }
+    ],
+    "unreturned_ballot_sheets": "82",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "25672"
+  },
+  {
+    "voters_turnout": "80.68",
+    "constituency_code": "P.87",
+    "total_registered_voters": "34139",
+    "state": "Pahang",
+    "constituency_name": "KUALA KRAU",
+    "majority": "5265",
+    "winner_name": "HJ. ISMAIL HJ. MOHAMED SAID",
+    "spoilt_votes": "479",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "16165",
+        "name": " HJ. ISMAIL HJ. MOHAMED SAID"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "10900",
+        "name": " KAMAL ASHAARI"
+      }
+    ],
+    "unreturned_ballot_sheets": "50",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "27594"
+  },
+  {
+    "voters_turnout": "76.37",
+    "constituency_code": "P.88",
+    "total_registered_voters": "54010",
+    "state": "Pahang",
+    "constituency_name": "TEMERLOH",
+    "majority": "2441",
+    "winner_name": "DATO' SAIFUDDIN ABDULLAH",
+    "spoilt_votes": "924",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "21381",
+        "name": " DATO' SAIFUDDIN ABDULLAH"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "18940",
+        "name": " AHMAD NIZAM HAMID"
+      }
+    ],
+    "unreturned_ballot_sheets": "218",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "41463"
+  },
+  {
+    "voters_turnout": "72.70",
+    "constituency_code": "P.89",
+    "total_registered_voters": "53651",
+    "state": "Pahang",
+    "constituency_name": "BENTONG",
+    "majority": "12549",
+    "winner_name": "LIOW TIONG LAI",
+    "spoilt_votes": "1285",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "12585",
+        "name": " PONUSAMY @ RAM"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "25134",
+        "name": " LIOW TIONG LAI"
+      }
+    ],
+    "unreturned_ballot_sheets": "164",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "39168"
+  },
+  {
+    "voters_turnout": "76.91",
+    "constituency_code": "P.90",
+    "total_registered_voters": "42993",
+    "state": "Pahang",
+    "constituency_name": "BERA",
+    "majority": "4313",
+    "winner_name": "DATUK SERI ISMAIL SABRI YAAKOB",
+    "spoilt_votes": "783",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "13984",
+        "name": " MAZLAN ALIMAN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "18297",
+        "name": "  DATUK SERI ISMAIL SABRI YAAKOB"
+      }
+    ],
+    "unreturned_ballot_sheets": "59",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "33123"
+  },
+  {
+    "voters_turnout": "78.56",
+    "constituency_code": "P.91",
+    "total_registered_voters": "41701",
+    "state": "Pahang",
+    "constituency_name": "ROMPIN",
+    "majority": "10679",
+    "winner_name": "DATUK SERI DR. JAMALUDIN JARJIS",
+    "spoilt_votes": "824",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "10629",
+        "name": " MAZLAN MOHD YASIN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "21308",
+        "name": " DATUK SERI DR. JAMALUDIN JARJIS"
+      }
+    ],
+    "unreturned_ballot_sheets": "169",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "32930"
+  },
+  {
+    "voters_turnout": "74.84",
+    "constituency_code": "P.92",
+    "total_registered_voters": "31381",
+    "state": "Selangor",
+    "constituency_name": "SABAK BERNAM",
+    "majority": "1335",
+    "winner_name": "ABD RAHMAN BAKRI",
+    "spoilt_votes": "711",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "12055",
+        "name": " ABD RAHMAN BAKRI"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "10720",
+        "name": " DR. BADRUL AMIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "95",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "23581"
+  },
+  {
+    "voters_turnout": "80.67",
+    "constituency_code": "P.93",
+    "total_registered_voters": "34073",
+    "state": "Selangor",
+    "constituency_name": "SUNGAI BESAR",
+    "majority": "4711",
+    "winner_name": "NORIAH KASNON",
+    "spoilt_votes": "656",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "11060",
+        "name": " PROF. MADYA (B) DR. OSMAN SABRAN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "15771",
+        "name": " NORIAH KASNON"
+      }
+    ],
+    "unreturned_ballot_sheets": "440",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "27927"
+  },
+  {
+    "voters_turnout": "74.89",
+    "constituency_code": "P.94",
+    "total_registered_voters": "63593",
+    "state": "Selangor",
+    "constituency_name": "HULU SELANGOR",
+    "majority": "198",
+    "winner_name": "DATO' DR. ZAINAL ABIDIN AHMAD",
+    "spoilt_votes": "1466",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "22979",
+        "name": " DATUK SERI G.PALANIVEL"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "23177",
+        "name": " DATO' DR. ZAINAL ABIDIN AHMAD"
+      }
+    ],
+    "unreturned_ballot_sheets": "223",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "47845"
+  },
+  {
+    "voters_turnout": "79.69",
+    "constituency_code": "P.95",
+    "total_registered_voters": "36391",
+    "state": "Selangor",
+    "constituency_name": "TANJONG KARANG",
+    "majority": "3820",
+    "winner_name": "DATO' NOH OMAR",
+    "spoilt_votes": "674",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "16073",
+        "name": " DATO' NOH OMAR"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "12253",
+        "name": " MOHAMED HANIPA MAIDIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "52",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "29052"
+  },
+  {
+    "voters_turnout": "79.71",
+    "constituency_code": "P.96",
+    "total_registered_voters": "47203",
+    "state": "Selangor",
+    "constituency_name": "KUALA SELANGOR",
+    "majority": "862",
+    "winner_name": "DR. HJ. DZULKEFLY AHMAD",
+    "spoilt_votes": "894",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "17934",
+        "name": " HJ. JAHAYA IBRAHIM"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "18796",
+        "name": " DR. HJ. DZULKEFLY AHMAD"
+      }
+    ],
+    "unreturned_ballot_sheets": "47",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "37671"
+  },
+  {
+    "voters_turnout": "76.26",
+    "constituency_code": "P.97",
+    "total_registered_voters": "79557",
+    "state": "Selangor",
+    "constituency_name": "SELAYANG",
+    "majority": "3567",
+    "winner_name": "WILLIAM LEONG JEE KEEN",
+    "spoilt_votes": "1506",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PRM",
+        "votes": "1332",
+        "name": " KOH SWE YONG"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "27134",
+        "name": " LEE LI YEW"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "30701",
+        "name": " WILLIAM LEONG JEE KEEN"
+      }
+    ],
+    "unreturned_ballot_sheets": "247",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "60920"
+  },
+  {
+    "voters_turnout": "290.13",
+    "constituency_code": "P.98",
+    "total_registered_voters": "25720",
+    "state": "Selangor",
+    "constituency_name": "GOMBAK",
+    "majority": "6867",
+    "winner_name": "MOHAMED AZMIN ALI",
+    "spoilt_votes": "820",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "33467",
+        "name": " DATUK SAID ANUAR SAID AHMAD  "
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "40334",
+        "name": " MOHAMED AZMIN ALI"
+      }
+    ],
+    "unreturned_ballot_sheets": "998",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "75619"
+  },
+  {
+    "voters_turnout": "73.70",
+    "constituency_code": "P.99",
+    "total_registered_voters": "69132",
+    "state": "Selangor",
+    "constituency_name": "AMPANG",
+    "majority": "3676",
+    "winner_name": "ZURAIDA KAMARUDDIN",
+    "spoilt_votes": "636",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "23319",
+        "name": " AZMAN WAHID"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "26995",
+        "name": " ZURAIDA KAMARUDDIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "147",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "51097"
+  },
+  {
+    "voters_turnout": "74.90",
+    "constituency_code": "P.100",
+    "total_registered_voters": "64497",
+    "state": "Selangor",
+    "constituency_name": "PANDAN",
+    "majority": "2961",
+    "winner_name": "DATUK ONG TEE KIAT",
+    "spoilt_votes": "798",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "25236",
+        "name": " DATUK ONG TEE KIAT"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "22275",
+        "name": " SYED SHAHIR SYED MOHAMAD"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "48309"
+  },
+  {
+    "voters_turnout": "79.61",
+    "constituency_code": "P.101",
+    "total_registered_voters": "90319",
+    "state": "Selangor",
+    "constituency_name": "HULU LANGAT",
+    "majority": "1745",
+    "winner_name": "DR. CHE ROSLI CHE MAT",
+    "spoilt_votes": "1401",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "34379",
+        "name": " DATO' MARKIMAN KOBIRAN"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "36124",
+        "name": " DR. CHE ROSLI CHE MAT"
+      }
+    ],
+    "unreturned_ballot_sheets": "418",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "72322"
+  },
+  {
+    "voters_turnout": "80.04",
+    "constituency_code": "P.102",
+    "total_registered_voters": "94877",
+    "state": "Selangor",
+    "constituency_name": "SERDANG",
+    "majority": "21025",
+    "winner_name": "TEO NIE CHING",
+    "spoilt_votes": "2072",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "26419",
+        "name": " DATO' HOH HEE LEE"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "47444",
+        "name": " TEO NIE CHING"
+      }
+    ],
+    "unreturned_ballot_sheets": "301",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "76236"
+  },
+  {
+    "voters_turnout": "78.21",
+    "constituency_code": "P.103",
+    "total_registered_voters": "75625",
+    "state": "Selangor",
+    "constituency_name": "PUCHONG",
+    "majority": "12593",
+    "winner_name": "GOBIND SINGH DEO",
+    "spoilt_votes": "1580",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "22486",
+        "name": " LAU YENG PENG"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "35079",
+        "name": " GOBIND SINGH DEO"
+      }
+    ],
+    "unreturned_ballot_sheets": "172",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "59317"
+  },
+  {
+    "voters_turnout": "73.48",
+    "constituency_code": "P.104",
+    "total_registered_voters": "79648",
+    "state": "Selangor",
+    "constituency_name": "KELANA JAYA",
+    "majority": "5000",
+    "winner_name": "GWO-BURNE LOH",
+    "spoilt_votes": "1065",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "1895",
+        "name": " BILLI LIM"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "30298",
+        "name": " GWO-BURNE LOH"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "25298",
+        "name": " LEE HWA BENG"
+      }
+    ],
+    "unreturned_ballot_sheets": "100",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "58625"
+  },
+  {
+    "voters_turnout": "72.00",
+    "constituency_code": "P.105",
+    "total_registered_voters": "73192",
+    "state": "Selangor",
+    "constituency_name": "PETALING JAYA SELATAN",
+    "majority": "5706",
+    "winner_name": "HEE LOY SIAN",
+    "spoilt_votes": "1044",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "22892",
+        "name": " DATO' IR. DONALD LIM SIANG CHAI"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "28598",
+        "name": " HEE LOY SIAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "97",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "52631"
+  },
+  {
+    "voters_turnout": "73.43",
+    "constituency_code": "P.106",
+    "total_registered_voters": "76618",
+    "state": "Selangor",
+    "constituency_name": "PETALING JAYA UTARA",
+    "majority": "19972",
+    "winner_name": "PUA KIAM WEE",
+    "spoilt_votes": "527",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "37851",
+        "name": " PUA KIAM WEE"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "17879",
+        "name": " CHEW MEI FUN"
+      }
+    ],
+    "unreturned_ballot_sheets": "38",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "56295"
+  },
+  {
+    "voters_turnout": "77.50",
+    "constituency_code": "P.107",
+    "total_registered_voters": "84414",
+    "state": "Selangor",
+    "constituency_name": "SUBANG",
+    "majority": "6709",
+    "winner_name": "SIVARASA RASIAH ",
+    "spoilt_votes": "2079",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "28315",
+        "name": " MURUGESAN SINNANDAVAR"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "35024",
+        "name": " SIVARASA RASIAH "
+      }
+    ],
+    "unreturned_ballot_sheets": "443",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "65861"
+  },
+  {
+    "voters_turnout": "77.19",
+    "constituency_code": "P.108",
+    "total_registered_voters": "75334",
+    "state": "Selangor",
+    "constituency_name": "SHAH ALAM",
+    "majority": "9314",
+    "winner_name": "HJ. KHALID ABD SAMAD",
+    "spoilt_votes": "749",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "33356",
+        "name": " HJ. KHALID ABD SAMAD"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "24042",
+        "name": " DATO` SERI ABDUL AZIZ SHAMSUDDIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "214",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "58361"
+  },
+  {
+    "voters_turnout": "77.67",
+    "constituency_code": "P.109",
+    "total_registered_voters": "112224",
+    "state": "Selangor",
+    "constituency_name": "KAPAR",
+    "majority": "12297",
+    "winner_name": "MANIKAVASAGA M. SUNDARAM",
+    "spoilt_votes": "3064",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "48196",
+        "name": " MANIKAVASAGA M. SUNDARAM"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "35899",
+        "name": " KOMALA DEVI M. PERUMAL"
+      }
+    ],
+    "unreturned_ballot_sheets": "485",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "87644"
+  },
+  {
+    "voters_turnout": "76.22",
+    "constituency_code": "P.110",
+    "total_registered_voters": "77816",
+    "state": "Selangor",
+    "constituency_name": "KLANG",
+    "majority": "17701",
+    "winner_name": "CHARLES ANTHONY SANTIAGO  ",
+    "spoilt_votes": "1036",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "20289",
+        "name": " DATO' CH`NG TOH ENG"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "37990",
+        "name": " CHARLES ANTHONY SANTIAGO  "
+      }
+    ],
+    "unreturned_ballot_sheets": "8",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "59323"
+  },
+  {
+    "voters_turnout": "79.74",
+    "constituency_code": "P.111",
+    "total_registered_voters": "71887",
+    "state": "Selangor",
+    "constituency_name": "KOTA RAJA",
+    "majority": "20751",
+    "winner_name": "SITI MARIAH MAHMUD",
+    "spoilt_votes": "814",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "17879",
+        "name": " S. A. VIGNESWARAN"
+      },
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "38630",
+        "name": " SITI MARIAH MAHMUD"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "57323"
+  },
+  {
+    "voters_turnout": "81.00",
+    "constituency_code": "P.112",
+    "total_registered_voters": "66515",
+    "state": "Selangor",
+    "constituency_name": "KUALA LANGAT",
+    "majority": "989",
+    "winner_name": "ABDULLAH SANI ABDUL HAMID",
+    "spoilt_votes": "1306",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "25698",
+        "name": " SULAIMAN MOHD KARLI"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "26687",
+        "name": " ABDULLAH SANI ABDUL HAMID"
+      }
+    ],
+    "unreturned_ballot_sheets": "244",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "53935"
+  },
+  {
+    "voters_turnout": "79.00",
+    "constituency_code": "P.113",
+    "total_registered_voters": "62044",
+    "state": "Selangor",
+    "constituency_name": "SEPANG",
+    "majority": "4849",
+    "winner_name": "DATUK SERI MOHD ZIN MOHAMED",
+    "spoilt_votes": "1099",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "21532",
+        "name": " IR. HJ. MOHD MAKKI"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "26381",
+        "name": " DATUK SERI MOHD ZIN MOHAMED"
+      }
+    ],
+    "unreturned_ballot_sheets": "125",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "49137"
+  },
+  {
+    "voters_turnout": "78.10",
+    "constituency_code": "P.114",
+    "total_registered_voters": "60775",
+    "state": "Kuala Lumpur",
+    "constituency_name": "KEPONG",
+    "majority": "23848",
+    "winner_name": "DR. TAN SENG GIAW @ TAN CHUN TIN",
+    "spoilt_votes": "212",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "11704",
+        "name": " LAU HOI KEONG"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "35552",
+        "name": " DR. TAN SENG GIAW @ TAN CHUN TIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "40",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "47508"
+  },
+  {
+    "voters_turnout": "71.91",
+    "constituency_code": "P.115",
+    "total_registered_voters": "70544",
+    "state": "Kuala Lumpur",
+    "constituency_name": "BATU",
+    "majority": "9455",
+    "winner_name": "TIAN CHUA",
+    "spoilt_votes": "614",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "20330",
+        "name": " LIM SI PIN"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "29785",
+        "name": " TIAN CHUA"
+      }
+    ],
+    "unreturned_ballot_sheets": "574",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "51303"
+  },
+  {
+    "voters_turnout": "72.43",
+    "constituency_code": "P.116",
+    "total_registered_voters": "54509",
+    "state": "Kuala Lumpur",
+    "constituency_name": "WANGSA MAJU",
+    "majority": "150",
+    "winner_name": "WEE CHOO KEONG",
+    "spoilt_votes": "357",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "19637",
+        "name": " WEE CHOO KEONG"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "19487",
+        "name": " YEW TEONG LOOK"
+      }
+    ],
+    "unreturned_ballot_sheets": "317",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "39798"
+  },
+  {
+    "voters_turnout": "71.87",
+    "constituency_code": "P.117",
+    "total_registered_voters": "59690",
+    "state": "Kuala Lumpur",
+    "constituency_name": "SEGAMBUT",
+    "majority": "7732",
+    "winner_name": "LIM LIP ENG",
+    "spoilt_votes": "541",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "17314",
+        "name": " MA WOEI CHYI"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "25046",
+        "name": " LIM LIP ENG"
+      }
+    ],
+    "unreturned_ballot_sheets": "630",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "43531"
+  },
+  {
+    "voters_turnout": "76.56",
+    "constituency_code": "P.118",
+    "total_registered_voters": "57161",
+    "state": "Kuala Lumpur",
+    "constituency_name": "SETIAWANGSA",
+    "majority": "8134",
+    "winner_name": "DATO' SRI ZULHASNAN RAFIQUE",
+    "spoilt_votes": "918",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "25489",
+        "name": " DATO' SRI ZULHASNAN RAFIQUE"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "17355",
+        "name": " IBRAHIM YAACOB"
+      }
+    ],
+    "unreturned_ballot_sheets": "1334",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "45096"
+  },
+  {
+    "voters_turnout": "68.01",
+    "constituency_code": "P.119",
+    "total_registered_voters": "49892",
+    "state": "Kuala Lumpur",
+    "constituency_name": "TITIWANGSA",
+    "majority": "1972",
+    "winner_name": "DR. LO'LO'",
+    "spoilt_votes": "191",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PAS",
+        "votes": "17857",
+        "name": " DR. LO'LO'"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "15885",
+        "name": " AZIZ JAMALUDIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "PAS",
+    "ballot_sheets_issued": "33933"
+  },
+  {
+    "voters_turnout": "66.37",
+    "constituency_code": "P.120",
+    "total_registered_voters": "59986",
+    "state": "Kuala Lumpur",
+    "constituency_name": "BUKIT BINTANG",
+    "majority": "14277",
+    "winner_name": "FONG KUI LUN",
+    "spoilt_votes": "466",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "26811",
+        "name": " FONG KUI LUN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "12534",
+        "name": " LEE CHONG MENG"
+      }
+    ],
+    "unreturned_ballot_sheets": "630",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "40441"
+  },
+  {
+    "voters_turnout": "72.88",
+    "constituency_code": "P.121",
+    "total_registered_voters": "56650",
+    "state": "Kuala Lumpur",
+    "constituency_name": "LEMBAH PANTAI",
+    "majority": "2895",
+    "winner_name": "NURUL IZZAH ANWAR",
+    "spoilt_votes": "239",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "21728",
+        "name": " NURUL IZZAH ANWAR"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "18833",
+        "name": " SHAHRIZAT ABDUL JALIL"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "489",
+        "name": " PERIASAMY"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "41289"
+  },
+  {
+    "voters_turnout": "75.62",
+    "constituency_code": "P.122",
+    "total_registered_voters": "76891",
+    "state": "Kuala Lumpur",
+    "constituency_name": "SEPUTEH",
+    "majority": "36492",
+    "winner_name": "TERESA KOK SUH SIM",
+    "spoilt_votes": "174",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "10738",
+        "name": " CHEW CHEE LIN"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "47230",
+        "name": " TERESA KOK SUH SIM"
+      }
+    ],
+    "unreturned_ballot_sheets": "65",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "58207"
+  },
+  {
+    "voters_turnout": "73.41",
+    "constituency_code": "P.123",
+    "total_registered_voters": "68725",
+    "state": "Kuala Lumpur",
+    "constituency_name": "CHERAS",
+    "majority": "28300",
+    "winner_name": "TAN KOK WAI",
+    "spoilt_votes": "244",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "39253",
+        "name": " TAN KOK WAI"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "10953",
+        "name": " DR. JEFFREY GOH SIM IK"
+      }
+    ],
+    "unreturned_ballot_sheets": "121",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "50571"
+  },
+  {
+    "voters_turnout": "74.75",
+    "constituency_code": "P.124",
+    "total_registered_voters": "72628",
+    "state": "Kuala Lumpur",
+    "constituency_name": "BANDAR TUN RAZAK",
+    "majority": "2515",
+    "winner_name": "TAN SRI ABD KHALID IBRAHIM",
+    "spoilt_votes": "557",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "25608",
+        "name": " DATUK TAN CHAI HO"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "28123",
+        "name": " TAN SRI ABD KHALID IBRAHIM"
+      }
+    ],
+    "unreturned_ballot_sheets": "707",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "54995"
+  },
+  {
+    "voters_turnout": "81.42",
+    "constituency_code": "P.125",
+    "total_registered_voters": "6608",
+    "state": "Putrajaya",
+    "constituency_name": "PUTRAJAYA",
+    "majority": "2734",
+    "winner_name": "DATUK SERI TENGKU ADNAN TENGKU MANSOR",
+    "spoilt_votes": "38",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "1304",
+        "name": " HJ. MOHAMAD NOOR MOHAMAD"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "4038",
+        "name": " DATUK SERI TENGKU ADNAN TENGKU MANSOR"
+      }
+    ],
+    "unreturned_ballot_sheets": "36",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "5416"
+  },
+  {
+    "voters_turnout": "74.02",
+    "constituency_code": "P.126",
+    "total_registered_voters": "38682",
+    "state": "Negeri Sembilan",
+    "constituency_name": "JELEBU",
+    "majority": "11610",
+    "winner_name": "DATUK SERI DR. RAIS YATIM",
+    "spoilt_votes": "769",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19737",
+        "name": " DATUK SERI DR. RAIS YATIM"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "8127",
+        "name": " NORMAN IPIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "396",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "29029"
+  },
+  {
+    "voters_turnout": "73.53",
+    "constituency_code": "P.127",
+    "total_registered_voters": "53478",
+    "state": "Negeri Sembilan",
+    "constituency_name": "JEMPOL",
+    "majority": "12320",
+    "winner_name": "DATO' LILAH YASIN",
+    "spoilt_votes": "1054",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "25294",
+        "name": " DATO' LILAH YASIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "12974",
+        "name": " HJH. SITI MERIAM"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "39322"
+  },
+  {
+    "voters_turnout": "75.87",
+    "constituency_code": "P.128",
+    "total_registered_voters": "84675",
+    "state": "Negeri Sembilan",
+    "constituency_name": "SEREMBAN",
+    "majority": "3948",
+    "winner_name": "JOHN FERNANDEZ",
+    "spoilt_votes": "2248",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "32970",
+        "name": " JOHN FERNANDEZ"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "29022",
+        "name": " YU CHOK TOW"
+      }
+    ],
+    "unreturned_ballot_sheets": "197",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "64437"
+  },
+  {
+    "voters_turnout": "74.97",
+    "constituency_code": "P.129",
+    "total_registered_voters": "42328",
+    "state": "Negeri Sembilan",
+    "constituency_name": "KUALA PILAH",
+    "majority": "10008",
+    "winner_name": "DATUK HASAN MALEK",
+    "spoilt_votes": "908",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "20417",
+        "name": " DATUK HASAN MALEK"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "10409",
+        "name": " ANNUAR SALLEH"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "31734"
+  },
+  {
+    "voters_turnout": "78.56",
+    "constituency_code": "P.130",
+    "total_registered_voters": "72115",
+    "state": "Negeri Sembilan",
+    "constituency_name": "RASAH",
+    "majority": "13151",
+    "winner_name": "LOKE SIEW FOOK",
+    "spoilt_votes": "1261",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "21120",
+        "name": " DR. YEOW CHAI THIAM"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "34271",
+        "name": " LOKE SIEW FOOK"
+      }
+    ],
+    "unreturned_ballot_sheets": "2",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "56654"
+  },
+  {
+    "voters_turnout": "76.94",
+    "constituency_code": "P.131",
+    "total_registered_voters": "62896",
+    "state": "Negeri Sembilan",
+    "constituency_name": "REMBAU",
+    "majority": "5746",
+    "winner_name": "KHAIRY JAMALUDDIN ABU BAKAR",
+    "spoilt_votes": "1086",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "20779",
+        "name": " BADRUL"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "26525",
+        "name": " KHAIRY JAMALUDDIN ABU BAKAR"
+      }
+    ],
+    "unreturned_ballot_sheets": "511",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "48901"
+  },
+  {
+    "voters_turnout": "76.08",
+    "constituency_code": "P.132",
+    "total_registered_voters": "60186",
+    "state": "Negeri Sembilan",
+    "constituency_name": "TELOK KEMANG",
+    "majority": "2804",
+    "winner_name": "DATO' KAMARUL BAHARIN",
+    "spoilt_votes": "1299",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "20544",
+        "name": " S. SOTHINATHAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "601",
+        "name": " MOHD RASHID ARSHAD"
+      },
+      {
+        "status": "Menang",
+        "party": "PKR",
+        "votes": "23348",
+        "name": " DATO' KAMARUL BAHARIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "821",
+    "winner_party": "PKR",
+    "ballot_sheets_issued": "46613"
+  },
+  {
+    "voters_turnout": "76.00",
+    "constituency_code": "P.133",
+    "total_registered_voters": "47655",
+    "state": "Negeri Sembilan",
+    "constituency_name": "TAMPIN",
+    "majority": "13079",
+    "winner_name": "DATUK SERI SHAZIMAN ABU MANSOR",
+    "spoilt_votes": "1115",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "24022",
+        "name": " DATUK SERI SHAZIMAN ABU MANSOR"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "10943",
+        "name": " HJ. RAZAKEK HJ. ABD RAHIM"
+      }
+    ],
+    "unreturned_ballot_sheets": "251",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "36331"
+  },
+  {
+    "voters_turnout": "77.81",
+    "constituency_code": "P.134",
+    "total_registered_voters": "40606",
+    "state": "Melaka",
+    "constituency_name": "MASJID TANAH",
+    "majority": "12285",
+    "winner_name": "DATUK WIRA ABU SEMAN YUSOP",
+    "spoilt_votes": "717",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "21582",
+        "name": " DATUK WIRA ABU SEMAN YUSOP"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "9297",
+        "name": " USTAZ AB GHANI AB RAHMAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "119",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "31715"
+  },
+  {
+    "voters_turnout": "77.23",
+    "constituency_code": "P.135",
+    "total_registered_voters": "54097",
+    "state": "Melaka",
+    "constituency_name": "ALOR GAJAH",
+    "majority": "12884",
+    "winner_name": "DATUK SERI DR. FONG CHAN ONN",
+    "spoilt_votes": "1953",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "13470",
+        "name": " TAN LAY SIANG"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "26354",
+        "name": " DATUK SERI DR. FONG CHAN ONN"
+      }
+    ],
+    "unreturned_ballot_sheets": "77",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "41854"
+  },
+  {
+    "voters_turnout": "79.26",
+    "constituency_code": "P.136",
+    "total_registered_voters": "60188",
+    "state": "Melaka",
+    "constituency_name": "TANGGA BATU",
+    "majority": "14500",
+    "winner_name": "DATUK HJ. IDRIS HJ. HARON",
+    "spoilt_votes": "1283",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "30460",
+        "name": " DATUK HJ. IDRIS HJ. HARON"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "15960",
+        "name": " HJH. ZAINON JAAFAR"
+      }
+    ],
+    "unreturned_ballot_sheets": "1972",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "49675"
+  },
+  {
+    "voters_turnout": "80.98",
+    "constituency_code": "P.137",
+    "total_registered_voters": "75777",
+    "state": "Melaka",
+    "constituency_name": "BUKIT KATIL",
+    "majority": "1758",
+    "winner_name": "DATUK MD SIRAT ABU",
+    "spoilt_votes": "1173",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "29217",
+        "name": " KHALID JAAFAR"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "30975",
+        "name": " DATUK MD SIRAT ABU"
+      }
+    ],
+    "unreturned_ballot_sheets": "708",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "62073"
+  },
+  {
+    "voters_turnout": "79.40",
+    "constituency_code": "P.138",
+    "total_registered_voters": "84805",
+    "state": "Melaka",
+    "constituency_name": "KOTA MELAKA",
+    "majority": "11390",
+    "winner_name": "SIM TONG HIM",
+    "spoilt_votes": "1448",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "27250",
+        "name": " WONG NAI CHEE"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "38640",
+        "name": " SIM TONG HIM"
+      }
+    ],
+    "unreturned_ballot_sheets": "141",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "67479"
+  },
+  {
+    "voters_turnout": "79.41",
+    "constituency_code": "P.139",
+    "total_registered_voters": "56121",
+    "state": "Melaka",
+    "constituency_name": "JASIN",
+    "majority": "12728",
+    "winner_name": "DATUK WIRA AHMAD HAMZAH",
+    "spoilt_votes": "1094",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "15373",
+        "name": " CAPT (R) ENGR. ZULKEFLY OTHMAN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "28101",
+        "name": " DATUK WIRA AHMAD HAMZAH"
+      }
+    ],
+    "unreturned_ballot_sheets": "86",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "44654"
+  },
+  {
+    "voters_turnout": "72.95",
+    "constituency_code": "P.140",
+    "total_registered_voters": "40708",
+    "state": "Johor",
+    "constituency_name": "SEGAMAT",
+    "majority": "2991",
+    "winner_name": "DATUK SUBRAMANIAM K. V. SATHASIVAM",
+    "spoilt_votes": "847",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "15921",
+        "name": " DATUK SUBRAMANIAM K. V. SATHASIVAM"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "12930",
+        "name": " PANG HOK LIONG"
+      }
+    ],
+    "unreturned_ballot_sheets": "1",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "29699"
+  },
+  {
+    "voters_turnout": "76.02",
+    "constituency_code": "P.141",
+    "total_registered_voters": "35138",
+    "state": "Johor",
+    "constituency_name": "SEKIJANG",
+    "majority": "9867",
+    "winner_name": "DATUK HJ. BAHARUM HJ. MOHAMED",
+    "spoilt_votes": "622",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "17979",
+        "name": " DATUK HJ. BAHARUM HJ. MOHAMED"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "8112",
+        "name": " ZULKAPLY SALLEH"
+      }
+    ],
+    "unreturned_ballot_sheets": "3",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "26716"
+  },
+  {
+    "voters_turnout": "72.00",
+    "constituency_code": "P.142",
+    "total_registered_voters": "33468",
+    "state": "Johor",
+    "constituency_name": "LABIS",
+    "majority": "4094",
+    "winner_name": "DATUK CHUA TEE YONG",
+    "spoilt_votes": "816",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "13658",
+        "name": " DATUK CHUA TEE YONG"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "9564",
+        "name": " TEO ENG CHING"
+      }
+    ],
+    "unreturned_ballot_sheets": "42",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "24080"
+  },
+  {
+    "voters_turnout": "75.58",
+    "constituency_code": "P.143",
+    "total_registered_voters": "40042",
+    "state": "Johor",
+    "constituency_name": "PAGOH",
+    "majority": "12581",
+    "winner_name": "TAN SRI MUHYIDDIN YASSIN",
+    "spoilt_votes": "787",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "8447",
+        "name": " MOHAMAD ROZALI JAMIL"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "21028",
+        "name": " TAN SRI MUHYIDDIN YASSIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "51",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "30313"
+  },
+  {
+    "voters_turnout": "75.99",
+    "constituency_code": "P.144",
+    "total_registered_voters": "58501",
+    "state": "Johor",
+    "constituency_name": "LEDANG",
+    "majority": "7617",
+    "winner_name": "HAMIM SAMURI",
+    "spoilt_votes": "1433",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "17702",
+        "name": " LAU TEK HAI"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "25319",
+        "name": " HAMIM SAMURI"
+      }
+    ],
+    "unreturned_ballot_sheets": "102",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "44556"
+  },
+  {
+    "voters_turnout": "76.17",
+    "constituency_code": "P.145",
+    "total_registered_voters": "56372",
+    "state": "Johor",
+    "constituency_name": "BAKRI",
+    "majority": "722",
+    "winner_name": "ER TECK HWA",
+    "spoilt_votes": "1561",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "21051",
+        "name": " ER TECK HWA"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "20329",
+        "name": " TAY PUAY CHUAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "214",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "43155"
+  },
+  {
+    "voters_turnout": "73.44",
+    "constituency_code": "P.146",
+    "total_registered_voters": "41019",
+    "state": "Johor",
+    "constituency_name": "MUAR",
+    "majority": "4661",
+    "winner_name": "DATUK MOHD RAZALI IBRAHIM",
+    "spoilt_votes": "902",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "12325",
+        "name": " NAH BUDIN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "16986",
+        "name": " DATUK MOHD RAZALI IBRAHIM"
+      }
+    ],
+    "unreturned_ballot_sheets": "62",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "30275"
+  },
+  {
+    "voters_turnout": "78.76",
+    "constituency_code": "P.147",
+    "total_registered_voters": "50234",
+    "state": "Johor",
+    "constituency_name": "PARIT SULONG",
+    "majority": "13599",
+    "winner_name": "DATO' NORAINI AHMAD",
+    "spoilt_votes": "1033",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "12467",
+        "name": " FAISAL ALI"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "26066",
+        "name": " DATO' NORAINI AHMAD"
+      }
+    ],
+    "unreturned_ballot_sheets": "71",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "39637"
+  },
+  {
+    "voters_turnout": "79.00",
+    "constituency_code": "P.148",
+    "total_registered_voters": "34805",
+    "state": "Johor",
+    "constituency_name": "AYER HITAM",
+    "majority": "13909",
+    "winner_name": "DATUK DR. WEE KA SIONG",
+    "spoilt_votes": "907",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "20230",
+        "name": " DATUK DR. WEE KA SIONG"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "6321",
+        "name": " HJ. HUSIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "30",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "27488"
+  },
+  {
+    "voters_turnout": "79.10",
+    "constituency_code": "P.149",
+    "total_registered_voters": "36845",
+    "state": "Johor",
+    "constituency_name": "SRI GADING",
+    "majority": "10874",
+    "winner_name": "DATUK MOHAMAD HJ. AZIZ",
+    "spoilt_votes": "738",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19641",
+        "name": " DATUK MOHAMAD HJ. AZIZ"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "8767",
+        "name": " CIKGU ALI MARKOM"
+      }
+    ],
+    "unreturned_ballot_sheets": "120",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "29266"
+  },
+  {
+    "voters_turnout": "77.05",
+    "constituency_code": "P.150",
+    "total_registered_voters": "70069",
+    "state": "Johor",
+    "constituency_name": "BATU PAHAT",
+    "majority": "12968",
+    "winner_name": "DR. MOHD PUAD ZARKASHI",
+    "spoilt_votes": "1768",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "19625",
+        "name": " MUHAMMAD ABDULLAH"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "32593",
+        "name": " DR. MOHD PUAD ZARKASHI"
+      }
+    ],
+    "unreturned_ballot_sheets": "117",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "54103"
+  },
+  {
+    "voters_turnout": "74.50",
+    "constituency_code": "P.151",
+    "total_registered_voters": "34859",
+    "state": "Johor",
+    "constituency_name": "SIMPANG RENGGAM",
+    "majority": "7853",
+    "winner_name": "LIANG TECK MENG",
+    "spoilt_votes": "924",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "8597",
+        "name": " USTAZ ATAN HJ. GOMBANG"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "16450",
+        "name": " LIANG TECK MENG"
+      }
+    ],
+    "unreturned_ballot_sheets": "27",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "25998"
+  },
+  {
+    "voters_turnout": "75.87",
+    "constituency_code": "P.152",
+    "total_registered_voters": "71233",
+    "state": "Johor",
+    "constituency_name": "KLUANG",
+    "majority": "3781",
+    "winner_name": "DATUK DR. HOU KOK CHUNG",
+    "spoilt_votes": "1884",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "27970",
+        "name": " DATUK DR. HOU KOK CHUNG"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "24189",
+        "name": " NG LAM HUA"
+      }
+    ],
+    "unreturned_ballot_sheets": "524",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "54567"
+  },
+  {
+    "voters_turnout": "75.78",
+    "constituency_code": "P.153",
+    "total_registered_voters": "33181",
+    "state": "Johor",
+    "constituency_name": "SEMBRONG",
+    "majority": "11570",
+    "winner_name": "DATUK SERI HISHAMMUDDIN TUN HUSSEIN",
+    "spoilt_votes": "739",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "17988",
+        "name": " DATUK SERI HISHAMMUDDIN TUN HUSSEIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "6418",
+        "name": " LEE SANG"
+      }
+    ],
+    "unreturned_ballot_sheets": "66",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "25211"
+  },
+  {
+    "voters_turnout": "75.05",
+    "constituency_code": "P.154",
+    "total_registered_voters": "36445",
+    "state": "Johor",
+    "constituency_name": "MERSING",
+    "majority": "13736",
+    "winner_name": "DATUK DR. ABD LATIFF AHMAD",
+    "spoilt_votes": "857",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "20116",
+        "name": " DATUK DR. ABD LATIFF AHMAD"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "6380",
+        "name": " HJ. SHAHAR ABDULLAH"
+      }
+    ],
+    "unreturned_ballot_sheets": "195",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "27548"
+  },
+  {
+    "voters_turnout": "78.49",
+    "constituency_code": "P.155",
+    "total_registered_voters": "32297",
+    "state": "Johor",
+    "constituency_name": "TENGGARA",
+    "majority": "14049",
+    "winner_name": "DATUK HALIMAH MOHD SADIQUE",
+    "spoilt_votes": "1336",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19031",
+        "name": " DATUK HALIMAH MOHD SADIQUE"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "4982",
+        "name": " HJ. SALLEH FARMIN"
+      }
+    ],
+    "unreturned_ballot_sheets": "435",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "25784"
+  },
+  {
+    "voters_turnout": "79.13",
+    "constituency_code": "P.156",
+    "total_registered_voters": "34190",
+    "state": "Johor",
+    "constituency_name": "KOTA TINGGI",
+    "majority": "18961",
+    "winner_name": "DATO' SYED HAMID ALBAR",
+    "spoilt_votes": "653",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "22682",
+        "name": " DATO' SYED HAMID ALBAR"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "3721",
+        "name": " ONN JAAFAR"
+      }
+    ],
+    "unreturned_ballot_sheets": "53",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "27109"
+  },
+  {
+    "voters_turnout": "0.00",
+    "constituency_code": "P.157",
+    "total_registered_voters": "31825",
+    "state": "Johor",
+    "constituency_name": "PENGERANG",
+    "majority": "0",
+    "winner_name": "DATUK SERI AZALINA OTHMAN",
+    "spoilt_votes": "0",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "0",
+        "name": " DATUK SERI AZALINA OTHMAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "0"
+  },
+  {
+    "voters_turnout": "77.81",
+    "constituency_code": "P.158",
+    "total_registered_voters": "62505",
+    "state": "Johor",
+    "constituency_name": "TEBRAU",
+    "majority": "14851",
+    "winner_name": "TENG BOON SOON",
+    "spoilt_votes": "1539",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "16124",
+        "name": " ROSLANI SHARIF"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "30975",
+        "name": " TENG BOON SOON"
+      }
+    ],
+    "unreturned_ballot_sheets": "62",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "48700"
+  },
+  {
+    "voters_turnout": "76.35",
+    "constituency_code": "P.159",
+    "total_registered_voters": "72862",
+    "state": "Johor",
+    "constituency_name": "PASIR GUDANG",
+    "majority": "17281",
+    "winner_name": "DATUK SERI MOHAMED KHALED NORDIN",
+    "spoilt_votes": "1211",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "35849",
+        "name": " DATUK SERI MOHAMED KHALED NORDIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "18568",
+        "name": " MD RIZAN MOHD SAMAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "263",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "55891"
+  },
+  {
+    "voters_turnout": "69.47",
+    "constituency_code": "P.160",
+    "total_registered_voters": "89725",
+    "state": "Johor",
+    "constituency_name": "JOHOR BAHRU",
+    "majority": "25349",
+    "winner_name": "TAN SRI SHARIL @ SHAHRIR AB SAMAD",
+    "spoilt_votes": "1391",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PRM",
+        "votes": "17794",
+        "name": " HASSAN ABDUL KARIM"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "43143",
+        "name": " TAN SRI SHARIL @ SHAHRIR AB SAMAD"
+      }
+    ],
+    "unreturned_ballot_sheets": "112",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "62440"
+  },
+  {
+    "voters_turnout": "71.21",
+    "constituency_code": "P.161",
+    "total_registered_voters": "79622",
+    "state": "Johor",
+    "constituency_name": "PULAI",
+    "majority": "20449",
+    "winner_name": "DATUK NUR JAZLAN MOHAMED",
+    "spoilt_votes": "1079",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "17587",
+        "name": " ABDULLAH IDERIS"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "38036",
+        "name": " DATUK NUR JAZLAN MOHAMED"
+      }
+    ],
+    "unreturned_ballot_sheets": "161",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "56863"
+  },
+  {
+    "voters_turnout": "77.09",
+    "constituency_code": "P.162",
+    "total_registered_voters": "78676",
+    "state": "Johor",
+    "constituency_name": "GELANG PATAH",
+    "majority": "8851",
+    "winner_name": "TAN AH ENG",
+    "spoilt_votes": "2244",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "33630",
+        "name": " TAN AH ENG"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "24779",
+        "name": " DR. ZALIHA MUSTAFA"
+      }
+    ],
+    "unreturned_ballot_sheets": "75",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "60728"
+  },
+  {
+    "voters_turnout": "79.60",
+    "constituency_code": "P.163",
+    "total_registered_voters": "67358",
+    "state": "Johor",
+    "constituency_name": "KULAI",
+    "majority": "11744",
+    "winner_name": "ONG KA TING",
+    "spoilt_votes": "1327",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "32017",
+        "name": " ONG KA TING"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "20273",
+        "name": " NG PACK SIONG"
+      }
+    ],
+    "unreturned_ballot_sheets": "59",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "53676"
+  },
+  {
+    "voters_turnout": "75.83",
+    "constituency_code": "P.164",
+    "total_registered_voters": "43264",
+    "state": "Johor",
+    "constituency_name": "PONTIAN",
+    "majority": "14444",
+    "winner_name": "DATUK AHMAD MASLAN",
+    "spoilt_votes": "1008",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "8677",
+        "name": " MOHD ANNUAR MOHD SALLEH"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "23121",
+        "name": " DATUK AHMAD MASLAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "32806"
+  },
+  {
+    "voters_turnout": "77.35",
+    "constituency_code": "P.165",
+    "total_registered_voters": "45701",
+    "state": "Johor",
+    "constituency_name": "TANJONG PIAI",
+    "majority": "12371",
+    "winner_name": "DATUK WEE JECK SENG",
+    "spoilt_votes": "1117",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "23302",
+        "name": " DATUK WEE JECK SENG"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "10931",
+        "name": " AHMAD TON"
+      }
+    ],
+    "unreturned_ballot_sheets": "214",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "35564"
+  },
+  {
+    "voters_turnout": "66.89",
+    "constituency_code": "P.166",
+    "total_registered_voters": "20783",
+    "state": "Labuan",
+    "constituency_name": "LABUAN",
+    "majority": "8457",
+    "winner_name": "DATUK HJ. YUSSOF HJ. MAHAL",
+    "spoilt_votes": "311",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "10471",
+        "name": " DATUK HJ. YUSSOF HJ. MAHAL"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "2014",
+        "name": " LAU SENG KIAT"
+      },
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "1106",
+        "name": " MATUSIN ABDUL RAHMAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "247",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "14149"
+  },
+  {
+    "voters_turnout": "66.67",
+    "constituency_code": "P.167",
+    "total_registered_voters": "39643",
+    "state": "Sabah",
+    "constituency_name": "KUDAT",
+    "majority": "9895",
+    "winner_name": "DATUK ABD RAHIM BAKRI",
+    "spoilt_votes": "1058",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "17634",
+        "name": " DATUK ABD RAHIM BAKRI"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "7739",
+        "name": " YAHYA OTHMAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "120",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "26551"
+  },
+  {
+    "voters_turnout": "69.42",
+    "constituency_code": "P.168",
+    "total_registered_voters": "31938",
+    "state": "Sabah",
+    "constituency_name": "KOTA MARUDU",
+    "majority": "4198",
+    "winner_name": "DATUK DR. MAXIMUS JOHNITY ONGKILI",
+    "spoilt_votes": "748",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "1109",
+        "name": " ROSLAN MOHD ZAIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BERSEKUTU",
+        "votes": "457",
+        "name": " BERMAN ANGKAP"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "7830",
+        "name": " ANTHONY BIRI MENDIAU"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "12028",
+        "name": " DATUK DR. MAXIMUS JOHNITY ONGKILI"
+      }
+    ],
+    "unreturned_ballot_sheets": "27",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "22199"
+  },
+  {
+    "voters_turnout": "78.27",
+    "constituency_code": "P.169",
+    "total_registered_voters": "43071",
+    "state": "Sabah",
+    "constituency_name": "KOTA BELUD",
+    "majority": "3020",
+    "winner_name": "DATO' HJ. ABDUL RAHMAN HJ. DAHLAN",
+    "spoilt_votes": "1046",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "14822",
+        "name": " SAIDIL @ SAIDI SIMOI"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "17842",
+        "name": " DATO' HJ. ABDUL RAHMAN HJ. DAHLAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "33710"
+  },
+  {
+    "voters_turnout": "204.71",
+    "constituency_code": "P.170",
+    "total_registered_voters": "14912",
+    "state": "Sabah",
+    "constituency_name": "TUARAN",
+    "majority": "6622",
+    "winner_name": "DATUK SERI MOJILIP BUMBURING @ WILFRED",
+    "spoilt_votes": "979",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "17645",
+        "name": " DATUK SERI MOJILIP BUMBURING @ WILFRED"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "879",
+        "name": " ENGINEER AJIN GAGAH"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "11023",
+        "name": " HJ. ANSARI ABDULLAH"
+      }
+    ],
+    "unreturned_ballot_sheets": "37",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "30563"
+  },
+  {
+    "voters_turnout": "68.29",
+    "constituency_code": "P.171",
+    "total_registered_voters": "39251",
+    "state": "Sabah",
+    "constituency_name": "SEPANGGAR",
+    "majority": "11461",
+    "winner_name": "ERIC E. MAJIMBUN",
+    "spoilt_votes": "790",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "5423",
+        "name": " MOHD IBRAHIM ABDULLAH @ YEMBUN KULELING"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "16884",
+        "name": " ERIC E. MAJIMBUN"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "3709",
+        "name": " EDWARD EWOL MUJIE"
+      }
+    ],
+    "unreturned_ballot_sheets": "184",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "26990"
+  },
+  {
+    "voters_turnout": "63.84",
+    "constituency_code": "P.172",
+    "total_registered_voters": "43714",
+    "state": "Sabah",
+    "constituency_name": "KOTA KINABALU",
+    "majority": "106",
+    "winner_name": "HIEW KING CHEU",
+    "spoilt_votes": "326",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "341",
+        "name": " KONG YU KIONG"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "8420",
+        "name": " CHIN TEK MING"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "9358",
+        "name": " CHRISTINA LIEW"
+      },
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "9464",
+        "name": " HIEW KING CHEU"
+      }
+    ],
+    "unreturned_ballot_sheets": "108",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "28017"
+  },
+  {
+    "voters_turnout": "64.56",
+    "constituency_code": "P.173",
+    "total_registered_voters": "34935",
+    "state": "Sabah",
+    "constituency_name": "PUTATAN",
+    "majority": "6445",
+    "winner_name": "DATUK DR. MAKIN @ MARCOS MOJIGOH",
+    "spoilt_votes": "608",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "13737",
+        "name": " DATUK DR. MAKIN @ MARCOS MOJIGOH"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "918",
+        "name": " RAMZAH AHMAD PAKIR"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "7292",
+        "name": " SAUKINAH YUSSOF"
+      }
+    ],
+    "unreturned_ballot_sheets": "741",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "23296"
+  },
+  {
+    "voters_turnout": "70.84",
+    "constituency_code": "P.174",
+    "total_registered_voters": "35821",
+    "state": "Sabah",
+    "constituency_name": "PENAMPANG",
+    "majority": "3063",
+    "winner_name": "TAN SRI BERNARD GILUK DOMPOK",
+    "spoilt_votes": "540",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "696",
+        "name": " DR. ANTHONY TIBOK"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "404",
+        "name": " WILLYBROAD MISSIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "10337",
+        "name": " EDWIN @ JACK BOSI"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "13400",
+        "name": " TAN SRI BERNARD GILUK DOMPOK"
+      }
+    ],
+    "unreturned_ballot_sheets": "175",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "25552"
+  },
+  {
+    "voters_turnout": "75.83",
+    "constituency_code": "P.175",
+    "total_registered_voters": "32279",
+    "state": "Sabah",
+    "constituency_name": "PAPAR",
+    "majority": "9574",
+    "winner_name": "ROSNAH HJ. ABDUL RASHID SHIRLIN",
+    "spoilt_votes": "651",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "429",
+        "name": " MOHD HASHIM YUSOF"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "15352",
+        "name": " ROSNAH HJ. ABDUL RASHID SHIRLIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "5778",
+        "name": " WAHAB IDRIS"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "2268",
+        "name": " DATUK PATRICK SINDU"
+      }
+    ],
+    "unreturned_ballot_sheets": "435",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "24913"
+  },
+  {
+    "voters_turnout": "78.02",
+    "constituency_code": "P.176",
+    "total_registered_voters": "22239",
+    "state": "Sabah",
+    "constituency_name": "KIMANIS",
+    "majority": "5453",
+    "winner_name": "ANIFAH AMAN",
+    "spoilt_votes": "500",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "10242",
+        "name": " ANIFAH AMAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "1615",
+        "name": " ISMAILY BUNGSU"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "4789",
+        "name": " JAAFAR ISMAIL"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "205",
+        "name": " BENJAMIN BASINTAL"
+      }
+    ],
+    "unreturned_ballot_sheets": "16",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "17367"
+  },
+  {
+    "voters_turnout": "72.15",
+    "constituency_code": "P.177",
+    "total_registered_voters": "26788",
+    "state": "Sabah",
+    "constituency_name": "BEAUFORT",
+    "majority": "10914",
+    "winner_name": "DATUK LAJIM UKIN",
+    "spoilt_votes": "681",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "14780",
+        "name": " DATUK LAJIM UKIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "3866",
+        "name": " LAJIM MD YUSOF"
+      }
+    ],
+    "unreturned_ballot_sheets": "19",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "19346"
+  },
+  {
+    "voters_turnout": "75.36",
+    "constituency_code": "P.178",
+    "total_registered_voters": "24145",
+    "state": "Sabah",
+    "constituency_name": "SIPITANG",
+    "majority": "6146",
+    "winner_name": "DATUK SAPAWI HJ. AHMAD",
+    "spoilt_votes": "531",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "5759",
+        "name": " HJ. KARIM TASSIM"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "11905",
+        "name": " DATUK SAPAWI HJ. AHMAD"
+      }
+    ],
+    "unreturned_ballot_sheets": "16",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "18211"
+  },
+  {
+    "voters_turnout": "71.95",
+    "constituency_code": "P.179",
+    "total_registered_voters": "30810",
+    "state": "Sabah",
+    "constituency_name": "RANAU",
+    "majority": "7251",
+    "winner_name": "DATUK SIRINGAN GUBAT @ ALIANCE",
+    "spoilt_votes": "653",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "14074",
+        "name": " DATUK SIRINGAN GUBAT @ ALIANCE"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "6823",
+        "name": " JONATHAN YASIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "619",
+        "name": " VITOS MARK KODING"
+      }
+    ],
+    "unreturned_ballot_sheets": "32",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "22201"
+  },
+  {
+    "voters_turnout": "72.96",
+    "constituency_code": "P.180",
+    "total_registered_voters": "35578",
+    "state": "Sabah",
+    "constituency_name": "KENINGAU",
+    "majority": "4264",
+    "winner_name": "TAN SRI JOSEPH PAIRIN KITINGAN",
+    "spoilt_votes": "464",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "14598",
+        "name": " TAN SRI JOSEPH PAIRIN KITINGAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "10334",
+        "name": " DATUK DR. JEFFREY KITINGAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "560",
+        "name": " PETER KODOU"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "25956"
+  },
+  {
+    "voters_turnout": "75.18",
+    "constituency_code": "P.181",
+    "total_registered_voters": "20874",
+    "state": "Sabah",
+    "constituency_name": "TENOM",
+    "majority": "6883",
+    "winner_name": "RAIMI UNGGI",
+    "spoilt_votes": "523",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "9535",
+        "name": " RAIMI UNGGI"
+      },
+      {
+        "status": "Kalah",
+        "party": "BERSEKUTU",
+        "votes": "485",
+        "name": " MUTANG @ SYLVESTER DAWAT"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "2652",
+        "name": " ADRIS TARIPIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "2499",
+        "name": " RICHARD JOE JIMMY"
+      }
+    ],
+    "unreturned_ballot_sheets": "11",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "15705"
+  },
+  {
+    "voters_turnout": "0.00",
+    "constituency_code": "P.182",
+    "total_registered_voters": "19712",
+    "state": "Sabah",
+    "constituency_name": "PENSIANGAN",
+    "majority": "0",
+    "winner_name": "JOSEPH KURUP",
+    "spoilt_votes": "0",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "0",
+        "name": " JOSEPH KURUP"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "0"
+  },
+  {
+    "voters_turnout": "64.19",
+    "constituency_code": "P.183",
+    "total_registered_voters": "19181",
+    "state": "Sabah",
+    "constituency_name": "BELURAN",
+    "majority": "4352",
+    "winner_name": "RONALD KIANDEE",
+    "spoilt_votes": "468",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "2738",
+        "name": " RAMSAH"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "1271",
+        "name": " MICHAEL LUBAN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "571",
+        "name": " PETRUS RINING"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "7090",
+        "name": " RONALD KIANDEE"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "175",
+        "name": " NORDIN KHANI"
+      }
+    ],
+    "unreturned_ballot_sheets": "36",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "12349"
+  },
+  {
+    "voters_turnout": "64.96",
+    "constituency_code": "P.184",
+    "total_registered_voters": "31435",
+    "state": "Sabah",
+    "constituency_name": "LIBARAN",
+    "majority": "7529",
+    "winner_name": "DATUK JUSLIE HJ. AJIROL",
+    "spoilt_votes": "613",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "6139",
+        "name": " AHMAD THAMRIN @ TAMRIN MOHD JAINI"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "13668",
+        "name": " DATUK JUSLIE HJ. AJIROL"
+      }
+    ],
+    "unreturned_ballot_sheets": "116",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "20536"
+  },
+  {
+    "voters_turnout": "61.45",
+    "constituency_code": "P.185",
+    "total_registered_voters": "26004",
+    "state": "Sabah",
+    "constituency_name": "BATU SAPI",
+    "majority": "3708",
+    "winner_name": "DATUK IR. EDMUND CHONG KET WAH",
+    "spoilt_votes": "730",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "9479",
+        "name": " DATUK IR. EDMUND CHONG KET WAH"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "5771",
+        "name": " DR. CHUNG KWONG WING"
+      }
+    ],
+    "unreturned_ballot_sheets": "418",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "16398"
+  },
+  {
+    "voters_turnout": "60.86",
+    "constituency_code": "P.186",
+    "total_registered_voters": "32847",
+    "state": "Sabah",
+    "constituency_name": "SANDAKAN",
+    "majority": "176",
+    "winner_name": "LIEW VUI KEONG",
+    "spoilt_votes": "644",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "2929",
+        "name": " FONG VUN FUI"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "8121",
+        "name": " CHONG CHUI LIN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "8297",
+        "name": " LIEW VUI KEONG"
+      }
+    ],
+    "unreturned_ballot_sheets": "57",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "20048"
+  },
+  {
+    "voters_turnout": "65.42",
+    "constituency_code": "P.187",
+    "total_registered_voters": "19554",
+    "state": "Sabah",
+    "constituency_name": "KINABATANGAN",
+    "majority": "6326",
+    "winner_name": "BUNG MOKTAR",
+    "spoilt_votes": "589",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "1515",
+        "name": " DASIM @ RICKY JIKAH"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "2181",
+        "name": " AHMAD ABDUL"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "8507",
+        "name": " BUNG MOKTAR"
+      }
+    ],
+    "unreturned_ballot_sheets": "22",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "12814"
+  },
+  {
+    "voters_turnout": "63.05",
+    "constituency_code": "P.188",
+    "total_registered_voters": "43488",
+    "state": "Sabah",
+    "constituency_name": "SILAM",
+    "majority": "9792",
+    "winner_name": "HJ. SALLEH KALBI",
+    "spoilt_votes": "989",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "8319",
+        "name": " HASBULLAH IMAM OHANG @ MOHD TAHA"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "18111",
+        "name": " HJ. SALLEH KALBI"
+      }
+    ],
+    "unreturned_ballot_sheets": "138",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "27557"
+  },
+  {
+    "voters_turnout": "63.00",
+    "constituency_code": "P.189",
+    "total_registered_voters": "35216",
+    "state": "Sabah",
+    "constituency_name": "SEMPORNA",
+    "majority": "17462",
+    "winner_name": "MOHD SHAFIE APDAL",
+    "spoilt_votes": "832",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "1957",
+        "name": " ABD AZIS AB HAMID"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19419",
+        "name": " MOHD SHAFIE APDAL"
+      }
+    ],
+    "unreturned_ballot_sheets": "1",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "22209"
+  },
+  {
+    "voters_turnout": "63.52",
+    "constituency_code": "P.190",
+    "total_registered_voters": "42560",
+    "state": "Sabah",
+    "constituency_name": "TAWAU",
+    "majority": "4867",
+    "winner_name": "CHUA SOON BUI",
+    "spoilt_votes": "735",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "9076",
+        "name": " CHAN FOONG HIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "3278",
+        "name": " BERHAN @ BIRHAN RUSLAN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "13943",
+        "name": " CHUA SOON BUI"
+      }
+    ],
+    "unreturned_ballot_sheets": "39",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "27071"
+  },
+  {
+    "voters_turnout": "0.00",
+    "constituency_code": "P.191",
+    "total_registered_voters": "36018",
+    "state": "Sabah",
+    "constituency_name": "KALABAKAN",
+    "majority": "0",
+    "winner_name": "ABDUL GHAPUR SALLEH",
+    "spoilt_votes": "0",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "0",
+        "name": " ABDUL GHAPUR SALLEH"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "0"
+  },
+  {
+    "voters_turnout": "67.24",
+    "constituency_code": "P.192",
+    "total_registered_voters": "21968",
+    "state": "Sarawak",
+    "constituency_name": "MAS GADING",
+    "majority": "4301",
+    "winner_name": "DATUK DR. TEKHEE@TIKI ANAK LAFE",
+    "spoilt_votes": "188",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "SNAP",
+        "votes": "4250",
+        "name": " DR. PATAU"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "8551",
+        "name": " DATUK DR. TEKHEE@TIKI ANAK LAFE"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "1476",
+        "name": " FAVIAN ANAK TISEN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "306",
+        "name": " APIN ANAK BAENG"
+      }
+    ],
+    "unreturned_ballot_sheets": "29",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "14800"
+  },
+  {
+    "voters_turnout": "64.54",
+    "constituency_code": "P.193",
+    "total_registered_voters": "30836",
+    "state": "Sarawak",
+    "constituency_name": "SANTUBONG",
+    "majority": "11945",
+    "winner_name": "DATUK WAN JUNAIDI TUANKU JAAFAR",
+    "spoilt_votes": "248",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "3855",
+        "name": " RAHAMAT IDIL"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "15800",
+        "name": " DATUK WAN JUNAIDI TUANKU JAAFAR"
+      }
+    ],
+    "unreturned_ballot_sheets": "56",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "19959"
+  },
+  {
+    "voters_turnout": "61.42",
+    "constituency_code": "P.194",
+    "total_registered_voters": "40533",
+    "state": "Sarawak",
+    "constituency_name": "PETRA JAYA",
+    "majority": "14397",
+    "winner_name": "FADILLAH YUSOF",
+    "spoilt_votes": "263",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19515",
+        "name": " FADILLAH YUSOF"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "5118",
+        "name": " MOHAMAD JOLHI"
+      }
+    ],
+    "unreturned_ballot_sheets": "131",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "25027"
+  },
+  {
+    "voters_turnout": "67.82",
+    "constituency_code": "P.195",
+    "total_registered_voters": "53216",
+    "state": "Sarawak",
+    "constituency_name": "BANDAR KUCHING",
+    "majority": "9952",
+    "winner_name": "CHONG CHIENG JEN",
+    "spoilt_votes": "242",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "DAP",
+        "votes": "22901",
+        "name": " CHONG CHIENG JEN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BN",
+        "votes": "12949",
+        "name": " SIM YAW YEN"
+      }
+    ],
+    "unreturned_ballot_sheets": "165",
+    "winner_party": "DAP",
+    "ballot_sheets_issued": "36257"
+  },
+  {
+    "voters_turnout": "64.66",
+    "constituency_code": "P.196",
+    "total_registered_voters": "67257",
+    "state": "Sarawak",
+    "constituency_name": "STAMPIN",
+    "majority": "3070",
+    "winner_name": "YONG KHOON SENG",
+    "spoilt_votes": "428",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "2198",
+        "name": " SEE CHEE HOW"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "21966",
+        "name": " YONG KHOON SENG"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "18896",
+        "name": " VOON LEE SHAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "434",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "43922"
+  },
+  {
+    "voters_turnout": "73.83",
+    "constituency_code": "P.197",
+    "total_registered_voters": "28517",
+    "state": "Sarawak",
+    "constituency_name": "KOTA SAMARAHAN",
+    "majority": "11411",
+    "winner_name": "DATO' SRI SULAIMAN ABDUL RAHMAN ABDUL TAIB",
+    "spoilt_votes": "449",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "15559",
+        "name": " DATO' SRI SULAIMAN ABDUL RAHMAN ABDUL TAIB"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "4148",
+        "name": " HUSSAIN ABANG APOK"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "898",
+        "name": " AWG BAKAR AWG DAUD"
+      }
+    ],
+    "unreturned_ballot_sheets": "374",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "21428"
+  },
+  {
+    "voters_turnout": "61.36",
+    "constituency_code": "P.198",
+    "total_registered_voters": "36147",
+    "state": "Sarawak",
+    "constituency_name": "MAMBONG",
+    "majority": "6657",
+    "winner_name": "DATUK DR. JAMES DAWOS MAMIT",
+    "spoilt_votes": "473",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "7525",
+        "name": " MAJEN ANAK PANYOG"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "14182",
+        "name": " DATUK DR. JAMES DAWOS MAMIT"
+      }
+    ],
+    "unreturned_ballot_sheets": "126",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "22306"
+  },
+  {
+    "voters_turnout": "66.27",
+    "constituency_code": "P.199",
+    "total_registered_voters": "27901",
+    "state": "Sarawak",
+    "constituency_name": "SERIAN",
+    "majority": "13427",
+    "winner_name": "DATUK RICHARD RIOT ANAK JAEM",
+    "spoilt_votes": "332",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "15793",
+        "name": " DATUK RICHARD RIOT ANAK JAEM"
+      },
+      {
+        "status": "Kalah",
+        "party": "SNAP",
+        "votes": "2366",
+        "name": " SYLVESTER BELAYONG ANAK"
+      }
+    ],
+    "unreturned_ballot_sheets": "25",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "18516"
+  },
+  {
+    "voters_turnout": "66.16",
+    "constituency_code": "P.200",
+    "total_registered_voters": "16794",
+    "state": "Sarawak",
+    "constituency_name": "BATANG SADONG",
+    "majority": "5425",
+    "winner_name": "NANCY SHUKRI",
+    "spoilt_votes": "170",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "8183",
+        "name": " NANCY SHUKRI"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "2758",
+        "name": " PIEE B. LING"
+      }
+    ],
+    "unreturned_ballot_sheets": "9",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "11120"
+  },
+  {
+    "voters_turnout": "64.15",
+    "constituency_code": "P.201",
+    "total_registered_voters": "22417",
+    "state": "Sarawak",
+    "constituency_name": "BATANG LUPAR",
+    "majority": "8092",
+    "winner_name": "DATUK ROHANI ABDUL KARIM",
+    "spoilt_votes": "193",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PAS",
+        "votes": "2923",
+        "name": " ABANG EDDY"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "11015",
+        "name": " DATUK ROHANI ABDUL KARIM"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "250",
+        "name": " ALI SEMSU"
+      }
+    ],
+    "unreturned_ballot_sheets": "12",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "14393"
+  },
+  {
+    "voters_turnout": "59.71",
+    "constituency_code": "P.202",
+    "total_registered_voters": "25724",
+    "state": "Sarawak",
+    "constituency_name": "SRI AMAN",
+    "majority": "4252",
+    "winner_name": "MASIR ANAK KUJAT",
+    "spoilt_votes": "211",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "9700",
+        "name": " MASIR ANAK KUJAT"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "5448",
+        "name": " COBBOLD JOHN LUSOI"
+      }
+    ],
+    "unreturned_ballot_sheets": "154",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "15513"
+  },
+  {
+    "voters_turnout": "69.97",
+    "constituency_code": "P.203",
+    "total_registered_voters": "17190",
+    "state": "Sarawak",
+    "constituency_name": "LUBOK ANTU",
+    "majority": "1610",
+    "winner_name": "WILLIAM @ NYALLAU ANAK BADAK",
+    "spoilt_votes": "99",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "6769",
+        "name": " WILLIAM @ NYALLAU ANAK BADAK"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "5159",
+        "name": " NICHOLAS BAWIN ANAK ANGGAT"
+      }
+    ],
+    "unreturned_ballot_sheets": "11",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "12038"
+  },
+  {
+    "voters_turnout": "72.22",
+    "constituency_code": "P.204",
+    "total_registered_voters": "22088",
+    "state": "Sarawak",
+    "constituency_name": "BETONG",
+    "majority": "11709",
+    "winner_name": "DATUK SERI DOUGLAS UGGAH EMBAS",
+    "spoilt_votes": "246",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "SNAP",
+        "votes": "1999",
+        "name": " EDMUND STANLEY JUGOL"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "13708",
+        "name": " DATUK SERI DOUGLAS UGGAH EMBAS"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "15953"
+  },
+  {
+    "voters_turnout": "68.60",
+    "constituency_code": "P.205",
+    "total_registered_voters": "23982",
+    "state": "Sarawak",
+    "constituency_name": "SARATOK",
+    "majority": "8706",
+    "winner_name": "JELAING ANAK MERSAT",
+    "spoilt_votes": "218",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "3764",
+        "name": " USTAZ HJ. MOHD YAHYA ABDULLAH"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "12470",
+        "name": " JELAING ANAK MERSAT"
+      }
+    ],
+    "unreturned_ballot_sheets": "15",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "16467"
+  },
+  {
+    "voters_turnout": "0.00",
+    "constituency_code": "P.206",
+    "total_registered_voters": "17052",
+    "state": "Sarawak",
+    "constituency_name": "TANJONG MANIS",
+    "majority": "0",
+    "winner_name": "DATUK NORAH ABD RAHMAN",
+    "spoilt_votes": "0",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "0",
+        "name": " DATUK NORAH ABD RAHMAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "0"
+  },
+  {
+    "voters_turnout": "0.00",
+    "constituency_code": "P.207",
+    "total_registered_voters": "17052",
+    "state": "Sarawak",
+    "constituency_name": "IGAN",
+    "majority": "0",
+    "winner_name": "WAHAB HJ. DOLLAH",
+    "spoilt_votes": "0",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "0",
+        "name": " WAHAB HJ. DOLLAH"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "0"
+  },
+  {
+    "voters_turnout": "69.67",
+    "constituency_code": "P.208",
+    "total_registered_voters": "31675",
+    "state": "Sarawak",
+    "constituency_name": "SARIKEI",
+    "majority": "51",
+    "winner_name": "DING KUONG HIING",
+    "spoilt_votes": "176",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "116",
+        "name": " LAU KIENG CHAU"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "10588",
+        "name": " DING KUONG HIING"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "10537",
+        "name": " DR. WONG HUA SEH"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "545",
+        "name": " KUNG CHIN CHIN"
+      },
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "105",
+        "name": " NGU TIENG HAI"
+      }
+    ],
+    "unreturned_ballot_sheets": "179",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "22246"
+  },
+  {
+    "voters_turnout": "65.50",
+    "constituency_code": "P.209",
+    "total_registered_voters": "20306",
+    "state": "Sarawak",
+    "constituency_name": "JULAU",
+    "majority": "7584",
+    "winner_name": "DATUK JOSEPH SALANG ANAK GANDUM",
+    "spoilt_votes": "182",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "10351",
+        "name": " DATUK JOSEPH SALANG ANAK GANDUM"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "2767",
+        "name": " DR. AMBROSE LABANG"
+      }
+    ],
+    "unreturned_ballot_sheets": "13",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "13313"
+  },
+  {
+    "voters_turnout": "0.00",
+    "constituency_code": "P.210",
+    "total_registered_voters": "17613",
+    "state": "Sarawak",
+    "constituency_name": "KANOWIT",
+    "majority": "0",
+    "winner_name": "AGO ANAK DAGANG",
+    "spoilt_votes": "0",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "0",
+        "name": " AGO ANAK DAGANG"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "0"
+  },
+  {
+    "voters_turnout": "70.00",
+    "constituency_code": "P.211",
+    "total_registered_voters": "49530",
+    "state": "Sarawak",
+    "constituency_name": "LANANG",
+    "majority": "4864",
+    "winner_name": "DATUK TIONG THAI KING",
+    "spoilt_votes": "253",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19476",
+        "name": " DATUK TIONG THAI KING"
+      },
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "14612",
+        "name": " DAVID WONG KEE WOAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "102",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "34443"
+  },
+  {
+    "voters_turnout": "68.00",
+    "constituency_code": "P.212",
+    "total_registered_voters": "53679",
+    "state": "Sarawak",
+    "constituency_name": "SIBU",
+    "majority": "3235",
+    "winner_name": "ROBERT LAU HOI CHEW",
+    "spoilt_votes": "334",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "15903",
+        "name": " WONG HO LENG"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19138",
+        "name": " ROBERT LAU HOI CHEW"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "812",
+        "name": " LIM CHIN CHUANG"
+      }
+    ],
+    "unreturned_ballot_sheets": "192",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "36379"
+  },
+  {
+    "voters_turnout": "63.03",
+    "constituency_code": "P.213",
+    "total_registered_voters": "22851",
+    "state": "Sarawak",
+    "constituency_name": "MUKAH",
+    "majority": "6298",
+    "winner_name": "DATUK SRI MUHAMMAD LEO MICHAEL TOYAD ABDULLAH",
+    "spoilt_votes": "521",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "3792",
+        "name": " HAI MERAWIN @ BONAVENTURE"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "10090",
+        "name": " DATUK SRI MUHAMMAD LEO MICHAEL TOYAD ABDULLAH"
+      }
+    ],
+    "unreturned_ballot_sheets": "32",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "14435"
+  },
+  {
+    "voters_turnout": "0.00",
+    "constituency_code": "P.214",
+    "total_registered_voters": "20057",
+    "state": "Sarawak",
+    "constituency_name": "SELANGAU",
+    "majority": "0",
+    "winner_name": "DATUK JOSEPH BINTULU ANAK BELAUN",
+    "spoilt_votes": "0",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "0",
+        "name": " DATUK JOSEPH BINTULU ANAK BELAUN"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "0"
+  },
+  {
+    "voters_turnout": "0.00",
+    "constituency_code": "P.215",
+    "total_registered_voters": "22723",
+    "state": "Sarawak",
+    "constituency_name": "KAPIT",
+    "majority": "0",
+    "winner_name": "DATUK ALEXANDER NANTA LINGGI",
+    "spoilt_votes": "0",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "0",
+        "name": " DATUK ALEXANDER NANTA LINGGI"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "0"
+  },
+  {
+    "voters_turnout": "63.04",
+    "constituency_code": "P.216",
+    "total_registered_voters": "17696",
+    "state": "Sarawak",
+    "constituency_name": "HULU RAJANG",
+    "majority": "2164",
+    "winner_name": "BILLY ABIT JOO",
+    "spoilt_votes": "139",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "4426",
+        "name": " GEORGE ANAK LAGONG"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "6590",
+        "name": " BILLY ABIT JOO"
+      }
+    ],
+    "unreturned_ballot_sheets": "9",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "11164"
+  },
+  {
+    "voters_turnout": "64.64",
+    "constituency_code": "P.217",
+    "total_registered_voters": "50404",
+    "state": "Sarawak",
+    "constituency_name": "BINTULU",
+    "majority": "14965",
+    "winner_name": "DATUK TIONG KING SING",
+    "spoilt_votes": "288",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "8663",
+        "name": " LIM SU KIEN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "23628",
+        "name": " DATUK TIONG KING SING"
+      }
+    ],
+    "unreturned_ballot_sheets": "50",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "32629"
+  },
+  {
+    "voters_turnout": "58.80",
+    "constituency_code": "P.218",
+    "total_registered_voters": "22143",
+    "state": "Sarawak",
+    "constituency_name": "SIBUTI",
+    "majority": "3648",
+    "winner_name": "AHMAD LAI BUJANG",
+    "spoilt_votes": "192",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "8238",
+        "name": " AHMAD LAI BUJANG"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "4590",
+        "name": " DR. MICHAEL TEO YU KENG"
+      }
+    ],
+    "unreturned_ballot_sheets": "10",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "13030"
+  },
+  {
+    "voters_turnout": "60.33",
+    "constituency_code": "P.219",
+    "total_registered_voters": "55963",
+    "state": "Sarawak",
+    "constituency_name": "MIRI",
+    "majority": "5216",
+    "winner_name": "PETER CHIN FAH KUI",
+    "spoilt_votes": "273",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "DAP",
+        "votes": "14138",
+        "name": " FONG PAU TECK"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "19354",
+        "name": " PETER CHIN FAH KUI"
+      }
+    ],
+    "unreturned_ballot_sheets": "204",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "33969"
+  },
+  {
+    "voters_turnout": "49.60",
+    "constituency_code": "P.220",
+    "total_registered_voters": "24425",
+    "state": "Sarawak",
+    "constituency_name": "BARAM",
+    "majority": "4044",
+    "winner_name": "DATO' JACOB DUNGAU SAGAN",
+    "spoilt_votes": "167",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "BEBAS",
+        "votes": "3952",
+        "name": " KEBING WAN"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "7996",
+        "name": " DATO' JACOB DUNGAU SAGAN"
+      }
+    ],
+    "unreturned_ballot_sheets": "11",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "12126"
+  },
+  {
+    "voters_turnout": "60.50",
+    "constituency_code": "P.221",
+    "total_registered_voters": "20315",
+    "state": "Sarawak",
+    "constituency_name": "LIMBANG",
+    "majority": "676",
+    "winner_name": "HASBI HABIBOLLAH",
+    "spoilt_votes": "113",
+    "candidates": [
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "5751",
+        "name": " DR. LAU LIAK KOI"
+      },
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "6427",
+        "name": " HASBI HABIBOLLAH"
+      }
+    ],
+    "unreturned_ballot_sheets": "89",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "12380"
+  },
+  {
+    "voters_turnout": "59.44",
+    "constituency_code": "P.222",
+    "total_registered_voters": "15717",
+    "state": "Sarawak",
+    "constituency_name": "LAWAS",
+    "majority": "7792",
+    "winner_name": "DATUK HENRY SUM AGONG",
+    "spoilt_votes": "82",
+    "candidates": [
+      {
+        "status": "Menang",
+        "party": "BN",
+        "votes": "8526",
+        "name": " DATUK HENRY SUM AGONG"
+      },
+      {
+        "status": "Kalah",
+        "party": "PKR",
+        "votes": "734",
+        "name": " HJ. JAPAR HJ. SUYUT"
+      }
+    ],
+    "unreturned_ballot_sheets": "0",
+    "winner_party": "BN",
+    "ballot_sheets_issued": "9342"
+  }
+]
