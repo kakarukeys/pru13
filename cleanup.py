@@ -133,6 +133,8 @@ def check_turnout(j):
 		turnout = float(obj["ballot_sheets_issued"]) / obj["total_registered_voters"] * 100
 		if abs(obj["voters_turnout"] - turnout) > 0.49:
 			print "turnout incorrect for state: {0}, constituency_name: {1}, turnout = {2}, {3}".format(obj["state"], obj["constituency_name"], turnout, obj["voters_turnout"])
+		if turnout < 0 or turnout >= 100:
+			print "turnout out of range for state: {0}, constituency_name: {1}, turnout = {2}, {3}".format(obj["state"], obj["constituency_name"], turnout, obj["voters_turnout"])
 
 json_list = open_files()
 # for j in json_list:
