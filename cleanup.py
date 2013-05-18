@@ -137,49 +137,51 @@ def check_turnout(j):
 			print "turnout out of range for state: {0}, constituency_name: {1}, turnout = {2}, {3}".format(obj["state"], obj["constituency_name"], turnout, obj["voters_turnout"])
 
 json_list = open_files()
-for j in json_list:
-	trim_string(j)
-	convert_integers(j)
 
-	result = trim_turnout(j)
-	print result
+if __name__ == "__main__":
+	for j in json_list:
+		trim_string(j)
+		convert_integers(j)
 
-	result = trim_state(j)
-	print result
-	print len(result)
+		result = trim_turnout(j)
+		print result
 
-	result = trim_total(j)
-	print result
+		result = trim_state(j)
+		print result
+		print len(result)
 
-	result = trim_majority(j)
-	print result
+		result = trim_total(j)
+		print result
 
-	set_loser_status(j)
-	pass
+		result = trim_majority(j)
+		print result
 
-for j in json_list[0:2]:
-	calc_turnout(j)
+		set_loser_status(j)
+		pass
 
-codes = reduce(set.union, map(check_constituency_code, json_list[::2]))
-print codes
-print len(codes)
-codes = reduce(set.union, map(check_constituency_code, json_list[1::2]))
-print codes
-print len(codes)
+	for j in json_list[0:2]:
+		calc_turnout(j)
 
-pair = reduce(set.union, map(check_constituency_name, json_list[::2]))
-print pair
-print len(pair)
-pair = reduce(set.union, map(check_constituency_name, json_list[1::2]))
-print pair
-print len(pair)
+	codes = reduce(set.union, map(check_constituency_code, json_list[::2]))
+	print codes
+	print len(codes)
+	codes = reduce(set.union, map(check_constituency_code, json_list[1::2]))
+	print codes
+	print len(codes)
 
-check_state_constituency_name(json_list[1] + json_list[3])
-for j in json_list:
-	check_winner(j)
-	check_majority(j)
-	check_parties(j)
-	check_ubs(j)
-	check_turnout(j)
+	pair = reduce(set.union, map(check_constituency_name, json_list[::2]))
+	print pair
+	print len(pair)
+	pair = reduce(set.union, map(check_constituency_name, json_list[1::2]))
+	print pair
+	print len(pair)
 
-#save(json_list)
+	check_state_constituency_name(json_list[1] + json_list[3])
+	for j in json_list:
+		check_winner(j)
+		check_majority(j)
+		check_parties(j)
+		check_ubs(j)
+		check_turnout(j)
+
+	save(json_list)

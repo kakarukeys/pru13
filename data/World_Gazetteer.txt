@@ -1,0 +1,835 @@
+kuala lumpur	1660423	6
+johor bahru	449685	6
+ipoh	445262	6
+kuantan	360586	6
+seremban	322232	6
+kota bahru	262931	5
+klang	262574	5
+taiping	222176	5
+kota kinabalu	213368	5
+georgetown	208774	5
+kuala terengganu	205051	5
+petaling jaya	192685	5
+sibu	189798	5
+sungai petani	179803	5
+shah alam	171985	5
+sandakan	168063	5
+selayang baru	164900	5
+ampang jaya	149911	5
+kuching	140299	5
+miri	134042	5
+alor setar	122145	5
+tawau	121573	5
+bintulu	119138	5
+kajang sungai chua	102732	5
+putrajaya	94109	5
+labuan	87677	5
+kampong baru puchong	80495	5
+bandar penggaram	79579	5
+butterworth	75428	5
+seri kembangan	73929	5
+melaka	68191	5
+bandar maharani	66005	5
+kluang	56593	5
+taman greenwood	55162	5
+cyberjaya	52469	5
+pasir gudang	49317	5
+dungun	47536	5
+bukit beruntung	44719	5
+pangkal kalong	43005	5
+teluk intan	42763	5
+semporna	37709	5
+batu sembilan cheras	33972	5
+rawang	33597	5
+segamat	32669	5
+kulim	32021	5
+sarikei	31577	4
+kudat	31005	4
+bandar puncak alam	30851	4
+lahad datu	29789	4
+bandar saujana utama	29289	4
+banting	28511	4
+kuala terengganu tengah	28071	4
+gombak setia	27691	4
+kepayan	27547	4
+manir	25781	4
+bentong	25594	4
+peringat	24812	4
+raub	23927	4
+bandar baharu salak tinggi	23809	4
+jitra	23358	4
+sungai besar	22989	4
+batu rakit	22619	4
+semenyih	22392	4
+kulai	22223	4
+senai	21260	4
+port dickson	21076	4
+kuala selangor	20604	4
+kadok	20101	4
+ayer itam	19611	4
+kinarut	19259	4
+bandar jengka pusat	18997	4
+gua musang	18935	4
+padang serai	18251	4
+tanjung tokong	18251	4
+sungai siput utara	18243	4
+tanjung bunga	18021	4
+pontian kecil	17951	4
+cukai	17707	4
+jenjarom	17462	4
+seri iskandar	16930	4
+tanah merah	16641	4
+kuala krai	15937	4
+kampong koh	15797	4
+batu feringgi	15506	4
+kampar	15458	4
+kuala lipis	15272	4
+perai	15195	4
+mentakab	15147	4
+bukit baru	14930	4
+kota tinggi	14922	4
+kunak	14766	4
+subang	14745	4
+kuala kubu baru	14617	4
+limbang	14373	4
+bukit mertajam	13789	4
+beaufort	13611	4
+gelugor	13377	4
+sekinchan	13225	4
+paka	13097	4
+kubang kerian	12914	4
+ayer keroh	12830	4
+tenggara	12580	4
+pasir mas	12232	4
+jerantut	12118	4
+mersing	11942	4
+bedong	11861	4
+bandar saujana putra	11670	4
+tanah rata	11645	4
+kuah	11623	4
+sungai way subang	11039	4
+kota kinabatangan	10956	4
+guar chempedak	10943	4
+muadzam shah	10908	4
+seri setia	10905	4
+kampong pandan dalam	10891	4
+kangar	10294	4
+simpang empat	9897	4
+kuala pilah	9840	4
+ranau	9582	4
+sabak	9513	4
+sri aman	9351	4
+kota marudu	9311	4
+rasa	9203	4
+tumpat	9165	4
+permatang kuching	9144	4
+batang berjuntai	8990	4
+kota belud	8964	4
+serian	8625	4
+tanjong sepat	8541	4
+bagan serai	8515	4
+klebang	8515	4
+tangkak	8064	4
+gurun	8030	4
+caluk	7922	4
+kuang	7862	4
+tampin	7638	4
+kampong ulu yam baharu	7568	4
+bahau	7490	4
+tapah	7411	4
+sekudai	7357	4
+teriang	7337	4
+kapit	7299	4
+kuala kedah	7249	4
+serendah	7232	4
+simpang empat bukit tengah	7176	4
+telok panglima garang	7115	4
+kuala nerang	7081	4
+kelapa sawit	7076	4
+tanjong rambutan	7014	4
+penawar	6984	4
+tanjong karang	6945	4
+batu gajah	6910	4
+batu delapan bazaar	6875	4
+sungai ruan	6834	4
+kuala berang	6814	4
+marudi	6808	4
+temerloh	6709	4
+subang jaya	6657	4
+dengkil	6636	4
+kota samarahan	6416	4
+ayer hitam	6412	4
+papar	6392	4
+kampong cepaka	6262	4
+kampong pinang	6248	4
+tikam batu	6231	4
+batu arang	6162	4
+chenering	5998	4
+keningau	5945	4
+ayer tawar	5941	4
+ulu bernam	5817	4
+bintangor	5742	4
+bukit gambir	5726	4
+kuala kurau	5593	4
+kuala kangsar	5575	4
+pekan nenas	5563	4
+tenom	5499	4
+pokok assam	5447	4
+ijok	5389	4
+lawas	5357	4
+jertih	5351	4
+kundasang	5350	4
+serting	5323	4
+jementah	5277	4
+bangi	5263	4
+sungai pelek	5240	4
+mambang di-awan	5233	4
+aulong	5153	4
+kalumpang	5040	4
+kampong china	4928	4
+labis	4879	4
+beserah	4876	4
+pulai	4817	4
+guntung	4800	4
+tongkang pechah	4698	4
+marang	4637	4
+sipitang	4591	4
+kijal	4486	4
+yong peng	4420	4
+pengkalan hulu	4321	4
+bukit bakri	4293	4
+song	4260	4
+bidor	4230	4
+paloh	4229	4
+masai	4214	4
+siburan bazaar	4102	4
+simpang pulai	4073	4
+kampong baru sungai buloh	4028	4
+jelapang	3997	4
+machang	3981	4
+rantau panjang	3972	4
+parit buntar	3955	4
+kampong raja	3930	4
+lekir	3921	4
+jeli	3917	4
+batu tiga	3915	4
+benut	3869	4
+saleng	3865	4
+seberang takir	3753	4
+ulu tiram	3678	4
+endau	3667	4
+yan kecil	3667	4
+pekan	3593	4
+sungai manggis	3567	4
+kuala ketil	3542	4
+langkap	3533	4
+ulu sungai choh	3476	4
+tuaran	3475	4
+telok datok	3461	4
+telupid	3458	4
+lawan kuda baharu	3418	4
+tanjong malim	3404	4
+batang kali	3399	4
+merang	3379	4
+air lanas	3362	4
+beluran	3346	4
+pusing gunong hijau	3318	4
+parit raja	3226	4
+bukit pasir	3219	4
+sepang	3167	4
+kuala sungai buluh	3150	3
+lunas	3079	3
+tok uban	3074	3
+mantin	3062	3
+lambir bazaar	3054	3
+bukit bunga	3041	3
+kerteh	3035	3
+ajil	3025	3
+jeniang	3023	3
+tunku abdul rahman	3021	3
+lembah jaya	2994	3
+malim nawar	2992	3
+kota sentosa	2977	3
+kangkar kahang	2945	3
+val dor	2932	3
+penarik	2890	3
+parit jawa	2869	3
+ringlet	2833	3
+pekan gurney	2786	3
+bukit tinggi	2770	3
+kuala sepetang	2768	3
+chui chak	2746	3
+grik	2745	3
+kampong pasir panjang laut	2732	3
+tambunan	2727	3
+pekan yan	2724	3
+chaah	2699	3
+baling	2680	3
+batu papan	2667	3
+kuala besut	2640	3
+batu sebelas cheras	2626	3
+buloh kasap	2610	3
+ginting	2576	3
+wakaf baru	2572	3
+tanjong piandang	2566	3
+sungai tong	2563	3
+gopeng	2556	3
+air hitam	2538	3
+batang merbau	2514	3
+rengam	2512	3
+sri lalang	2502	3
+simpang	2468	3
+simpang rengam	2458	3
+bagan datok	2457	3
+batu melintang	2450	3
+simpang empat	2444	3
+pauh lima	2428	3
+lima kedai	2408	3
+kopisan baharu	2405	3
+padang lembu	2357	3
+berapit	2350	3
+batu gajah	2345	3
+sungai rengit	2342	3
+belawai bazaar	2332	3
+behrang stesen	2328	3
+batu anam	2321	3
+jabi	2314	3
+pendang	2313	3
+cheroh	2289	3
+cherang ruku	2274	3
+tapah bazaar	2252	3
+batu caves	2251	3
+gelang patah	2234	3
+pekan bantang	2233	3
+simpang jalong	2207	3
+pematang tinggi	2203	3
+tarun	2195	3
+kangkar pulai	2176	3
+kuala baram bazaar	2174	3
+pasir puteh	2174	3
+karak	2163	3
+nibong tebal	2153	3
+bukit payong	2128	3
+pengkalang kundang	2114	3
+kampong paya	2101	3
+serdang	2099	3
+juru	2088	3
+ulu yam lama	2087	3
+tanjong dawai	2083	3
+lundu	2075	3
+kodiang	2070	3
+lenggong	2064	3
+pandan	2054	3
+lubok buntar	2012	3
+kampong baru rawang	2006	3
+senggarang	2001	3
+mengkarak	1971	3
+sanglang	1970	3
+sungai batu	1957	3
+gemencheh baru	1954	3
+titi	1951	3
+ayer baloi	1947	3
+temangan	1942	3
+kampong sungai penchala	1924	3
+daro	1903	3
+chemor	1901	3
+layang-layang	1899	3
+kimanis	1879	3
+gemas	1871	3
+kemasek	1864	3
+beruas	1843	3
+batu enam	1840	3
+rasah	1809	3
+bekok	1762	3
+kuala tiga	1762	3
+batu berendam	1759	3
+sungai lalang	1755	3
+mengkuang	1751	3
+pelentong	1744	3
+kupang	1741	3
+kerling	1737	3
+beratok bazaar	1736	3
+bau	1722	3
+bali	1719	3
+selama	1719	3
+parit	1697	3
+gual ipoh	1688	3
+machap baru	1687	3
+manek urai	1684	3
+bukit selembau	1681	3
+benta	1680	3
+pematang pauh	1656	3
+pantai remis	1618	3
+kapong kuantan	1598	3
+igan bazaar	1592	3
+pauh	1588	3
+lanchang	1578	3
+changlun	1577	3
+telok ayer tawar	1576	3
+kangar arau	1571	3
+pasir akar	1567	3
+jawi	1566	3
+jelawat	1561	3
+sungai limau	1556	3
+matang	1540	3
+apal	1537	3
+tronoh	1536	3
+lumut	1535	3
+melugu bazaar	1508	3
+serom	1504	3
+parit sulong	1501	3
+telemong	1499	3
+tamparuli	1498	3
+donggongon	1492	3
+pulau sebang	1485	3
+pokok sena	1469	3
+terong	1448	3
+salak baharu	1434	3
+kampong jering	1410	3
+sungai durian	1405	3
+putatan	1395	3
+dabong	1394	3
+pulai chonding	1391	3
+pagoh	1388	3
+selalang bazaar	1384	3
+tanjong lumpur	1380	3
+batu delapanbelas ulu langat	1363	3
+sungai udang	1339	3
+jemaluang	1330	3
+jeram	1329	3
+junjong	1327	3
+machang bubuk	1326	3
+chenderong	1323	3
+kelian intan	1323	3
+padang sera	1323	3
+berdang	1320	3
+saratok	1314	3
+tunjang	1312	3
+seri medan	1311	3
+fikri	1309	3
+sungai karangan	1307	3
+pasir penambang	1300	3
+betong	1298	3
+pematang kling	1295	3
+sagil luar	1293	3
+kangkar bahru	1292	3
+malau	1287	3
+mukah	1287	3
+machap	1273	3
+dong	1265	3
+kangkong	1262	3
+masjid tanah	1257	3
+sematan bazaar	1257	3
+merbau pulas	1246	3
+kota sarang semut	1243	3
+kampong merbau	1241	3
+ulu choh	1234	3
+sungai maong bazaar	1229	3
+kerayong	1224	3
+chenderiang	1221	3
+gambang	1211	3
+kasigui	1210	3
+grisek	1209	3
+changkat keruing	1204	3
+bandar permaisuri	1197	3
+kampong coldstream	1196	3
+temoh	1194	3
+sik	1190	3
+jerkoh	1185	3
+hutan melintang	1182	3
+sungai pinang	1180	3
+sungai pinang kechil	1180	3
+rahang	1175	3
+bertam	1174	3
+durian tunggal	1169	3
+sri gading	1169	3
+nilai	1168	3
+kemubu	1165	3
+simpang dua	1154	3
+tanjong tualang	1151	3
+oya bazaar	1150	3
+sungai tekali	1149	3
+matu	1147	3
+teluk kumbar	1141	3
+air kuning selatan	1139	3
+pandaruan bazaar	1139	3
+rimba panjang	1136	3
+tanjong kling	1134	3
+ulu kali	1117	3
+karangan	1106	3
+bachok	1102	3
+semeling	1102	3
+kemayan	1099	3
+sebayu bazaar	1098	3
+permas kecil	1091	3
+batu kurau	1087	3
+mambau	1087	3
+petaling	1084	3
+engkilili bazaar	1081	3
+bagan samak	1078	3
+kuala rui	1077	3
+gemang	1076	3
+rajang bazaar	1066	3
+kalai	1062	3
+gual periok	1060	3
+bukit fraser	1057	3
+sungai lui	1055	3
+skrang bazaar	1054	3
+kupang bazaar	1051	3
+sungkai	1039	3
+pematang tok mahat	1037	3
+nalla	1029	3
+sikamat	1028	3
+jerlun	1024	3
+simpang pertang	1017	3
+jemukan bazaar	1005	3
+limau kasturi	1002	3
+liman kati	998	3
+bidor stesen	991	3
+kuala kelawang	988	3
+semerah	988	3
+kampong perpaduan	984	3
+simunjan	975	3
+gertak sanggul	974	3
+karai	973	3
+sungai mati	970	3
+pasir bogok	959	3
+grigat bazaar	958	3
+pitas	956	3
+alor lintah	954	3
+mesapol	949	3
+sedili besar	947	3
+balakong	940	3
+jeram	929	3
+salak	929	3
+santubong bazaar	925	3
+sedenak	919	3
+jaie bazaar	912	3
+teras	906	3
+pasir panjang	905	3
+tasek gelugor	892	3
+pasir panjang	889	3
+batu lapan	886	3
+kampong slim	880	3
+bukit pagar	872	3
+pantai	872	3
+pekan ayer panas	872	3
+kampong gajah	866	3
+rengit	863	3
+bagan baharu	857	3
+batu dua belas	856	3
+kerpan	853	3
+kampong sengkang	852	3
+wakaf tapai	852	3
+selama	850	3
+kubu gajah	847	3
+kampong raja hitam	834	3
+ulu langat	833	3
+lenga	832	3
+pajam	831	3
+bukit batu	827	3
+ayer bemnba	815	3
+kampong tengah	814	3
+kemantan bazaar	811	3
+simpang lima	806	3
+anak bukit	800	3
+tambun	778	3
+kota padawan	776	3
+long lama bazaar	759	3
+morib dan kanchung	756	3
+kuala kerau	754	3
+tapah road	753	3
+padang besar	749	3
+jimah-sungai nipah	746	3
+kuala sawah	745	3
+dangi	741	3
+sungai haji dorani	738	3
+asajaya	736	3
+pertang	733	3
+manchis	719	3
+bukit kangkar	712	3
+kian sit	712	3
+kuala penyu	704	3
+kuala perlis	704	3
+sagga	697	3
+jasin	696	3
+paroi	695	3
+kampong lalang	694	3
+penjom	693	3
+tangga batu	693	3
+balingian bazaar	689	3
+simpang empat	688	3
+kubang semang	685	3
+bukit jenun	682	3
+kaki bukit	681	3
+temerloh	680	3
+sungai nibong	677	3
+pangkor	676	3
+tanjong ipoh	676	3
+kampong simpang lima	674	3
+kuala pegang	672	3
+tasek	667	3
+ayer kuning	666	3
+labu	665	3
+alor gajah	662	3
+sebangan bazaar	654	3
+batu dua	648	3
+dalat	647	3
+changkat lobak	644	3
+kusial baharu	638	3
+yayasan mara	636	3
+pasir gogok	632	3
+ayer kala	629	3
+kuala rompin	628	3
+bukit lakota	625	3
+dusun durian estate	624	3
+simunja bazaar	624	3
+sungai puyu	621	3
+nabawan	615	3
+kampong masjid	612	3
+pertama	605	3
+panchor	604	3
+sungai gedong	603	3
+kampung chennah	600	3
+sadong jaya bazaar	600	3
+tokai	600	3
+batu niah bazaar	590	3
+kepala batas	589	3
+simpang ampat	589	3
+tambirat bazaar	586	3
+padang gerus	583	3
+sambir bazaar	581	3
+simpang durian	581	3
+lubok antu	580	3
+redang panjang	580	3
+sauk	580	3
+mahsan	577	3
+ulu beranang	574	3
+roban bazaar	572	3
+kebun baharu	569	3
+rembia	568	3
+kampong kundang ulu	561	3
+johol	560	3
+kerdau	559	3
+binjai rendah	555	3
+titi serong	555	3
+sungai seluang	553	3
+membakut	551	3
+seelong	540	3
+kampong baru gemas	536	3
+ayer jernih	534	3
+pelawan	523	3
+lam lee	518	3
+beroga	517	3
+telok sengat	516	3
+tawar	515	3
+beranang	514	3
+sungai ara	509	3
+chegar bongor	508	3
+parit baru sungai lang	508	3
+sungai buloh	507	3
+padang tengku	504	3
+besar	497	3
+bandar baharu	495	3
+banting bazaar	493	3
+mimaland	486	3
+dew	483	3
+sungai kob	482	3
+selangau bazaar	476	3
+tronoh mines	473	3
+stapang bazaar	461	3
+kut bazaar	459	3
+sungai sembilang	458	3
+gemas bahru	453	3
+padang lebar	450	3
+belaga	445	3
+bekenu bazaar	442	3
+kanowit	442	3
+siputeh	440	3
+asam jawa	439	3
+chamek	436	3
+niah bazaar baru	435	3
+kejai	433	3
+ng dap bazaar	433	3
+kaba bazaar	431	3
+pantu bazaar	428	3
+lubok china	422	3
+sungai karas	421	3
+jalan baharu	420	3
+sungai bakap	419	3
+semanggol selinsing	416	3
+tanjok belanja	416	3
+alor pongsu	415	3
+sungai muntoh	413	3
+sungai penjuring	413	3
+kangkar tebrau	412	3
+ayer terjun	410	3
+lahat	408	3
+batu kawa bazaar	404	3
+kampong buloh akar	399	3
+simpang bekoh	398	3
+batang melaka	397	3
+merlimau	397	3
+changkat jering	396	3
+kuala pahi	388	3
+sungai lembu	386	3
+manong	385	3
+pekan kota	385	3
+tatau	383	3
+tebelu bazaar	383	3
+parit yaani	378	3
+tebakang bazaar	376	3
+bagan terap	375	3
+padang rengas	374	3
+debak bazaar	373	3
+baki bazaar	372	3
+sungai dua	372	3
+sungai gadut	369	3
+kiulu	365	3
+weston	357	3
+ulu sepetang	354	3
+batang malaka	351	3
+beliong bazaar	351	3
+sungai terap	351	3
+taman mesra	348	3
+gedok	346	3
+paya tupai	346	3
+sungai rambai	345	3
+merbok	340	3
+penaga	340	3
+sepulot	340	3
+bukit rambai	337	3
+gunong ayer bazaar	337	3
+bemban	336	3
+jelai	332	3
+segari	331	3
+pensiangan	328	3
+langgar	327	3
+kuala sungai baru	326	3
+sungai sayong	325	3
+kuala tembeling	324	3
+papan	321	3
+bukit kepong	319	3
+mahang	318	3
+rantau	318	3
+changkat	316	2
+sungai dua	314	2
+jimah-bukit pelandok	312	2
+sebauh bazaar	309	2
+bota kanan	305	2
+bukit tambun	304	2
+jelebu estate	304	2
+nyabor bazaar	303	2
+nenasi	294	2
+siniawan bazaar	289	2
+rantau panjang	287	2
+julau	286	2
+kemabong	284	2
+spaoh bazaar	280	2
+padang gajah	277	2
+simpang tiga	276	2
+sibintek bazaar	273	2
+bongawun	270	2
+sungai megat aris	270	2
+jimah-chuah	265	2
+kampong hubong	265	2
+batak rabit	263	2
+pengkalan kempas	263	2
+trusan bazaar	260	2
+balik pulau	258	2
+pondok tanjong	258	2
+kuala dipang	257	2
+paya jakas	255	2
+paloh bazaar	254	2
+sungai rotan	250	2
+gunong semanggol	246	2
+kati	246	2
+pengkalan kundang	246	2
+sungai sumun	244	2
+selat pagar	238	2
+trolak	237	2
+salak utara	236	2
+tandek	236	2
+sungai lesong	232	2
+batu dua puluh	231	2
+bukit angkat	228	2
+kota tampan	226	2
+kota klias	217	2
+sungai siput selatan	217	2
+tenghilang	217	2
+banir	214	2
+jenderata	214	2
+puchong batu duabelas	213	2
+kampong tengah	212	2
+lubok merbau	208	2
+maran	206	2
+mulong	204	2
+selandar	200	2
+juasseh	198	2
+sungai nibong	195	2
+bandar mutiara	186	2
+bukit rotan	184	2
+bukit bendera	182	2
+sungai kecil	182	2
+ayer mawang	180	2
+durian tipus	180	2
+kampong baharu	177	2
+bayan lepas	175	2
+kampong tasek	172	2
+tepoh	172	2
+pakan bazaar	167	2
+pulau betong	165	2
+kerinting	161	2
+simpang lima	161	2
+lingga bazaar	159	2
+selekoh	159	2
+senaling	157	2
+bukit merah	153	2
+kawasan sungai ayer tawar	151	2
+kesang pajak	148	2
+chenor	140	2
+kota baharu	139	2
+bukit tengah	136	2
+kuala jelai	136	2
+padas damit	134	2
+sundar bazaar	134	2
+selising	133	2
+asahan	132	2
+batang benar	132	2
+jelutong	132	2
+batu kikir	127	2
+sindumin	123	2
+tebedu bazaar	116	2
+bagan nakhoda omar	115	2
+rantau panjang	115	2
+pangkalan baharu	108	2
+gemencheh lama	106	2
+serdang lama	106	2
+pusa bazaar baru	101	2
+sri menanti	94	2
+sungai bayor	93	2
+sungai kechil hilir	92	2
+menumbuk	87	2
+pusa bazaar lama	87	2
+degong	86	2
+paya rumput	85	2
+sungai raya	84	2
+lenggeng	82	2
+kandang	78	2
+sungai bogak	75	2
+ayer molek	70	2
+nyalas	68	2
+lukut	64	2
+bingkur	54	2
+rompin	54	2
+bukau	53	2
+chin chin	49	2
+temoh stesen	49	2
+bukit naning	37	2
+malaman	34	2
+damar laut	18	1
+lingkungan	14	1
+pekan sungai buluh	14	1
+gadong	12	1
+apin-apin	11	1
+limbawang	1	0

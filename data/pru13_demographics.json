@@ -1,0 +1,5111 @@
+{
+    "SARAWAK": {
+        "parliament_constituencies": {
+            "P.220": {
+                "state_constituencies": {
+                    "N. 67": {
+                        "name": "TELANG USAN"
+                    },
+                    "N. 66": {
+                        "name": "MARUDI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 85.21,
+                    "Chinese": 9.0,
+                    "Orang Asli": 0.24,
+                    "Malay": 5.02,
+                    "Indian": 0.04,
+                    "Others": 0.23,
+                    "Bumiputra Sabah": 0.26
+                },
+                "name": "BARAM",
+                "metropolitan_index": 4
+            },
+            "P.218": {
+                "state_constituencies": {
+                    "N. 62": {
+                        "name": "LAMBIR"
+                    },
+                    "N. 61": {
+                        "name": "BEKENU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 55.08,
+                    "Chinese": 22.31,
+                    "Orang Asli": 0.01,
+                    "Malay": 21.89,
+                    "Indian": 0.08,
+                    "Others": 0.36,
+                    "Bumiputra Sabah": 0.26
+                },
+                "name": "SIBUTI",
+                "metropolitan_index": 2
+            },
+            "P.219": {
+                "state_constituencies": {
+                    "N. 63": {
+                        "name": "PIASAU"
+                    },
+                    "N. 65": {
+                        "name": "SENADIN"
+                    },
+                    "N. 64": {
+                        "name": "PUJUT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 25.67,
+                    "Chinese": 57.4,
+                    "Orang Asli": 0.01,
+                    "Malay": 16.0,
+                    "Indian": 0.26,
+                    "Others": 0.33,
+                    "Bumiputra Sabah": 0.32
+                },
+                "name": "MIRI",
+                "metropolitan_index": 5
+            },
+            "P.216": {
+                "state_constituencies": {
+                    "N. 56": {
+                        "name": "BALEH"
+                    },
+                    "N. 57": {
+                        "name": "BELAGA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 97.0,
+                    "Chinese": 1.31,
+                    "Orang Asli": 0.29,
+                    "Malay": 0.92,
+                    "Indian": 0.03,
+                    "Others": 0.23,
+                    "Bumiputra Sabah": 0.22
+                },
+                "name": "HULU RAJANG",
+                "metropolitan_index": 3
+            },
+            "P.217": {
+                "state_constituencies": {
+                    "N. 60": {
+                        "name": "KEMENA"
+                    },
+                    "N. 58": {
+                        "name": "JEPAK"
+                    },
+                    "N. 59": {
+                        "name": "KIDURONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 62.38,
+                    "Chinese": 27.89,
+                    "Orang Asli": 0.01,
+                    "Malay": 9.2,
+                    "Indian": 0.09,
+                    "Others": 0.16,
+                    "Bumiputra Sabah": 0.28
+                },
+                "name": "BINTULU",
+                "metropolitan_index": 5
+            },
+            "P.214": {
+                "state_constituencies": {
+                    "N. 52": {
+                        "name": "TAMIN"
+                    },
+                    "N. 53": {
+                        "name": "KAKUS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 94.94,
+                    "Chinese": 3.5,
+                    "Orang Asli": 0.01,
+                    "Malay": 1.12,
+                    "Indian": 0.01,
+                    "Others": 0.31,
+                    "Bumiputra Sabah": 0.11
+                },
+                "name": "SELANGAU",
+                "metropolitan_index": 4
+            },
+            "P.215": {
+                "state_constituencies": {
+                    "N. 54": {
+                        "name": "PELAGUS"
+                    },
+                    "N. 55": {
+                        "name": "KATIBAS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 86.76,
+                    "Chinese": 10.27,
+                    "Orang Asli": 0.03,
+                    "Malay": 2.63,
+                    "Indian": 0.06,
+                    "Others": 0.12,
+                    "Bumiputra Sabah": 0.14
+                },
+                "name": "KAPIT",
+                "metropolitan_index": 4
+            },
+            "P.212": {
+                "state_constituencies": {
+                    "N. 47": {
+                        "name": "BAWANG ASSAN"
+                    },
+                    "N. 49": {
+                        "name": "NANGKA"
+                    },
+                    "N. 48": {
+                        "name": "PELAWAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 23.43,
+                    "Chinese": 64.68,
+                    "Orang Asli": 0.03,
+                    "Malay": 11.17,
+                    "Indian": 0.1,
+                    "Others": 0.17,
+                    "Bumiputra Sabah": 0.43
+                },
+                "name": "SIBU",
+                "metropolitan_index": 5
+            },
+            "P.213": {
+                "state_constituencies": {
+                    "N. 50": {
+                        "name": "DALAT"
+                    },
+                    "N. 51": {
+                        "name": "BALINGIAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 86.38,
+                    "Chinese": 9.8,
+                    "Orang Asli": 0.02,
+                    "Malay": 3.12,
+                    "Indian": 0.05,
+                    "Others": 0.28,
+                    "Bumiputra Sabah": 0.35
+                },
+                "name": "MUKAH",
+                "metropolitan_index": 3
+            },
+            "P.210": {
+                "state_constituencies": {
+                    "N. 44": {
+                        "name": "MACHAN"
+                    },
+                    "N. 43": {
+                        "name": "NGEMAH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 86.34,
+                    "Chinese": 12.04,
+                    "Orang Asli": 0.03,
+                    "Malay": 1.36,
+                    "Indian": 0.03,
+                    "Others": 0.11,
+                    "Bumiputra Sabah": 0.09
+                },
+                "name": "KANOWIT",
+                "metropolitan_index": 4
+            },
+            "P.211": {
+                "state_constituencies": {
+                    "N. 45": {
+                        "name": "BUKIT ASSEK"
+                    },
+                    "N. 46": {
+                        "name": "DUDONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 25.15,
+                    "Chinese": 72.11,
+                    "Orang Asli": 0.01,
+                    "Malay": 2.44,
+                    "Indian": 0.05,
+                    "Others": 0.09,
+                    "Bumiputra Sabah": 0.15
+                },
+                "name": "LANANG",
+                "metropolitan_index": 2
+            },
+            "P.199": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "KEDUP"
+                    },
+                    "N.18": {
+                        "name": "TEBEDU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 81.83,
+                    "Chinese": 10.57,
+                    "Orang Asli": 0.01,
+                    "Malay": 7.18,
+                    "Indian": 0.1,
+                    "Others": 0.16,
+                    "Bumiputra Sabah": 0.15
+                },
+                "name": "SERIAN",
+                "metropolitan_index": 4
+            },
+            "P.198": {
+                "state_constituencies": {
+                    "N.17": {
+                        "name": "TARAT"
+                    },
+                    "N.16": {
+                        "name": "BENGOH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 66.05,
+                    "Chinese": 26.68,
+                    "Orang Asli": 0.03,
+                    "Malay": 6.5,
+                    "Indian": 0.2,
+                    "Others": 0.23,
+                    "Bumiputra Sabah": 0.31
+                },
+                "name": "MAMBONG",
+                "metropolitan_index": 2
+            },
+            "P.195": {
+                "state_constituencies": {
+                    "N.09": {
+                        "name": "PADUNGAN"
+                    },
+                    "N.10": {
+                        "name": "PENDING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 3.86,
+                    "Chinese": 90.94,
+                    "Orang Asli": 0.0,
+                    "Malay": 4.48,
+                    "Indian": 0.4,
+                    "Others": 0.14,
+                    "Bumiputra Sabah": 0.17
+                },
+                "name": "BANDAR KUCHING",
+                "metropolitan_index": 3
+            },
+            "P.194": {
+                "state_constituencies": {
+                    "N.08": {
+                        "name": "SATOK"
+                    },
+                    "N.06": {
+                        "name": "TUPONG"
+                    },
+                    "N.07": {
+                        "name": "SAMARIANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 12.28,
+                    "Chinese": 12.33,
+                    "Orang Asli": 0.01,
+                    "Malay": 74.34,
+                    "Indian": 0.53,
+                    "Others": 0.29,
+                    "Bumiputra Sabah": 0.22
+                },
+                "name": "PETRA JAYA",
+                "metropolitan_index": 2
+            },
+            "P.197": {
+                "state_constituencies": {
+                    "N.15": {
+                        "name": "MUARA TUANG"
+                    },
+                    "N.14": {
+                        "name": "ASAJAYA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 26.04,
+                    "Chinese": 12.09,
+                    "Orang Asli": 0.11,
+                    "Malay": 60.6,
+                    "Indian": 0.24,
+                    "Others": 0.24,
+                    "Bumiputra Sabah": 0.67
+                },
+                "name": "KOTA SAMARAHAN",
+                "metropolitan_index": 4
+            },
+            "P.196": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "BATU KAWAH"
+                    },
+                    "N.12": {
+                        "name": "KOTA SENTOSA"
+                    },
+                    "N.11": {
+                        "name": "BATU LINTANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 14.71,
+                    "Chinese": 73.25,
+                    "Orang Asli": 0.03,
+                    "Malay": 10.69,
+                    "Indian": 0.88,
+                    "Others": 0.27,
+                    "Bumiputra Sabah": 0.18
+                },
+                "name": "STAMPIN",
+                "metropolitan_index": 4
+            },
+            "P.193": {
+                "state_constituencies": {
+                    "N.03": {
+                        "name": "TANJONG DATU"
+                    },
+                    "N.04": {
+                        "name": "PANTAI DAMAI"
+                    },
+                    "N.05": {
+                        "name": "DEMAK LAUT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 11.78,
+                    "Chinese": 8.11,
+                    "Orang Asli": 0.02,
+                    "Malay": 79.88,
+                    "Indian": 0.04,
+                    "Others": 0.1,
+                    "Bumiputra Sabah": 0.07
+                },
+                "name": "SANTUBONG",
+                "metropolitan_index": 2
+            },
+            "P.192": {
+                "state_constituencies": {
+                    "N.01": {
+                        "name": "OPAR"
+                    },
+                    "N.02": {
+                        "name": "TASIK BIRU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 75.83,
+                    "Chinese": 19.1,
+                    "Orang Asli": 0.01,
+                    "Malay": 4.59,
+                    "Indian": 0.14,
+                    "Others": 0.17,
+                    "Bumiputra Sabah": 0.15
+                },
+                "name": "MAS GADING",
+                "metropolitan_index": 2
+            },
+            "P.209": {
+                "state_constituencies": {
+                    "N. 41": {
+                        "name": "PAKAN"
+                    },
+                    "N. 42": {
+                        "name": "MELUAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 94.26,
+                    "Chinese": 4.84,
+                    "Orang Asli": 0.0,
+                    "Malay": 0.67,
+                    "Indian": 0.04,
+                    "Others": 0.1,
+                    "Bumiputra Sabah": 0.08
+                },
+                "name": "JULAU",
+                "metropolitan_index": 4
+            },
+            "P.208": {
+                "state_constituencies": {
+                    "N. 39": {
+                        "name": "REPOK"
+                    },
+                    "N. 40": {
+                        "name": "MERADONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 30.13,
+                    "Chinese": 65.66,
+                    "Orang Asli": 0.0,
+                    "Malay": 3.88,
+                    "Indian": 0.04,
+                    "Others": 0.18,
+                    "Bumiputra Sabah": 0.12
+                },
+                "name": "SARIKEI",
+                "metropolitan_index": 4
+            },
+            "P.205": {
+                "state_constituencies": {
+                    "N. 33": {
+                        "name": "KALAKA"
+                    },
+                    "N. 34": {
+                        "name": "KRIAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 57.79,
+                    "Chinese": 6.88,
+                    "Orang Asli": 0.01,
+                    "Malay": 35.13,
+                    "Indian": 0.04,
+                    "Others": 0.09,
+                    "Bumiputra Sabah": 0.06
+                },
+                "name": "SARATOK",
+                "metropolitan_index": 3
+            },
+            "P.204": {
+                "state_constituencies": {
+                    "N. 30": {
+                        "name": "SARIBAS"
+                    },
+                    "N. 31": {
+                        "name": "LAYAR"
+                    },
+                    "N. 32": {
+                        "name": "BUKIT SABAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 57.61,
+                    "Chinese": 7.09,
+                    "Orang Asli": 0.03,
+                    "Malay": 34.95,
+                    "Indian": 0.07,
+                    "Others": 0.13,
+                    "Bumiputra Sabah": 0.13
+                },
+                "name": "BETONG",
+                "metropolitan_index": 3
+            },
+            "P.207": {
+                "state_constituencies": {
+                    "N. 38": {
+                        "name": "JEMORENG"
+                    },
+                    "N. 37": {
+                        "name": "DARO"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 89.4,
+                    "Chinese": 3.79,
+                    "Orang Asli": 0.02,
+                    "Malay": 6.36,
+                    "Indian": 0.03,
+                    "Others": 0.16,
+                    "Bumiputra Sabah": 0.23
+                },
+                "name": "IGAN",
+                "metropolitan_index": 3
+            },
+            "P.206": {
+                "state_constituencies": {
+                    "N. 35": {
+                        "name": "BELAWAI"
+                    },
+                    "N. 36": {
+                        "name": "SEMOP"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 70.1,
+                    "Chinese": 5.39,
+                    "Orang Asli": 0.02,
+                    "Malay": 23.82,
+                    "Indian": 0.03,
+                    "Others": 0.41,
+                    "Bumiputra Sabah": 0.24
+                },
+                "name": "TANJONG MANIS",
+                "metropolitan_index": 2
+            },
+            "P.201": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "BETING MARO"
+                    },
+                    "N.22": {
+                        "name": "SEBUYAU"
+                    },
+                    "N.23": {
+                        "name": "LINGGA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 31.4,
+                    "Chinese": 3.24,
+                    "Orang Asli": 0.01,
+                    "Malay": 65.18,
+                    "Indian": 0.02,
+                    "Others": 0.05,
+                    "Bumiputra Sabah": 0.09
+                },
+                "name": "BATANG LUPAR",
+                "metropolitan_index": 2
+            },
+            "P.200": {
+                "state_constituencies": {
+                    "N.20": {
+                        "name": "SADONG JAYA"
+                    },
+                    "N.21": {
+                        "name": "SIMUNJAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 25.78,
+                    "Chinese": 5.64,
+                    "Orang Asli": 0.01,
+                    "Malay": 68.18,
+                    "Indian": 0.03,
+                    "Others": 0.27,
+                    "Bumiputra Sabah": 0.1
+                },
+                "name": "BATANG SADONG",
+                "metropolitan_index": 3
+            },
+            "P.203": {
+                "state_constituencies": {
+                    "N. 29": {
+                        "name": "BATANG AIR"
+                    },
+                    "N. 28": {
+                        "name": "ENGKILILI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 90.12,
+                    "Chinese": 8.1,
+                    "Orang Asli": 0.02,
+                    "Malay": 1.42,
+                    "Indian": 0.03,
+                    "Others": 0.14,
+                    "Bumiputra Sabah": 0.18
+                },
+                "name": "LUBOK ANTU",
+                "metropolitan_index": 3
+            },
+            "P.202": {
+                "state_constituencies": {
+                    "N. 27": {
+                        "name": "SIMANGGANG"
+                    },
+                    "N. 26": {
+                        "name": "BUKIT BEGUNAN"
+                    },
+                    "N. 25": {
+                        "name": "BALAI RINGIN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 73.35,
+                    "Chinese": 17.02,
+                    "Orang Asli": 0.02,
+                    "Malay": 9.22,
+                    "Indian": 0.04,
+                    "Others": 0.17,
+                    "Bumiputra Sabah": 0.17
+                },
+                "name": "SRI AMAN",
+                "metropolitan_index": 4
+            },
+            "P.222": {
+                "state_constituencies": {
+                    "N. 70": {
+                        "name": "BA'KELALAN"
+                    },
+                    "N. 71": {
+                        "name": "BUKIT SARI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.17,
+                    "Chinese": 34.01,
+                    "Orang Asli": 0.33,
+                    "Malay": 50.21,
+                    "Indian": 14.44,
+                    "Others": 0.61,
+                    "Bumiputra Sabah": 0.22
+                },
+                "name": "LAWAS",
+                "metropolitan_index": 4
+            },
+            "P.221": {
+                "state_constituencies": {
+                    "N. 69": {
+                        "name": "BATU DANAU"
+                    },
+                    "N. 68": {
+                        "name": "BUKIT KOTA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 44.92,
+                    "Chinese": 19.33,
+                    "Orang Asli": 0.06,
+                    "Malay": 27.17,
+                    "Indian": 0.08,
+                    "Others": 0.26,
+                    "Bumiputra Sabah": 8.19
+                },
+                "name": "LIMBANG",
+                "metropolitan_index": 4
+            }
+        }
+    },
+    "MELAKA": {
+        "parliament_constituencies": {
+            "P.137": {
+                "state_constituencies": {
+                    "N.18": {
+                        "name": "AYER MOLEK"
+                    },
+                    "N.17": {
+                        "name": "BUKIT BARU"
+                    },
+                    "N.16": {
+                        "name": "AYER KEROH"
+                    },
+                    "N.15": {
+                        "name": "BACHANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.12,
+                    "Chinese": 40.76,
+                    "Orang Asli": 0.01,
+                    "Malay": 52.79,
+                    "Indian": 5.7,
+                    "Others": 0.46,
+                    "Bumiputra Sabah": 0.16
+                },
+                "name": "BUKIT KATIL",
+                "metropolitan_index": 4
+            },
+            "P.136": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "PAYA RUMPUT"
+                    },
+                    "N.12": {
+                        "name": "PANTAI KUNDOR"
+                    },
+                    "N.11": {
+                        "name": "SUNGAI UDANG"
+                    },
+                    "N.14": {
+                        "name": "KELEBANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.78,
+                    "Chinese": 24.95,
+                    "Orang Asli": 0.13,
+                    "Malay": 68.06,
+                    "Indian": 3.53,
+                    "Others": 0.49,
+                    "Bumiputra Sabah": 1.06
+                },
+                "name": "TANGGA BATU",
+                "metropolitan_index": 4
+            },
+            "P.135": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "GADEK"
+                    },
+                    "N.6": {
+                        "name": "REMBIA"
+                    },
+                    "N.10": {
+                        "name": "ASAHAN"
+                    },
+                    "N.9": {
+                        "name": "DURIAN TUNGGAL"
+                    },
+                    "N.8": {
+                        "name": "MACHAP"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.06,
+                    "Chinese": 27.8,
+                    "Orang Asli": 0.59,
+                    "Malay": 58.48,
+                    "Indian": 12.86,
+                    "Others": 0.13,
+                    "Bumiputra Sabah": 0.07
+                },
+                "name": "ALOR GAJAH",
+                "metropolitan_index": 3
+            },
+            "P.134": {
+                "state_constituencies": {
+                    "N.5": {
+                        "name": "TABOH NANING"
+                    },
+                    "N.4": {
+                        "name": "LENDU"
+                    },
+                    "N.3": {
+                        "name": "AYER LIMAU"
+                    },
+                    "N.2": {
+                        "name": "TANJUNG BIDARA"
+                    },
+                    "N.1": {
+                        "name": "KUALA LINGGI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.12,
+                    "Chinese": 13.37,
+                    "Orang Asli": 0.33,
+                    "Malay": 81.87,
+                    "Indian": 3.89,
+                    "Others": 0.35,
+                    "Bumiputra Sabah": 0.07
+                },
+                "name": "MASJID TANAH",
+                "metropolitan_index": 3
+            },
+            "P.139": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "SERKAM"
+                    },
+                    "N.27": {
+                        "name": "MERLIMAU"
+                    },
+                    "N.24": {
+                        "name": "BEMBAN"
+                    },
+                    "N.25": {
+                        "name": "RIM"
+                    },
+                    "N.28": {
+                        "name": "SUNGAI RAMBAI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.37,
+                    "Chinese": 30.3,
+                    "Orang Asli": 0.91,
+                    "Malay": 53.02,
+                    "Indian": 14.85,
+                    "Others": 0.34,
+                    "Bumiputra Sabah": 0.22
+                },
+                "name": "JASIN",
+                "metropolitan_index": 3
+            },
+            "P.138": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "KESIDANG"
+                    },
+                    "N.22": {
+                        "name": "BANDAR HILIR"
+                    },
+                    "N.23": {
+                        "name": "TELOK MAS"
+                    },
+                    "N.20": {
+                        "name": "KOTA LAKSAMANA"
+                    },
+                    "N.21": {
+                        "name": "DUYONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.08,
+                    "Chinese": 59.07,
+                    "Orang Asli": 0.01,
+                    "Malay": 35.75,
+                    "Indian": 3.64,
+                    "Others": 1.38,
+                    "Bumiputra Sabah": 0.07
+                },
+                "name": "KOTA MELAKA",
+                "metropolitan_index": 2
+            }
+        }
+    },
+    "KEDAH": {
+        "parliament_constituencies": {
+            "P.9": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "KOTA DARUL AMAN"
+                    },
+                    "N.12": {
+                        "name": "BAKAR BATA"
+                    },
+                    "N.14": {
+                        "name": "ALOR MENGKUDU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.13,
+                    "Chinese": 33.61,
+                    "Orang Asli": 0.0,
+                    "Malay": 61.26,
+                    "Indian": 4.67,
+                    "Others": 0.3,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "ALOR STAR",
+                "metropolitan_index": 5
+            },
+            "P.8": {
+                "state_constituencies": {
+                    "N.11": {
+                        "name": "DERGA"
+                    },
+                    "N.10": {
+                        "name": "BUKIT PINANG"
+                    },
+                    "N.9": {
+                        "name": "BUKIT LADA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.11,
+                    "Chinese": 17.54,
+                    "Orang Asli": 0.0,
+                    "Malay": 79.53,
+                    "Indian": 2.34,
+                    "Others": 0.43,
+                    "Bumiputra Sabah": 0.06
+                },
+                "name": "POKOK SENA",
+                "metropolitan_index": 3
+            },
+            "P.5": {
+                "state_constituencies": {
+                    "N.4": {
+                        "name": "AYER HITAM"
+                    },
+                    "N.3": {
+                        "name": "KOTA SIPUTEH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 7.54,
+                    "Orang Asli": 0.0,
+                    "Malay": 90.62,
+                    "Indian": 0.11,
+                    "Others": 1.68,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "JERLUN",
+                "metropolitan_index": 4
+            },
+            "P.4": {
+                "state_constituencies": {
+                    "N.2": {
+                        "name": "KUAH"
+                    },
+                    "N.1": {
+                        "name": "AYER HANGAT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.13,
+                    "Chinese": 6.44,
+                    "Orang Asli": 0.01,
+                    "Malay": 90.65,
+                    "Indian": 2.43,
+                    "Others": 0.24,
+                    "Bumiputra Sabah": 0.11
+                },
+                "name": "LANGKAWI",
+                "metropolitan_index": 4
+            },
+            "P.7": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "KUALA NERANG"
+                    },
+                    "N.8": {
+                        "name": "PEDU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 1.43,
+                    "Orang Asli": 0.0,
+                    "Malay": 92.07,
+                    "Indian": 0.17,
+                    "Others": 6.25,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "PADANG TERAP",
+                "metropolitan_index": 4
+            },
+            "P.6": {
+                "state_constituencies": {
+                    "N.6": {
+                        "name": "JITRA"
+                    },
+                    "N.5": {
+                        "name": "BUKIT KAYU HITAM"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.13,
+                    "Chinese": 9.28,
+                    "Orang Asli": 0.0,
+                    "Malay": 85.41,
+                    "Indian": 3.87,
+                    "Others": 1.17,
+                    "Bumiputra Sabah": 0.14
+                },
+                "name": "KUBANG PASU",
+                "metropolitan_index": 4
+            },
+            "P.15": {
+                "state_constituencies": {
+                    "N.27": {
+                        "name": "PANTAI MERDEKA"
+                    },
+                    "N.28": {
+                        "name": "BAKAR ARANG"
+                    },
+                    "N.29": {
+                        "name": "SIDAM"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 45.61,
+                    "Orang Asli": 0.05,
+                    "Malay": 52.66,
+                    "Indian": 1.39,
+                    "Others": 0.19,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "SUNGAI PETANI",
+                "metropolitan_index": 5
+            },
+            "P.14": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "TANJONG DAWAI"
+                    },
+                    "N.25": {
+                        "name": "BUKIT SELAMBAU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 45.55,
+                    "Orang Asli": 0.09,
+                    "Malay": 44.29,
+                    "Indian": 9.87,
+                    "Others": 0.12,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "MERBOK",
+                "metropolitan_index": 3
+            },
+            "P.17": {
+                "state_constituencies": {
+                    "N.33": {
+                        "name": "MERBAU PULAS"
+                    },
+                    "N.34": {
+                        "name": "LUNAS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 21.45,
+                    "Orang Asli": 0.0,
+                    "Malay": 55.55,
+                    "Indian": 22.59,
+                    "Others": 0.33,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "PADANG SERAI",
+                "metropolitan_index": 4
+            },
+            "P.16": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "KUPANG"
+                    },
+                    "N.30": {
+                        "name": "BAYU"
+                    },
+                    "N.32": {
+                        "name": "KUALA KETIL"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.25,
+                    "Chinese": 42.58,
+                    "Orang Asli": 0.02,
+                    "Malay": 51.57,
+                    "Indian": 4.98,
+                    "Others": 0.43,
+                    "Bumiputra Sabah": 0.17
+                },
+                "name": "BALING",
+                "metropolitan_index": 4
+            },
+            "P.11": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "SUNGAI TIANG"
+                    },
+                    "N.18": {
+                        "name": "TOKAI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 5.65,
+                    "Orang Asli": 0.01,
+                    "Malay": 88.15,
+                    "Indian": 0.56,
+                    "Others": 5.58,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "PENDANG",
+                "metropolitan_index": 3
+            },
+            "P.10": {
+                "state_constituencies": {
+                    "N.17": {
+                        "name": "PENGKALAN KUNDOR"
+                    },
+                    "N.16": {
+                        "name": "KUBANG ROTAN"
+                    },
+                    "N.15": {
+                        "name": "ANAK BUKIT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 20.81,
+                    "Orang Asli": 0.0,
+                    "Malay": 77.42,
+                    "Indian": 1.43,
+                    "Others": 0.28,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "KUALA KEDAH",
+                "metropolitan_index": 4
+            },
+            "P.13": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "JENERI"
+                    },
+                    "N.23": {
+                        "name": "BELANTEK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 1.64,
+                    "Orang Asli": 0.01,
+                    "Malay": 92.73,
+                    "Indian": 0.18,
+                    "Others": 5.38,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "SIK",
+                "metropolitan_index": 3
+            },
+            "P.12": {
+                "state_constituencies": {
+                    "N.22": {
+                        "name": "GURUN"
+                    },
+                    "N.20": {
+                        "name": "SUNGAI LIMAU"
+                    },
+                    "N.21": {
+                        "name": "GUAR CHEMPEDAK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 14.75,
+                    "Orang Asli": 0.0,
+                    "Malay": 78.69,
+                    "Indian": 6.27,
+                    "Others": 0.22,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "JERAI",
+                "metropolitan_index": 4
+            },
+            "P.18": {
+                "state_constituencies": {
+                    "N.35": {
+                        "name": "KULIM"
+                    },
+                    "N.36": {
+                        "name": "BANDAR BAHARU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.09,
+                    "Chinese": 3.73,
+                    "Orang Asli": 0.55,
+                    "Malay": 94.51,
+                    "Indian": 0.32,
+                    "Others": 0.74,
+                    "Bumiputra Sabah": 0.06
+                },
+                "name": "KULIM-BANDAR BAHARU",
+                "metropolitan_index": 5
+            }
+        }
+    },
+    "NEGERI SEMBILAN": {
+        "parliament_constituencies": {
+            "P.133": {
+                "state_constituencies": {
+                    "N.35": {
+                        "name": "GEMENCHEH"
+                    },
+                    "N.34": {
+                        "name": "GEMAS"
+                    },
+                    "N.36": {
+                        "name": "REPAH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.2,
+                    "Chinese": 21.1,
+                    "Orang Asli": 3.69,
+                    "Malay": 70.05,
+                    "Indian": 4.63,
+                    "Others": 0.23,
+                    "Bumiputra Sabah": 0.11
+                },
+                "name": "TAMPIN",
+                "metropolitan_index": 4
+            },
+            "P.132": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "BAGAN PINANG"
+                    },
+                    "N.30": {
+                        "name": "LUKUT"
+                    },
+                    "N.33": {
+                        "name": "PORT DICKSON"
+                    },
+                    "N.32": {
+                        "name": "LINGGI"
+                    },
+                    "N.29": {
+                        "name": "CHUAH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.24,
+                    "Chinese": 33.82,
+                    "Orang Asli": 0.2,
+                    "Malay": 42.34,
+                    "Indian": 21.4,
+                    "Others": 0.35,
+                    "Bumiputra Sabah": 0.65
+                },
+                "name": "TELOK KEMANG",
+                "metropolitan_index": 4
+            },
+            "P.131": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "CHEMBONG"
+                    },
+                    "N.27": {
+                        "name": "RANTAU"
+                    },
+                    "N.25": {
+                        "name": "PAROI"
+                    },
+                    "N.28": {
+                        "name": "KOTA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.11,
+                    "Chinese": 12.39,
+                    "Orang Asli": 0.41,
+                    "Malay": 70.41,
+                    "Indian": 16.39,
+                    "Others": 0.2,
+                    "Bumiputra Sabah": 0.1
+                },
+                "name": "REMBAU",
+                "metropolitan_index": 3
+            },
+            "P.130": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "SENAWANG"
+                    },
+                    "N.22": {
+                        "name": "RAHANG"
+                    },
+                    "N.23": {
+                        "name": "MAMBAU"
+                    },
+                    "N.20": {
+                        "name": "LABU"
+                    },
+                    "N.21": {
+                        "name": "BUKIT KEPAYANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.23,
+                    "Chinese": 48.35,
+                    "Orang Asli": 0.48,
+                    "Malay": 27.84,
+                    "Indian": 22.15,
+                    "Others": 0.77,
+                    "Bumiputra Sabah": 0.18
+                },
+                "name": "RASAH",
+                "metropolitan_index": 3
+            },
+            "P.128": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "SIKAMAT"
+                    },
+                    "N.12": {
+                        "name": "TEMIANG"
+                    },
+                    "N.11": {
+                        "name": "LOBAK"
+                    },
+                    "N.10": {
+                        "name": "NILAI"
+                    },
+                    "N.14": {
+                        "name": "AMPANGAN"
+                    },
+                    "N.9": {
+                        "name": "LENGGENG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.17,
+                    "Chinese": 41.08,
+                    "Orang Asli": 0.76,
+                    "Malay": 43.69,
+                    "Indian": 13.68,
+                    "Others": 0.46,
+                    "Bumiputra Sabah": 0.16
+                },
+                "name": "SEREMBAN",
+                "metropolitan_index": 6
+            },
+            "P.129": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "JOHOL"
+                    },
+                    "N.18": {
+                        "name": "PILAH"
+                    },
+                    "N.17": {
+                        "name": "SENALING"
+                    },
+                    "N.16": {
+                        "name": "SERI MENANTI"
+                    },
+                    "N.15": {
+                        "name": "JUASSEH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.07,
+                    "Chinese": 16.88,
+                    "Orang Asli": 1.77,
+                    "Malay": 76.08,
+                    "Indian": 5.01,
+                    "Others": 0.14,
+                    "Bumiputra Sabah": 0.06
+                },
+                "name": "KUALA PILAH",
+                "metropolitan_index": 4
+            },
+            "P.126": {
+                "state_constituencies": {
+                    "N.4": {
+                        "name": "KLAWANG"
+                    },
+                    "N.3": {
+                        "name": "SUNGAI LUI"
+                    },
+                    "N.2": {
+                        "name": "PERTANG"
+                    },
+                    "N.1": {
+                        "name": "CHENNAH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.12,
+                    "Chinese": 25.9,
+                    "Orang Asli": 4.32,
+                    "Malay": 63.46,
+                    "Indian": 5.96,
+                    "Others": 0.08,
+                    "Bumiputra Sabah": 0.15
+                },
+                "name": "JELEBU",
+                "metropolitan_index": 3
+            },
+            "P.127": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "JERAM PADANG"
+                    },
+                    "N.6": {
+                        "name": "PALONG"
+                    },
+                    "N.5": {
+                        "name": "SERTING"
+                    },
+                    "N.8": {
+                        "name": "BAHAU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 25.31,
+                    "Orang Asli": 0.77,
+                    "Malay": 60.63,
+                    "Indian": 13.06,
+                    "Others": 0.12,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "JEMPOL",
+                "metropolitan_index": 4
+            }
+        }
+    },
+    "PERLIS": {
+        "parliament_constituencies": {
+            "P.1": {
+                "state_constituencies": {
+                    "N.5": {
+                        "name": "SANTAN"
+                    },
+                    "N.4": {
+                        "name": "MATA AYER"
+                    },
+                    "N.3": {
+                        "name": "CHUPING"
+                    },
+                    "N.2": {
+                        "name": "BESERI"
+                    },
+                    "N.1": {
+                        "name": "TITI TINGGI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 45.55,
+                    "Orang Asli": 0.09,
+                    "Malay": 44.29,
+                    "Indian": 9.87,
+                    "Others": 0.12,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "PADANG BESAR",
+                "metropolitan_index": 3
+            },
+            "P.3": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "GUAR SANJI"
+                    },
+                    "N.12": {
+                        "name": "TAMBUN TULANG"
+                    },
+                    "N.11": {
+                        "name": "PAUH"
+                    },
+                    "N.15": {
+                        "name": "SANGLANG"
+                    },
+                    "N.14": {
+                        "name": "SIMPANG EMPAT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.27,
+                    "Chinese": 0.24,
+                    "Orang Asli": 0.43,
+                    "Malay": 98.44,
+                    "Indian": 0.11,
+                    "Others": 0.19,
+                    "Bumiputra Sabah": 0.32
+                },
+                "name": "ARAU",
+                "metropolitan_index": 3
+            },
+            "P.2": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "SENA"
+                    },
+                    "N.6": {
+                        "name": "BINTONG"
+                    },
+                    "N.10": {
+                        "name": "KAYANG"
+                    },
+                    "N.9": {
+                        "name": "KUALA PERLIS"
+                    },
+                    "N.8": {
+                        "name": "INDERA KAYANGAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.12,
+                    "Chinese": 1.62,
+                    "Orang Asli": 0.01,
+                    "Malay": 97.78,
+                    "Indian": 0.15,
+                    "Others": 0.21,
+                    "Bumiputra Sabah": 0.1
+                },
+                "name": "KANGAR",
+                "metropolitan_index": 4
+            }
+        }
+    },
+    "KELANTAN": {
+        "parliament_constituencies": {
+            "P.32": {
+                "state_constituencies": {
+                    "N.44": {
+                        "name": "PALOH"
+                    },
+                    "N.45": {
+                        "name": "GALAS"
+                    },
+                    "N.43": {
+                        "name": "NENGGIRI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 6.88,
+                    "Orang Asli": 11.92,
+                    "Malay": 80.37,
+                    "Indian": 0.58,
+                    "Others": 0.17,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "GUA MUSANG",
+                "metropolitan_index": 4
+            },
+            "P.28": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "SEMERAK"
+                    },
+                    "N.30": {
+                        "name": "LIMBONGAN"
+                    },
+                    "N.32": {
+                        "name": "GAAL"
+                    },
+                    "N.29": {
+                        "name": "SELISING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 1.09,
+                    "Orang Asli": 0.0,
+                    "Malay": 98.09,
+                    "Indian": 0.04,
+                    "Others": 0.72,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "PASIR PUTEH",
+                "metropolitan_index": 3
+            },
+            "P.29": {
+                "state_constituencies": {
+                    "N.33": {
+                        "name": "PULAI CHONDONG"
+                    },
+                    "N.35": {
+                        "name": "KEMUNING"
+                    },
+                    "N.34": {
+                        "name": "TEMANGAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 3.65,
+                    "Orang Asli": 0.0,
+                    "Malay": 96.01,
+                    "Indian": 0.18,
+                    "Others": 0.1,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "MACHANG",
+                "metropolitan_index": 4
+            },
+            "P.24": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "DEMIT"
+                    },
+                    "N.18": {
+                        "name": "PASIR TUMBOH"
+                    },
+                    "N.17": {
+                        "name": "SALOR"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 1.81,
+                    "Orang Asli": 0.0,
+                    "Malay": 97.88,
+                    "Indian": 0.16,
+                    "Others": 0.09,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "KUBANG KERIAN",
+                "metropolitan_index": 4
+            },
+            "P.25": {
+                "state_constituencies": {
+                    "N.22": {
+                        "name": "JELAWAT"
+                    },
+                    "N.20": {
+                        "name": "TAWANG"
+                    },
+                    "N.21": {
+                        "name": "PERUPOK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.02,
+                    "Chinese": 1.14,
+                    "Orang Asli": 0.0,
+                    "Malay": 98.45,
+                    "Indian": 0.04,
+                    "Others": 0.32,
+                    "Bumiputra Sabah": 0.01
+                },
+                "name": "BACHOK",
+                "metropolitan_index": 5
+            },
+            "P.26": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "KADOK"
+                    },
+                    "N.25": {
+                        "name": "KOK LANAS"
+                    },
+                    "N.23": {
+                        "name": "MELOR"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.51,
+                    "Chinese": 1.82,
+                    "Orang Asli": 0.12,
+                    "Malay": 96.77,
+                    "Indian": 0.09,
+                    "Others": 0.43,
+                    "Bumiputra Sabah": 0.25
+                },
+                "name": "KETEREH",
+                "metropolitan_index": 4
+            },
+            "P.27": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "BUKIT PANAU"
+                    },
+                    "N.27": {
+                        "name": "GUAL IPOH"
+                    },
+                    "N.28": {
+                        "name": "KEMAHANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 4.11,
+                    "Orang Asli": 0.0,
+                    "Malay": 94.46,
+                    "Indian": 0.74,
+                    "Others": 0.6,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "TANAH MERAH",
+                "metropolitan_index": 4
+            },
+            "P.20": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "PANCHOR"
+                    },
+                    "N.6": {
+                        "name": "CHEMPAKA"
+                    },
+                    "N.5": {
+                        "name": "KIJANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.12,
+                    "Chinese": 1.62,
+                    "Orang Asli": 0.01,
+                    "Malay": 97.78,
+                    "Indian": 0.15,
+                    "Others": 0.21,
+                    "Bumiputra Sabah": 0.1
+                },
+                "name": "PENGKALAN CHEPA",
+                "metropolitan_index": 3
+            },
+            "P.21": {
+                "state_constituencies": {
+                    "N.10": {
+                        "name": "BUNUT PAYONG"
+                    },
+                    "N.9": {
+                        "name": "KOTA LAMA"
+                    },
+                    "N.8": {
+                        "name": "TANJONG MAS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.06,
+                    "Chinese": 15.79,
+                    "Orang Asli": 0.0,
+                    "Malay": 82.85,
+                    "Indian": 0.86,
+                    "Others": 0.41,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "KOTA BHARU",
+                "metropolitan_index": 2
+            },
+            "P.22": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "CHETOK"
+                    },
+                    "N.12": {
+                        "name": "PENGKALAN PASIR"
+                    },
+                    "N.11": {
+                        "name": "TENDONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 3.32,
+                    "Orang Asli": 0.0,
+                    "Malay": 96.4,
+                    "Indian": 0.07,
+                    "Others": 0.14,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "PASIR MAS",
+                "metropolitan_index": 4
+            },
+            "P.23": {
+                "state_constituencies": {
+                    "N.16": {
+                        "name": "BUKIT TUKU"
+                    },
+                    "N.15": {
+                        "name": "GUAL PERIOK"
+                    },
+                    "N.14": {
+                        "name": "MERANTI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 0.73,
+                    "Orang Asli": 0.0,
+                    "Malay": 98.18,
+                    "Indian": 0.06,
+                    "Others": 0.97,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "RANTAU PANJANG",
+                "metropolitan_index": 3
+            },
+            "P.31": {
+                "state_constituencies": {
+                    "N.39": {
+                        "name": "MENGKEBANG"
+                    },
+                    "N.40": {
+                        "name": "GUCHIL"
+                    },
+                    "N.41": {
+                        "name": "MANEK URAI"
+                    },
+                    "N.42": {
+                        "name": "DABONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 4.48,
+                    "Orang Asli": 0.01,
+                    "Malay": 93.95,
+                    "Indian": 1.35,
+                    "Others": 0.15,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "KUALA KRAI",
+                "metropolitan_index": 4
+            },
+            "P.30": {
+                "state_constituencies": {
+                    "N.38": {
+                        "name": "KUALA BALAH"
+                    },
+                    "N.37": {
+                        "name": "AIR LANAS"
+                    },
+                    "N.36": {
+                        "name": "BUKIT BUNGA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.27,
+                    "Chinese": 0.24,
+                    "Orang Asli": 0.43,
+                    "Malay": 98.44,
+                    "Indian": 0.11,
+                    "Others": 0.19,
+                    "Bumiputra Sabah": 0.32
+                },
+                "name": "JELI",
+                "metropolitan_index": 4
+            },
+            "P.19": {
+                "state_constituencies": {
+                    "N.4": {
+                        "name": "WAKAF BHARU"
+                    },
+                    "N.3": {
+                        "name": "PASIR PEKAN"
+                    },
+                    "N.2": {
+                        "name": "KELABORAN"
+                    },
+                    "N.1": {
+                        "name": "PENGKALAN KUBOR"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 3.33,
+                    "Orang Asli": 0.0,
+                    "Malay": 92.46,
+                    "Indian": 0.16,
+                    "Others": 3.98,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "TUMPAT",
+                "metropolitan_index": 4
+            }
+        }
+    },
+    "SELANGOR": {
+        "parliament_constituencies": {
+            "P.99": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "BUKIT ANTARABANGSA"
+                    },
+                    "N.20": {
+                        "name": "LEMBAH JAYA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.14,
+                    "Chinese": 33.47,
+                    "Orang Asli": 0.01,
+                    "Malay": 55.28,
+                    "Indian": 9.75,
+                    "Others": 1.17,
+                    "Bumiputra Sabah": 0.18
+                },
+                "name": "AMPANG",
+                "metropolitan_index": 3
+            },
+            "P.98": {
+                "state_constituencies": {
+                    "N.18": {
+                        "name": "HULU KELANG"
+                    },
+                    "N.17": {
+                        "name": "GOMBAK SETIA"
+                    },
+                    "N.16": {
+                        "name": "BATU CAVES"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.14,
+                    "Chinese": 13.23,
+                    "Orang Asli": 0.41,
+                    "Malay": 73.84,
+                    "Indian": 11.17,
+                    "Others": 1.08,
+                    "Bumiputra Sabah": 0.13
+                },
+                "name": "GOMBAK",
+                "metropolitan_index": 4
+            },
+            "P.95": {
+                "state_constituencies": {
+                    "N.9": {
+                        "name": "PERMATANG"
+                    },
+                    "N.8": {
+                        "name": "SUNGAI BURONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 16.61,
+                    "Orang Asli": 0.0,
+                    "Malay": 73.33,
+                    "Indian": 9.79,
+                    "Others": 0.19,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "TANJONG KARANG",
+                "metropolitan_index": 4
+            },
+            "P.94": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "BATANG KALI"
+                    },
+                    "N.6": {
+                        "name": "KUALA KUBU BAHARU"
+                    },
+                    "N.5": {
+                        "name": "HULU BERNAM"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.15,
+                    "Chinese": 23.43,
+                    "Orang Asli": 1.5,
+                    "Malay": 56.81,
+                    "Indian": 17.63,
+                    "Others": 0.36,
+                    "Bumiputra Sabah": 0.11
+                },
+                "name": "HULU SELANGOR",
+                "metropolitan_index": 4
+            },
+            "P.97": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "KUANG"
+                    },
+                    "N.15": {
+                        "name": "TAMAN TEMPLER"
+                    },
+                    "N.14": {
+                        "name": "RAWANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.17,
+                    "Chinese": 36.15,
+                    "Orang Asli": 0.18,
+                    "Malay": 45.31,
+                    "Indian": 17.4,
+                    "Others": 0.62,
+                    "Bumiputra Sabah": 0.16
+                },
+                "name": "SELAYANG",
+                "metropolitan_index": 5
+            },
+            "P.96": {
+                "state_constituencies": {
+                    "N.12": {
+                        "name": "JERAM"
+                    },
+                    "N.11": {
+                        "name": "IJOK"
+                    },
+                    "N.10": {
+                        "name": "BUKIT MELAWATI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.07,
+                    "Chinese": 13.27,
+                    "Orang Asli": 0.01,
+                    "Malay": 64.41,
+                    "Indian": 21.99,
+                    "Others": 0.19,
+                    "Bumiputra Sabah": 0.07
+                },
+                "name": "KUALA SELANGOR",
+                "metropolitan_index": 4
+            },
+            "P.93": {
+                "state_constituencies": {
+                    "N.4": {
+                        "name": "SEKINCHAN"
+                    },
+                    "N.3": {
+                        "name": "SUNGAI PANJANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 31.04,
+                    "Orang Asli": 0.01,
+                    "Malay": 66.89,
+                    "Indian": 1.84,
+                    "Others": 0.13,
+                    "Bumiputra Sabah": 0.06
+                },
+                "name": "SUNGAI BESAR",
+                "metropolitan_index": 4
+            },
+            "P.92": {
+                "state_constituencies": {
+                    "N.2": {
+                        "name": "SABAK"
+                    },
+                    "N.1": {
+                        "name": "SUNGAI AIR TAWAR"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 12.56,
+                    "Orang Asli": 0.0,
+                    "Malay": 82.25,
+                    "Indian": 5.02,
+                    "Others": 0.1,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "SABAK BERNAM",
+                "metropolitan_index": 4
+            },
+            "P.106": {
+                "state_constituencies": {
+                    "N.35": {
+                        "name": "KAMPUNG TUNKU"
+                    },
+                    "N.36": {
+                        "name": "DAMANSARA UTAMA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.1,
+                    "Chinese": 77.16,
+                    "Orang Asli": 0.0,
+                    "Malay": 14.17,
+                    "Indian": 7.38,
+                    "Others": 1.07,
+                    "Bumiputra Sabah": 0.11
+                },
+                "name": "PETALING JAYA UTARA",
+                "metropolitan_index": 5
+            },
+            "P.107": {
+                "state_constituencies": {
+                    "N.39": {
+                        "name": "KOTA DAMANSARA"
+                    },
+                    "N.38": {
+                        "name": "PAYA JARAS"
+                    },
+                    "N.37": {
+                        "name": "BUKIT LANJAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.36,
+                    "Chinese": 38.05,
+                    "Orang Asli": 0.24,
+                    "Malay": 47.71,
+                    "Indian": 12.67,
+                    "Others": 0.63,
+                    "Bumiputra Sabah": 0.34
+                },
+                "name": "SUBANG",
+                "metropolitan_index": 4
+            },
+            "P.104": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "SUBANG JAYA"
+                    },
+                    "N.32": {
+                        "name": "SERI SETIA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.27,
+                    "Chinese": 41.71,
+                    "Orang Asli": 0.0,
+                    "Malay": 37.93,
+                    "Indian": 18.58,
+                    "Others": 1.09,
+                    "Bumiputra Sabah": 0.41
+                },
+                "name": "KELANA JAYA",
+                "metropolitan_index": 4
+            },
+            "P.105": {
+                "state_constituencies": {
+                    "N.33": {
+                        "name": "TAMAN MEDAN"
+                    },
+                    "N.34": {
+                        "name": "BUKIT GASING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.15,
+                    "Chinese": 41.49,
+                    "Orang Asli": 0.01,
+                    "Malay": 40.25,
+                    "Indian": 16.49,
+                    "Others": 1.48,
+                    "Bumiputra Sabah": 0.13
+                },
+                "name": "PETALING JAYA SELATAN",
+                "metropolitan_index": 5
+            },
+            "P.102": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "BANGI"
+                    },
+                    "N.27": {
+                        "name": "BALAKONG"
+                    },
+                    "N.28": {
+                        "name": "SERI KEMBANGAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.16,
+                    "Chinese": 48.62,
+                    "Orang Asli": 0.0,
+                    "Malay": 39.58,
+                    "Indian": 11.04,
+                    "Others": 0.42,
+                    "Bumiputra Sabah": 0.18
+                },
+                "name": "SERDANG",
+                "metropolitan_index": 5
+            },
+            "P.103": {
+                "state_constituencies": {
+                    "N.30": {
+                        "name": "KINRARA"
+                    },
+                    "N.29": {
+                        "name": "SERI SERDANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.23,
+                    "Chinese": 43.52,
+                    "Orang Asli": 0.13,
+                    "Malay": 39.36,
+                    "Indian": 15.9,
+                    "Others": 0.57,
+                    "Bumiputra Sabah": 0.28
+                },
+                "name": "PUCHONG",
+                "metropolitan_index": 2
+            },
+            "P.100": {
+                "state_constituencies": {
+                    "N.22": {
+                        "name": "TERATAI"
+                    },
+                    "N.21": {
+                        "name": "CHEMPAKA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.14,
+                    "Chinese": 48.15,
+                    "Orang Asli": 0.01,
+                    "Malay": 44.36,
+                    "Indian": 6.59,
+                    "Others": 0.47,
+                    "Bumiputra Sabah": 0.3
+                },
+                "name": "PANDAN",
+                "metropolitan_index": 3
+            },
+            "P.101": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "SEMENYIH"
+                    },
+                    "N.25": {
+                        "name": "KAJANG"
+                    },
+                    "N.23": {
+                        "name": "DUSUN TUA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.29,
+                    "Chinese": 34.27,
+                    "Orang Asli": 0.51,
+                    "Malay": 52.74,
+                    "Indian": 11.32,
+                    "Others": 0.63,
+                    "Bumiputra Sabah": 0.24
+                },
+                "name": "HULU LANGAT",
+                "metropolitan_index": 4
+            },
+            "P.108": {
+                "state_constituencies": {
+                    "N.40": {
+                        "name": "KOTA ANGGERIK"
+                    },
+                    "N.41": {
+                        "name": "BATU TIGA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.2,
+                    "Chinese": 14.94,
+                    "Orang Asli": 0.07,
+                    "Malay": 69.93,
+                    "Indian": 14.18,
+                    "Others": 0.43,
+                    "Bumiputra Sabah": 0.26
+                },
+                "name": "SHAH ALAM",
+                "metropolitan_index": 5
+            },
+            "P.109": {
+                "state_constituencies": {
+                    "N.44": {
+                        "name": "SUNGAI PINANG"
+                    },
+                    "N.45": {
+                        "name": "SELAT KLANG"
+                    },
+                    "N.42": {
+                        "name": "MERU"
+                    },
+                    "N.43": {
+                        "name": "SEMENTA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.07,
+                    "Chinese": 33.59,
+                    "Orang Asli": 0.02,
+                    "Malay": 51.5,
+                    "Indian": 14.36,
+                    "Others": 0.27,
+                    "Bumiputra Sabah": 0.19
+                },
+                "name": "KAPAR",
+                "metropolitan_index": 4
+            },
+            "P.111": {
+                "state_constituencies": {
+                    "N.49": {
+                        "name": "SERI ANDALAS"
+                    },
+                    "N.50": {
+                        "name": "SRI MUDA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.12,
+                    "Chinese": 24.8,
+                    "Orang Asli": 0.01,
+                    "Malay": 44.61,
+                    "Indian": 29.46,
+                    "Others": 0.59,
+                    "Bumiputra Sabah": 0.42
+                },
+                "name": "KOTA RAJA",
+                "metropolitan_index": 2
+            },
+            "P.110": {
+                "state_constituencies": {
+                    "N.46": {
+                        "name": "PELABUHAN KLANG"
+                    },
+                    "N.47": {
+                        "name": "PANDAMARAN"
+                    },
+                    "N.48": {
+                        "name": "KOTA ALAM SHAH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.17,
+                    "Chinese": 45.79,
+                    "Orang Asli": 0.07,
+                    "Malay": 32.95,
+                    "Indian": 19.8,
+                    "Others": 0.7,
+                    "Bumiputra Sabah": 0.52
+                },
+                "name": "KLANG",
+                "metropolitan_index": 5
+            },
+            "P.113": {
+                "state_constituencies": {
+                    "N.56": {
+                        "name": "SUNGAI PELEK"
+                    },
+                    "N.55": {
+                        "name": "DENGKIL"
+                    },
+                    "N.54": {
+                        "name": "TANJONG SEPAT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.06,
+                    "Chinese": 3.55,
+                    "Orang Asli": 0.05,
+                    "Malay": 95.92,
+                    "Indian": 0.25,
+                    "Others": 0.12,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "SEPANG",
+                "metropolitan_index": 4
+            },
+            "P.112": {
+                "state_constituencies": {
+                    "N.53": {
+                        "name": "MORIB"
+                    },
+                    "N.52": {
+                        "name": "TELUK DATUK"
+                    },
+                    "N.51": {
+                        "name": "SIJANGKANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.12,
+                    "Chinese": 25.85,
+                    "Orang Asli": 1.84,
+                    "Malay": 54.57,
+                    "Indian": 17.14,
+                    "Others": 0.31,
+                    "Bumiputra Sabah": 0.16
+                },
+                "name": "KUALA LANGAT",
+                "metropolitan_index": 2
+            }
+        }
+    },
+    "SABAH": {
+        "parliament_constituencies": {
+            "P.189": {
+                "state_constituencies": {
+                    "N.54": {
+                        "name": "BUGAYA"
+                    },
+                    "N.53": {
+                        "name": "SENALLANG"
+                    },
+                    "N.52": {
+                        "name": "SULABAYAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.3,
+                    "Chinese": 1.96,
+                    "Orang Asli": 0.01,
+                    "Malay": 10.01,
+                    "Indian": 0.1,
+                    "Others": 2.5,
+                    "Bumiputra Sabah": 85.12
+                },
+                "name": "SEMPORNA",
+                "metropolitan_index": 5
+            },
+            "P.168": {
+                "state_constituencies": {
+                    "N.5": {
+                        "name": "TANDEK"
+                    },
+                    "N.4": {
+                        "name": "MATUNGGONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.22,
+                    "Chinese": 2.29,
+                    "Orang Asli": 0.0,
+                    "Malay": 4.19,
+                    "Indian": 0.08,
+                    "Others": 1.29,
+                    "Bumiputra Sabah": 91.92
+                },
+                "name": "KOTA MARUDU",
+                "metropolitan_index": 4
+            },
+            "P.188": {
+                "state_constituencies": {
+                    "N.49": {
+                        "name": "TUNGKU"
+                    },
+                    "N.51": {
+                        "name": "KUNAK"
+                    },
+                    "N.50": {
+                        "name": "LAHAD DATU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.02,
+                    "Chinese": 12.66,
+                    "Orang Asli": 0.0,
+                    "Malay": 23.44,
+                    "Indian": 0.54,
+                    "Others": 11.64,
+                    "Bumiputra Sabah": 50.69
+                },
+                "name": "SILAM",
+                "metropolitan_index": 4
+            },
+            "P.167": {
+                "state_constituencies": {
+                    "N.3": {
+                        "name": "PITAS"
+                    },
+                    "N.2": {
+                        "name": "TANJONG KAPOR"
+                    },
+                    "N.1": {
+                        "name": "BANGGI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.29,
+                    "Chinese": 10.77,
+                    "Orang Asli": 0.01,
+                    "Malay": 6.61,
+                    "Indian": 0.15,
+                    "Others": 10.46,
+                    "Bumiputra Sabah": 71.73
+                },
+                "name": "KUDAT",
+                "metropolitan_index": 4
+            },
+            "P.186": {
+                "state_constituencies": {
+                    "N.45": {
+                        "name": "ELOPURA"
+                    },
+                    "N.46": {
+                        "name": "TANJONG PAPAT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.63,
+                    "Chinese": 53.39,
+                    "Orang Asli": 0.01,
+                    "Malay": 13.67,
+                    "Indian": 0.57,
+                    "Others": 6.51,
+                    "Bumiputra Sabah": 25.21
+                },
+                "name": "SANDAKAN",
+                "metropolitan_index": 5
+            },
+            "P.187": {
+                "state_constituencies": {
+                    "N.47": {
+                        "name": "KUAMUT"
+                    },
+                    "N.48": {
+                        "name": "SUKAU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.95,
+                    "Chinese": 0.77,
+                    "Orang Asli": 0.01,
+                    "Malay": 16.56,
+                    "Indian": 0.14,
+                    "Others": 6.16,
+                    "Bumiputra Sabah": 75.4
+                },
+                "name": "KINABATANGAN",
+                "metropolitan_index": 2
+            },
+            "P.184": {
+                "state_constituencies": {
+                    "N.41": {
+                        "name": "GUM-GUM"
+                    },
+                    "N.42": {
+                        "name": "SUNGAI SIBUGA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.64,
+                    "Chinese": 20.49,
+                    "Orang Asli": 0.01,
+                    "Malay": 25.69,
+                    "Indian": 0.25,
+                    "Others": 14.38,
+                    "Bumiputra Sabah": 38.54
+                },
+                "name": "LIBARAN",
+                "metropolitan_index": 2
+            },
+            "P.185": {
+                "state_constituencies": {
+                    "N.44": {
+                        "name": "KARAMUNTING"
+                    },
+                    "N.43": {
+                        "name": "SEKONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.95,
+                    "Chinese": 33.35,
+                    "Orang Asli": 0.03,
+                    "Malay": 17.81,
+                    "Indian": 0.35,
+                    "Others": 9.48,
+                    "Bumiputra Sabah": 38.03
+                },
+                "name": "BATU SAPI",
+                "metropolitan_index": 2
+            },
+            "P.182": {
+                "state_constituencies": {
+                    "N.38": {
+                        "name": "NABAWAN"
+                    },
+                    "N.37": {
+                        "name": "SOOK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.3,
+                    "Chinese": 1.44,
+                    "Orang Asli": 0.0,
+                    "Malay": 3.01,
+                    "Indian": 0.08,
+                    "Others": 0.77,
+                    "Bumiputra Sabah": 94.4
+                },
+                "name": "PENSIANGAN",
+                "metropolitan_index": 3
+            },
+            "P.183": {
+                "state_constituencies": {
+                    "N.39": {
+                        "name": "SUGUT"
+                    },
+                    "N.40": {
+                        "name": "LABUK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.22,
+                    "Chinese": 1.07,
+                    "Orang Asli": 0.0,
+                    "Malay": 9.47,
+                    "Indian": 0.17,
+                    "Others": 7.03,
+                    "Bumiputra Sabah": 81.02
+                },
+                "name": "BELURAN",
+                "metropolitan_index": 4
+            },
+            "P.180": {
+                "state_constituencies": {
+                    "N.33": {
+                        "name": "BINGKOR"
+                    },
+                    "N.32": {
+                        "name": "TAMBUNAN"
+                    },
+                    "N.34": {
+                        "name": "LIAWAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.63,
+                    "Chinese": 9.65,
+                    "Orang Asli": 0.0,
+                    "Malay": 5.57,
+                    "Indian": 0.18,
+                    "Others": 2.08,
+                    "Bumiputra Sabah": 81.88
+                },
+                "name": "KENINGAU",
+                "metropolitan_index": 4
+            },
+            "P.181": {
+                "state_constituencies": {
+                    "N.35": {
+                        "name": "MELALAP"
+                    },
+                    "N.36": {
+                        "name": "KEMABONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.47,
+                    "Chinese": 12.17,
+                    "Orang Asli": 0.01,
+                    "Malay": 7.07,
+                    "Indian": 0.15,
+                    "Others": 1.56,
+                    "Bumiputra Sabah": 78.56
+                },
+                "name": "TENOM",
+                "metropolitan_index": 4
+            },
+            "P.169": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "KADAMAIAN"
+                    },
+                    "N.6": {
+                        "name": "TEMPASUK"
+                    },
+                    "N.8": {
+                        "name": "USUKAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.23,
+                    "Chinese": 1.58,
+                    "Orang Asli": 0.0,
+                    "Malay": 4.59,
+                    "Indian": 0.16,
+                    "Others": 1.8,
+                    "Bumiputra Sabah": 91.64
+                },
+                "name": "KOTA BELUD",
+                "metropolitan_index": 4
+            },
+            "P.177": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "KUALA PENYU"
+                    },
+                    "N.25": {
+                        "name": "KLIAS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.61,
+                    "Chinese": 7.59,
+                    "Orang Asli": 0.0,
+                    "Malay": 7.92,
+                    "Indian": 0.35,
+                    "Others": 1.98,
+                    "Bumiputra Sabah": 81.55
+                },
+                "name": "BEAUFORT",
+                "metropolitan_index": 4
+            },
+            "P.176": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "MEMBAKUT"
+                    },
+                    "N.23": {
+                        "name": "BONGAWAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.51,
+                    "Chinese": 4.01,
+                    "Orang Asli": 0.0,
+                    "Malay": 11.16,
+                    "Indian": 0.18,
+                    "Others": 2.42,
+                    "Bumiputra Sabah": 81.72
+                },
+                "name": "KIMANIS",
+                "metropolitan_index": 3
+            },
+            "P.175": {
+                "state_constituencies": {
+                    "N.22": {
+                        "name": "PANTAI MANIS"
+                    },
+                    "N.21": {
+                        "name": "KAWANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.6,
+                    "Chinese": 8.74,
+                    "Orang Asli": 0.01,
+                    "Malay": 9.91,
+                    "Indian": 0.43,
+                    "Others": 3.0,
+                    "Bumiputra Sabah": 77.32
+                },
+                "name": "PAPAR",
+                "metropolitan_index": 5
+            },
+            "P.174": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "KAPAYAN"
+                    },
+                    "N.20": {
+                        "name": "MOYOG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.59,
+                    "Chinese": 32.4,
+                    "Orang Asli": 0.0,
+                    "Malay": 5.19,
+                    "Indian": 0.74,
+                    "Others": 1.51,
+                    "Bumiputra Sabah": 59.56
+                },
+                "name": "PENAMPANG",
+                "metropolitan_index": 4
+            },
+            "P.173": {
+                "state_constituencies": {
+                    "N.18": {
+                        "name": "PETAGAS"
+                    },
+                    "N.17": {
+                        "name": "TANJONG ARU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.07,
+                    "Chinese": 18.79,
+                    "Orang Asli": 0.01,
+                    "Malay": 22.94,
+                    "Indian": 0.7,
+                    "Others": 5.73,
+                    "Bumiputra Sabah": 50.76
+                },
+                "name": "PUTATAN",
+                "metropolitan_index": 3
+            },
+            "P.172": {
+                "state_constituencies": {
+                    "N.16": {
+                        "name": "LUYANG"
+                    },
+                    "N.15": {
+                        "name": "API-API"
+                    },
+                    "N.14": {
+                        "name": "LIKAS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.38,
+                    "Chinese": 70.26,
+                    "Orang Asli": 0.0,
+                    "Malay": 4.78,
+                    "Indian": 1.0,
+                    "Others": 1.94,
+                    "Bumiputra Sabah": 21.64
+                },
+                "name": "KOTA KINABALU",
+                "metropolitan_index": 5
+            },
+            "P.171": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "INANAM"
+                    },
+                    "N.12": {
+                        "name": "KARAMBUNAI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.56,
+                    "Chinese": 19.43,
+                    "Orang Asli": 0.01,
+                    "Malay": 16.1,
+                    "Indian": 0.47,
+                    "Others": 5.47,
+                    "Bumiputra Sabah": 57.96
+                },
+                "name": "SEPANGGAR",
+                "metropolitan_index": 2
+            },
+            "P.170": {
+                "state_constituencies": {
+                    "N.11": {
+                        "name": "KIULU"
+                    },
+                    "N.10": {
+                        "name": "SULAMAN"
+                    },
+                    "N.9": {
+                        "name": "TAMPARULI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.34,
+                    "Chinese": 5.97,
+                    "Orang Asli": 0.0,
+                    "Malay": 4.78,
+                    "Indian": 0.23,
+                    "Others": 1.54,
+                    "Bumiputra Sabah": 87.13
+                },
+                "name": "TUARAN",
+                "metropolitan_index": 4
+            },
+            "P.191": {
+                "state_constituencies": {
+                    "N.60": {
+                        "name": "SEBATIK"
+                    },
+                    "N.59": {
+                        "name": "TANJONG BATU"
+                    },
+                    "N.58": {
+                        "name": "MEROTAI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 47.05,
+                    "Chinese": 32.11,
+                    "Orang Asli": 0.03,
+                    "Malay": 19.99,
+                    "Indian": 0.19,
+                    "Others": 0.2,
+                    "Bumiputra Sabah": 0.42
+                },
+                "name": "KALABAKAN",
+                "metropolitan_index": 2
+            },
+            "P.190": {
+                "state_constituencies": {
+                    "N.57": {
+                        "name": "SRI TANJONG"
+                    },
+                    "N.56": {
+                        "name": "APAS"
+                    },
+                    "N.55": {
+                        "name": "BALUNG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.89,
+                    "Chinese": 37.67,
+                    "Orang Asli": 0.01,
+                    "Malay": 33.02,
+                    "Indian": 0.26,
+                    "Others": 11.62,
+                    "Bumiputra Sabah": 16.54
+                },
+                "name": "TAWAU",
+                "metropolitan_index": 5
+            },
+            "P.179": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "PAGINATAN"
+                    },
+                    "N.30": {
+                        "name": "KARANAAN"
+                    },
+                    "N.29": {
+                        "name": "KUNDASANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.3,
+                    "Chinese": 1.96,
+                    "Orang Asli": 0.01,
+                    "Malay": 3.13,
+                    "Indian": 0.06,
+                    "Others": 0.64,
+                    "Bumiputra Sabah": 93.92
+                },
+                "name": "RANAU",
+                "metropolitan_index": 4
+            },
+            "P.178": {
+                "state_constituencies": {
+                    "N.27": {
+                        "name": "LUMADAN"
+                    },
+                    "N.28": {
+                        "name": "SINDUMIN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.71,
+                    "Chinese": 4.27,
+                    "Orang Asli": 0.0,
+                    "Malay": 9.55,
+                    "Indian": 0.14,
+                    "Others": 1.97,
+                    "Bumiputra Sabah": 82.37
+                },
+                "name": "SIPITANG",
+                "metropolitan_index": 4
+            }
+        }
+    },
+    "W.P. KUALA LUMPUR": {
+        "parliament_constituencies": {
+            "P.115": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.44,
+                    "Chinese": 37.76,
+                    "Orang Asli": 0.01,
+                    "Malay": 44.41,
+                    "Indian": 16.21,
+                    "Others": 0.84,
+                    "Bumiputra Sabah": 0.33
+                },
+                "name": "BATU",
+                "metropolitan_index": 6
+            },
+            "P.114": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 88.44,
+                    "Orang Asli": 0.0,
+                    "Malay": 4.52,
+                    "Indian": 6.37,
+                    "Others": 0.31,
+                    "Bumiputra Sabah": 0.33
+                },
+                "name": "KEPONG",
+                "metropolitan_index": 6
+            },
+            "P.117": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.28,
+                    "Chinese": 52.77,
+                    "Orang Asli": 0.02,
+                    "Malay": 33.24,
+                    "Indian": 12.04,
+                    "Others": 1.27,
+                    "Bumiputra Sabah": 0.39
+                },
+                "name": "SEGAMBUT",
+                "metropolitan_index": 6
+            },
+            "P.116": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.66,
+                    "Chinese": 36.15,
+                    "Orang Asli": 0.05,
+                    "Malay": 53.32,
+                    "Indian": 8.75,
+                    "Others": 0.71,
+                    "Bumiputra Sabah": 0.37
+                },
+                "name": "WANGSA MAJU",
+                "metropolitan_index": 6
+            },
+            "P.124": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.49,
+                    "Chinese": 37.45,
+                    "Orang Asli": 0.01,
+                    "Malay": 52.6,
+                    "Indian": 8.64,
+                    "Others": 0.44,
+                    "Bumiputra Sabah": 0.37
+                },
+                "name": "BANDAR TUN RAZAK",
+                "metropolitan_index": 6
+            },
+            "P.120": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.51,
+                    "Chinese": 73.17,
+                    "Orang Asli": 0.02,
+                    "Malay": 14.37,
+                    "Indian": 10.74,
+                    "Others": 0.76,
+                    "Bumiputra Sabah": 0.45
+                },
+                "name": "BUKIT BINTANG",
+                "metropolitan_index": 6
+            },
+            "P.119": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.34,
+                    "Chinese": 19.85,
+                    "Orang Asli": 0.01,
+                    "Malay": 68.06,
+                    "Indian": 10.36,
+                    "Others": 1.07,
+                    "Bumiputra Sabah": 0.31
+                },
+                "name": "TITIWANGSA",
+                "metropolitan_index": 6
+            },
+            "P.118": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.97,
+                    "Chinese": 30.33,
+                    "Orang Asli": 0.04,
+                    "Malay": 56.23,
+                    "Indian": 11.24,
+                    "Others": 0.61,
+                    "Bumiputra Sabah": 0.59
+                },
+                "name": "SETIAWANGSA",
+                "metropolitan_index": 6
+            },
+            "P.122": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.06,
+                    "Chinese": 87.98,
+                    "Orang Asli": 0.0,
+                    "Malay": 5.32,
+                    "Indian": 5.84,
+                    "Others": 0.62,
+                    "Bumiputra Sabah": 0.18
+                },
+                "name": "SEPUTEH",
+                "metropolitan_index": 6
+            },
+            "P.121": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.25,
+                    "Chinese": 22.82,
+                    "Orang Asli": 0.02,
+                    "Malay": 55.31,
+                    "Indian": 19.93,
+                    "Others": 1.33,
+                    "Bumiputra Sabah": 0.34
+                },
+                "name": "LEMBAH PANTAI",
+                "metropolitan_index": 6
+            },
+            "P.123": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.06,
+                    "Chinese": 81.79,
+                    "Orang Asli": 0.01,
+                    "Malay": 10.33,
+                    "Indian": 7.25,
+                    "Others": 0.36,
+                    "Bumiputra Sabah": 0.21
+                },
+                "name": "CHERAS",
+                "metropolitan_index": 6
+            }
+        }
+    },
+    "W.P. LABUAN": {
+        "parliament_constituencies": {
+            "P.166": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.73,
+                    "Chinese": 23.16,
+                    "Orang Asli": 0.0,
+                    "Malay": 39.25,
+                    "Indian": 1.48,
+                    "Others": 2.81,
+                    "Bumiputra Sabah": 31.57
+                },
+                "name": "LABUAN",
+                "metropolitan_index": 5
+            }
+        }
+    },
+    "W.P. PUTRAJAYA": {
+        "parliament_constituencies": {
+            "P.125": {
+                "state_constituencies": {},
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.32,
+                    "Chinese": 1.08,
+                    "Orang Asli": 0.03,
+                    "Malay": 94.45,
+                    "Indian": 3.1,
+                    "Others": 0.3,
+                    "Bumiputra Sabah": 0.72
+                },
+                "name": "PUTRAJAYA",
+                "metropolitan_index": 5
+            }
+        }
+    },
+    "JOHOR": {
+        "parliament_constituencies": {
+            "P.160": {
+                "state_constituencies": {
+                    "N.44": {
+                        "name": "TANJONG PUTERI"
+                    },
+                    "N.45": {
+                        "name": "STULANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.25,
+                    "Chinese": 42.58,
+                    "Orang Asli": 0.02,
+                    "Malay": 51.57,
+                    "Indian": 4.98,
+                    "Others": 0.43,
+                    "Bumiputra Sabah": 0.17
+                },
+                "name": "JOHOR BAHRU",
+                "metropolitan_index": 6
+            },
+            "P.161": {
+                "state_constituencies": {
+                    "N.46": {
+                        "name": "PENGKALAN RINTING"
+                    },
+                    "N.47": {
+                        "name": "KEMPAS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.32,
+                    "Chinese": 41.0,
+                    "Orang Asli": 0.15,
+                    "Malay": 47.87,
+                    "Indian": 10.02,
+                    "Others": 0.42,
+                    "Bumiputra Sabah": 0.21
+                },
+                "name": "PULAI",
+                "metropolitan_index": 4
+            },
+            "P.162": {
+                "state_constituencies": {
+                    "N.48": {
+                        "name": "SKUDAI"
+                    },
+                    "N.49": {
+                        "name": "NUSAJAYA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.27,
+                    "Chinese": 52.4,
+                    "Orang Asli": 0.23,
+                    "Malay": 34.27,
+                    "Indian": 12.49,
+                    "Others": 0.2,
+                    "Bumiputra Sabah": 0.14
+                },
+                "name": "GELANG PATAH",
+                "metropolitan_index": 4
+            },
+            "P.163": {
+                "state_constituencies": {
+                    "N.52": {
+                        "name": "SENAI"
+                    },
+                    "N.51": {
+                        "name": "BUKIT BATU"
+                    },
+                    "N.50": {
+                        "name": "BUKIT PERMAI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.15,
+                    "Chinese": 56.13,
+                    "Orang Asli": 0.01,
+                    "Malay": 33.12,
+                    "Indian": 10.27,
+                    "Others": 0.15,
+                    "Bumiputra Sabah": 0.17
+                },
+                "name": "KULAI",
+                "metropolitan_index": 4
+            },
+            "P.164": {
+                "state_constituencies": {
+                    "N.54": {
+                        "name": "PULAI SEBATANG"
+                    },
+                    "N.53": {
+                        "name": "BENUT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 27.46,
+                    "Orang Asli": 0.03,
+                    "Malay": 71.4,
+                    "Indian": 0.89,
+                    "Others": 0.17,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "PONTIAN",
+                "metropolitan_index": 4
+            },
+            "P.165": {
+                "state_constituencies": {
+                    "N.56": {
+                        "name": "KUKUP"
+                    },
+                    "N.55": {
+                        "name": "PEKAN NENAS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.1,
+                    "Chinese": 15.31,
+                    "Orang Asli": 0.01,
+                    "Malay": 76.41,
+                    "Indian": 6.76,
+                    "Others": 1.35,
+                    "Bumiputra Sabah": 0.06
+                },
+                "name": "TANJONG PIAI",
+                "metropolitan_index": 4
+            },
+            "P.148": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "YONG PENG"
+                    },
+                    "N.20": {
+                        "name": "SEMARANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 37.96,
+                    "Orang Asli": 0.0,
+                    "Malay": 57.91,
+                    "Indian": 3.95,
+                    "Others": 0.1,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "AYER HITAM",
+                "metropolitan_index": 4
+            },
+            "P.149": {
+                "state_constituencies": {
+                    "N.22": {
+                        "name": "PARIT RAJA"
+                    },
+                    "N.21": {
+                        "name": "PARIT YAANI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 33.65,
+                    "Orang Asli": 0.0,
+                    "Malay": 64.7,
+                    "Indian": 1.42,
+                    "Others": 0.13,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "SRI GADING",
+                "metropolitan_index": 4
+            },
+            "P.142": {
+                "state_constituencies": {
+                    "N.6": {
+                        "name": "BEKOK"
+                    },
+                    "N.5": {
+                        "name": "TENANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 46.47,
+                    "Orang Asli": 1.74,
+                    "Malay": 36.52,
+                    "Indian": 15.07,
+                    "Others": 0.11,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "LABIS",
+                "metropolitan_index": 4
+            },
+            "P.143": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "BUKIT SERAMPANG"
+                    },
+                    "N.8": {
+                        "name": "JORAK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 30.83,
+                    "Orang Asli": 0.36,
+                    "Malay": 64.79,
+                    "Indian": 3.88,
+                    "Others": 0.07,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "PAGOH",
+                "metropolitan_index": 3
+            },
+            "P.140": {
+                "state_constituencies": {
+                    "N.2": {
+                        "name": "JEMENTAH"
+                    },
+                    "N.1": {
+                        "name": "BULOH KASAP"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 45.55,
+                    "Orang Asli": 0.09,
+                    "Malay": 44.29,
+                    "Indian": 9.87,
+                    "Others": 0.12,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "SEGAMAT",
+                "metropolitan_index": 5
+            },
+            "P.141": {
+                "state_constituencies": {
+                    "N.4": {
+                        "name": "KEMELAH"
+                    },
+                    "N.3": {
+                        "name": "PEMANIS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 38.98,
+                    "Orang Asli": 0.14,
+                    "Malay": 56.13,
+                    "Indian": 4.54,
+                    "Others": 0.13,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "SEKIJANG",
+                "metropolitan_index": 2
+            },
+            "P.146": {
+                "state_constituencies": {
+                    "N.16": {
+                        "name": "SUNGAI BALANG"
+                    },
+                    "N.15": {
+                        "name": "MAHARANI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.09,
+                    "Chinese": 35.38,
+                    "Orang Asli": 0.0,
+                    "Malay": 62.78,
+                    "Indian": 1.48,
+                    "Others": 0.2,
+                    "Bumiputra Sabah": 0.07
+                },
+                "name": "MUAR",
+                "metropolitan_index": 3
+            },
+            "P.147": {
+                "state_constituencies": {
+                    "N.18": {
+                        "name": "SRI MEDAN"
+                    },
+                    "N.17": {
+                        "name": "SEMERAH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.06,
+                    "Chinese": 22.47,
+                    "Orang Asli": 0.01,
+                    "Malay": 76.84,
+                    "Indian": 0.45,
+                    "Others": 0.15,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "PARIT SULONG",
+                "metropolitan_index": 3
+            },
+            "P.144": {
+                "state_constituencies": {
+                    "N.11": {
+                        "name": "SEROM"
+                    },
+                    "N.10": {
+                        "name": "TANGKAK"
+                    },
+                    "N.9": {
+                        "name": "GAMBIR"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 41.12,
+                    "Orang Asli": 0.34,
+                    "Malay": 53.61,
+                    "Indian": 4.76,
+                    "Others": 0.09,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "LEDANG",
+                "metropolitan_index": 4
+            },
+            "P.145": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "SUNGAI ABONG"
+                    },
+                    "N.12": {
+                        "name": "BENTAYAN"
+                    },
+                    "N.14": {
+                        "name": "BUKIT NANING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.09,
+                    "Chinese": 53.21,
+                    "Orang Asli": 0.0,
+                    "Malay": 44.07,
+                    "Indian": 2.25,
+                    "Others": 0.29,
+                    "Bumiputra Sabah": 0.08
+                },
+                "name": "BAKRI",
+                "metropolitan_index": 2
+            },
+            "P.159": {
+                "state_constituencies": {
+                    "N.42": {
+                        "name": "JOHOR JAYA"
+                    },
+                    "N.43": {
+                        "name": "PERMAS"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.1,
+                    "Chinese": 38.43,
+                    "Orang Asli": 0.06,
+                    "Malay": 47.78,
+                    "Indian": 11.05,
+                    "Others": 0.35,
+                    "Bumiputra Sabah": 1.23
+                },
+                "name": "PASIR GUDANG",
+                "metropolitan_index": 5
+            },
+            "P.158": {
+                "state_constituencies": {
+                    "N.40": {
+                        "name": "TIRAM"
+                    },
+                    "N.41": {
+                        "name": "PUTERI WANGSA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.51,
+                    "Chinese": 38.19,
+                    "Orang Asli": 0.09,
+                    "Malay": 47.42,
+                    "Indian": 13.26,
+                    "Others": 0.31,
+                    "Bumiputra Sabah": 0.23
+                },
+                "name": "TEBRAU",
+                "metropolitan_index": 2
+            },
+            "P.151": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "MACHAP"
+                    },
+                    "N.27": {
+                        "name": "LAYANG-LAYANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.11,
+                    "Chinese": 33.13,
+                    "Orang Asli": 0.02,
+                    "Malay": 56.79,
+                    "Indian": 9.64,
+                    "Others": 0.23,
+                    "Bumiputra Sabah": 0.08
+                },
+                "name": "SIMPANG RENGGAM",
+                "metropolitan_index": 3
+            },
+            "P.150": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "SENGGARANG"
+                    },
+                    "N.25": {
+                        "name": "RENGIT"
+                    },
+                    "N.23": {
+                        "name": "PENGGARAM"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 45.61,
+                    "Orang Asli": 0.05,
+                    "Malay": 52.66,
+                    "Indian": 1.39,
+                    "Others": 0.19,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "BATU PAHAT",
+                "metropolitan_index": 3
+            },
+            "P.153": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "KAHANG"
+                    },
+                    "N.30": {
+                        "name": "PALOH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 30.88,
+                    "Orang Asli": 1.19,
+                    "Malay": 58.74,
+                    "Indian": 8.94,
+                    "Others": 0.19,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "SEMBRONG",
+                "metropolitan_index": 4
+            },
+            "P.152": {
+                "state_constituencies": {
+                    "N.28": {
+                        "name": "MENGKIBOL"
+                    },
+                    "N.29": {
+                        "name": "MAHKOTA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.75,
+                    "Chinese": 49.27,
+                    "Orang Asli": 0.06,
+                    "Malay": 39.57,
+                    "Indian": 9.78,
+                    "Others": 0.29,
+                    "Bumiputra Sabah": 0.29
+                },
+                "name": "KLUANG",
+                "metropolitan_index": 5
+            },
+            "P.155": {
+                "state_constituencies": {
+                    "N.35": {
+                        "name": "PASIR RAJA"
+                    },
+                    "N.34": {
+                        "name": "PANTI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.25,
+                    "Chinese": 17.46,
+                    "Orang Asli": 0.56,
+                    "Malay": 73.07,
+                    "Indian": 6.95,
+                    "Others": 0.27,
+                    "Bumiputra Sabah": 0.45
+                },
+                "name": "TENGGARA",
+                "metropolitan_index": 4
+            },
+            "P.154": {
+                "state_constituencies": {
+                    "N.33": {
+                        "name": "TENGGAROH"
+                    },
+                    "N.32": {
+                        "name": "ENDAU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.87,
+                    "Chinese": 15.78,
+                    "Orang Asli": 1.55,
+                    "Malay": 79.81,
+                    "Indian": 1.29,
+                    "Others": 0.23,
+                    "Bumiputra Sabah": 0.47
+                },
+                "name": "MERSING",
+                "metropolitan_index": 4
+            },
+            "P.157": {
+                "state_constituencies": {
+                    "N.39": {
+                        "name": "TANJONG SURAT"
+                    },
+                    "N.38": {
+                        "name": "PENAWAR"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.18,
+                    "Chinese": 10.05,
+                    "Orang Asli": 0.22,
+                    "Malay": 88.45,
+                    "Indian": 0.85,
+                    "Others": 0.12,
+                    "Bumiputra Sabah": 0.13
+                },
+                "name": "PENGERANG",
+                "metropolitan_index": 4
+            },
+            "P.156": {
+                "state_constituencies": {
+                    "N.37": {
+                        "name": "JOHOR LAMA"
+                    },
+                    "N.36": {
+                        "name": "SEDILI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.09,
+                    "Chinese": 10.51,
+                    "Orang Asli": 0.07,
+                    "Malay": 87.0,
+                    "Indian": 2.13,
+                    "Others": 0.16,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "KOTA TINGGI",
+                "metropolitan_index": 4
+            }
+        }
+    },
+    "PULAU PINANG": {
+        "parliament_constituencies": {
+            "P.52": {
+                "state_constituencies": {
+                    "N.35": {
+                        "name": "BATU UBAN"
+                    },
+                    "N.37": {
+                        "name": "BATU MAUNG"
+                    },
+                    "N.36": {
+                        "name": "PANTAI JEREJAK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.21,
+                    "Chinese": 49.0,
+                    "Orang Asli": 0.0,
+                    "Malay": 39.15,
+                    "Indian": 11.04,
+                    "Others": 0.43,
+                    "Bumiputra Sabah": 0.18
+                },
+                "name": "BAYAN BARU",
+                "metropolitan_index": 2
+            },
+            "P.50": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "BATU LANCANG"
+                    },
+                    "N.30": {
+                        "name": "SUNGAI PINANG"
+                    },
+                    "N.29": {
+                        "name": "DATOK KERAMAT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 66.52,
+                    "Orang Asli": 0.0,
+                    "Malay": 21.85,
+                    "Indian": 11.21,
+                    "Others": 0.34,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "JELUTONG",
+                "metropolitan_index": 3
+            },
+            "P.51": {
+                "state_constituencies": {
+                    "N.33": {
+                        "name": "AIR ITAM"
+                    },
+                    "N.32": {
+                        "name": "SERI DELIMA"
+                    },
+                    "N.34": {
+                        "name": "PAYA TERUBONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 74.5,
+                    "Orang Asli": 0.0,
+                    "Malay": 14.47,
+                    "Indian": 10.55,
+                    "Others": 0.41,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "BUKIT GELUGOR",
+                "metropolitan_index": 3
+            },
+            "P.53": {
+                "state_constituencies": {
+                    "N.39": {
+                        "name": "PULAU BETONG"
+                    },
+                    "N.38": {
+                        "name": "BAYAN LEPAS"
+                    },
+                    "N.40": {
+                        "name": "TELOK BAHANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 1.73,
+                    "Chinese": 23.16,
+                    "Orang Asli": 0.0,
+                    "Malay": 39.25,
+                    "Indian": 1.48,
+                    "Others": 2.81,
+                    "Bumiputra Sabah": 31.57
+                },
+                "name": "BALIK PULAU",
+                "metropolitan_index": 2
+            },
+            "P.48": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "KEBUN BUNGA"
+                    },
+                    "N.25": {
+                        "name": "PULAU TIKUS"
+                    },
+                    "N.22": {
+                        "name": "TANJONG BUNGAH"
+                    },
+                    "N.23": {
+                        "name": "AIR PUTIH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.07,
+                    "Chinese": 73.73,
+                    "Orang Asli": 0.0,
+                    "Malay": 14.0,
+                    "Indian": 11.12,
+                    "Others": 1.01,
+                    "Bumiputra Sabah": 0.06
+                },
+                "name": "BUKIT BENDERA",
+                "metropolitan_index": 2
+            },
+            "P.49": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "PADANG KOTA"
+                    },
+                    "N.27": {
+                        "name": "PENGKALAN KOTA"
+                    },
+                    "N.28": {
+                        "name": "KOMTAR"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 85.31,
+                    "Orang Asli": 0.0,
+                    "Malay": 5.21,
+                    "Indian": 9.12,
+                    "Others": 0.3,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "TANJONG",
+                "metropolitan_index": 2
+            },
+            "P.46": {
+                "state_constituencies": {
+                    "N.18": {
+                        "name": "BUKIT TAMBUN"
+                    },
+                    "N.17": {
+                        "name": "BUKIT TENGAH"
+                    },
+                    "N.16": {
+                        "name": "PERAI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.06,
+                    "Chinese": 55.72,
+                    "Orang Asli": 0.0,
+                    "Malay": 20.58,
+                    "Indian": 23.32,
+                    "Others": 0.28,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "BATU KAWAN",
+                "metropolitan_index": 4
+            },
+            "P.47": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "JAWI"
+                    },
+                    "N.20": {
+                        "name": "SUNGAI BAKAP"
+                    },
+                    "N.21": {
+                        "name": "SUNGAI ACHEH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 37.33,
+                    "Orang Asli": 0.01,
+                    "Malay": 44.85,
+                    "Indian": 17.61,
+                    "Others": 0.12,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "NIBONG TEBAL",
+                "metropolitan_index": 3
+            },
+            "P.44": {
+                "state_constituencies": {
+                    "N.12": {
+                        "name": "PENANTI"
+                    },
+                    "N.11": {
+                        "name": "PERMATANG PASIR"
+                    },
+                    "N.10": {
+                        "name": "SEBERANG JAYA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 23.06,
+                    "Orang Asli": 0.0,
+                    "Malay": 70.24,
+                    "Indian": 6.27,
+                    "Others": 0.33,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "PERMATANG PAUH",
+                "metropolitan_index": 3
+            },
+            "P.45": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "BERAPIT"
+                    },
+                    "N.15": {
+                        "name": "PADANG LALANG"
+                    },
+                    "N.14": {
+                        "name": "MACHANG BUBUK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.02,
+                    "Chinese": 71.17,
+                    "Orang Asli": 0.0,
+                    "Malay": 18.91,
+                    "Indian": 9.62,
+                    "Others": 0.23,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "BUKIT MERTAJAM",
+                "metropolitan_index": 4
+            },
+            "P.42": {
+                "state_constituencies": {
+                    "N.6": {
+                        "name": "TELOK AYER TAWAR"
+                    },
+                    "N.5": {
+                        "name": "SUNGAI DUA"
+                    },
+                    "N.4": {
+                        "name": "PERMATANG BERANGAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.19,
+                    "Chinese": 14.56,
+                    "Orang Asli": 0.0,
+                    "Malay": 78.01,
+                    "Indian": 6.92,
+                    "Others": 0.21,
+                    "Bumiputra Sabah": 0.11
+                },
+                "name": "TASEK GELUGOR",
+                "metropolitan_index": 3
+            },
+            "P.43": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "SUNGAI PUYU"
+                    },
+                    "N.9": {
+                        "name": "BAGAN DALAM"
+                    },
+                    "N.8": {
+                        "name": "BAGAN JERMAL"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 69.56,
+                    "Orang Asli": 0.0,
+                    "Malay": 15.46,
+                    "Indian": 14.67,
+                    "Others": 0.23,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "BAGAN",
+                "metropolitan_index": 3
+            },
+            "P.41": {
+                "state_constituencies": {
+                    "N.3": {
+                        "name": "PINANG TUNGGAL"
+                    },
+                    "N.2": {
+                        "name": "BERTAM"
+                    },
+                    "N.1": {
+                        "name": "PENAGA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 19.0,
+                    "Orang Asli": 0.0,
+                    "Malay": 76.31,
+                    "Indian": 4.48,
+                    "Others": 0.12,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "KEPALA BATAS",
+                "metropolitan_index": 3
+            }
+        }
+    },
+    "TERENGGANU": {
+        "parliament_constituencies": {
+            "P.39": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "RANTAU ABANG"
+                    },
+                    "N.27": {
+                        "name": "SURA"
+                    },
+                    "N.25": {
+                        "name": "BUKIT BESI"
+                    },
+                    "N.28": {
+                        "name": "PAKA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.07,
+                    "Chinese": 3.8,
+                    "Orang Asli": 0.0,
+                    "Malay": 95.68,
+                    "Indian": 0.21,
+                    "Others": 0.18,
+                    "Bumiputra Sabah": 0.07
+                },
+                "name": "DUNGUN",
+                "metropolitan_index": 5
+            },
+            "P.38": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "AJIL"
+                    },
+                    "N.22": {
+                        "name": "MANIR"
+                    },
+                    "N.23": {
+                        "name": "KUALA BERANG"
+                    },
+                    "N.21": {
+                        "name": "TELEMUNG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 0.55,
+                    "Orang Asli": 0.15,
+                    "Malay": 99.11,
+                    "Indian": 0.05,
+                    "Others": 0.08,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "HULU TERENGGANU",
+                "metropolitan_index": 4
+            },
+            "P.37": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "RU RENDANG"
+                    },
+                    "N.18": {
+                        "name": "BUKIT PAYUNG"
+                    },
+                    "N.17": {
+                        "name": "ALUR LIMBAT"
+                    },
+                    "N.20": {
+                        "name": "PENGKALAN BERANGAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 2.16,
+                    "Orang Asli": 0.0,
+                    "Malay": 97.62,
+                    "Indian": 0.08,
+                    "Others": 0.06,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "MARANG",
+                "metropolitan_index": 4
+            },
+            "P.36": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "WAKAF MEMPELAM"
+                    },
+                    "N.16": {
+                        "name": "BATU BURUK"
+                    },
+                    "N.15": {
+                        "name": "LADANG"
+                    },
+                    "N.14": {
+                        "name": "BANDAR"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 10.09,
+                    "Orang Asli": 0.0,
+                    "Malay": 89.12,
+                    "Indian": 0.58,
+                    "Others": 0.11,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "KUALA TERENGGANU",
+                "metropolitan_index": 5
+            },
+            "P.35": {
+                "state_constituencies": {
+                    "N.12": {
+                        "name": "BUKIT TUNGGAL"
+                    },
+                    "N.11": {
+                        "name": "SEBERANG TAKIR"
+                    },
+                    "N.10": {
+                        "name": "TELUK PASU"
+                    },
+                    "N.9": {
+                        "name": "TEPUH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.08,
+                    "Chinese": 0.93,
+                    "Orang Asli": 0.0,
+                    "Malay": 98.74,
+                    "Indian": 0.09,
+                    "Others": 0.1,
+                    "Bumiputra Sabah": 0.06
+                },
+                "name": "KUALA NERUS",
+                "metropolitan_index": 4
+            },
+            "P.34": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "LANGKAP"
+                    },
+                    "N.6": {
+                        "name": "PERMAISURI"
+                    },
+                    "N.5": {
+                        "name": "JABI"
+                    },
+                    "N.8": {
+                        "name": "BATU RAKIT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 0.36,
+                    "Orang Asli": 0.0,
+                    "Malay": 99.45,
+                    "Indian": 0.02,
+                    "Others": 0.11,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "SETIU",
+                "metropolitan_index": 4
+            },
+            "P.33": {
+                "state_constituencies": {
+                    "N.4": {
+                        "name": "HULU BESUT"
+                    },
+                    "N.3": {
+                        "name": "JERTIH"
+                    },
+                    "N.2": {
+                        "name": "KOTA PUTERA"
+                    },
+                    "N.1": {
+                        "name": "KUALA BESUT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.09,
+                    "Chinese": 1.6,
+                    "Orang Asli": 0.02,
+                    "Malay": 97.94,
+                    "Indian": 0.1,
+                    "Others": 0.23,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "BESUT",
+                "metropolitan_index": 4
+            },
+            "P.40": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "CUKAI"
+                    },
+                    "N.30": {
+                        "name": "KIJAL"
+                    },
+                    "N.32": {
+                        "name": "AIR PUTIH"
+                    },
+                    "N.29": {
+                        "name": "KEMASIK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.32,
+                    "Chinese": 1.08,
+                    "Orang Asli": 0.03,
+                    "Malay": 94.45,
+                    "Indian": 3.1,
+                    "Others": 0.3,
+                    "Bumiputra Sabah": 0.72
+                },
+                "name": "KEMAMAN",
+                "metropolitan_index": 4
+            }
+        }
+    },
+    "PAHANG": {
+        "parliament_constituencies": {
+            "P.89": {
+                "state_constituencies": {
+                    "N.33": {
+                        "name": "BILUT"
+                    },
+                    "N.35": {
+                        "name": "SABAI"
+                    },
+                    "N.34": {
+                        "name": "KETARI"
+                    },
+                    "N.36": {
+                        "name": "PELANGAI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.18,
+                    "Chinese": 43.88,
+                    "Orang Asli": 1.93,
+                    "Malay": 44.61,
+                    "Indian": 9.1,
+                    "Others": 0.2,
+                    "Bumiputra Sabah": 0.1
+                },
+                "name": "BENTONG",
+                "metropolitan_index": 4
+            },
+            "P.90": {
+                "state_constituencies": {
+                    "N.39": {
+                        "name": "KEMAYAN"
+                    },
+                    "N.38": {
+                        "name": "TRIANG"
+                    },
+                    "N.37": {
+                        "name": "GUAI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 31.91,
+                    "Orang Asli": 4.55,
+                    "Malay": 59.48,
+                    "Indian": 3.91,
+                    "Others": 0.08,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "BERA",
+                "metropolitan_index": 4
+            },
+            "P.82": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "SEMAMBU"
+                    },
+                    "N.12": {
+                        "name": "BESERAH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.23,
+                    "Chinese": 28.52,
+                    "Orang Asli": 0.03,
+                    "Malay": 64.58,
+                    "Indian": 6.14,
+                    "Others": 0.25,
+                    "Bumiputra Sabah": 0.25
+                },
+                "name": "INDERA MAHKOTA",
+                "metropolitan_index": 4
+            },
+            "P.83": {
+                "state_constituencies": {
+                    "N.16": {
+                        "name": "INDERAPURA"
+                    },
+                    "N.15": {
+                        "name": "TANJUNG LUMPUR"
+                    },
+                    "N.14": {
+                        "name": "TERUNTUM"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.09,
+                    "Chinese": 33.14,
+                    "Orang Asli": 0.19,
+                    "Malay": 62.44,
+                    "Indian": 3.8,
+                    "Others": 0.25,
+                    "Bumiputra Sabah": 0.09
+                },
+                "name": "KUANTAN",
+                "metropolitan_index": 6
+            },
+            "P.80": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "TRAS"
+                    },
+                    "N.6": {
+                        "name": "BATU TALAM"
+                    },
+                    "N.8": {
+                        "name": "DONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 40.34,
+                    "Orang Asli": 3.08,
+                    "Malay": 49.81,
+                    "Indian": 6.49,
+                    "Others": 0.21,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "RAUB",
+                "metropolitan_index": 4
+            },
+            "P.81": {
+                "state_constituencies": {
+                    "N.11": {
+                        "name": "PULAU TAWAR"
+                    },
+                    "N.10": {
+                        "name": "DAMAK"
+                    },
+                    "N.9": {
+                        "name": "TAHAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 13.68,
+                    "Orang Asli": 2.24,
+                    "Malay": 81.11,
+                    "Indian": 2.78,
+                    "Others": 0.1,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "JERANTUT",
+                "metropolitan_index": 4
+            },
+            "P.86": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "CHENOR"
+                    },
+                    "N.24": {
+                        "name": "LUIT"
+                    },
+                    "N.25": {
+                        "name": "KUALA SENTUL"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 6.86,
+                    "Orang Asli": 1.72,
+                    "Malay": 89.77,
+                    "Indian": 1.46,
+                    "Others": 0.11,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "MARAN",
+                "metropolitan_index": 2
+            },
+            "P.87": {
+                "state_constituencies": {
+                    "N.27": {
+                        "name": "JENDERAK"
+                    },
+                    "N.28": {
+                        "name": "KERDAU"
+                    },
+                    "N.29": {
+                        "name": "JENGKA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 3.18,
+                    "Orang Asli": 4.36,
+                    "Malay": 89.68,
+                    "Indian": 2.63,
+                    "Others": 0.1,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "KUALA KRAU",
+                "metropolitan_index": 3
+            },
+            "P.84": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "PANCHING"
+                    },
+                    "N.18": {
+                        "name": "LEPAR"
+                    },
+                    "N.17": {
+                        "name": "SUNGAI LEMBING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.06,
+                    "Chinese": 14.87,
+                    "Orang Asli": 1.31,
+                    "Malay": 81.39,
+                    "Indian": 2.18,
+                    "Others": 0.15,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "PAYA BESAR",
+                "metropolitan_index": 2
+            },
+            "P.85": {
+                "state_constituencies": {
+                    "N.22": {
+                        "name": "BEBAR"
+                    },
+                    "N.23": {
+                        "name": "CHINI"
+                    },
+                    "N.20": {
+                        "name": "PULAU MANIS"
+                    },
+                    "N.21": {
+                        "name": "PERAMU JAYA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.56,
+                    "Chinese": 2.25,
+                    "Orang Asli": 7.48,
+                    "Malay": 88.05,
+                    "Indian": 0.91,
+                    "Others": 0.51,
+                    "Bumiputra Sabah": 0.24
+                },
+                "name": "PEKAN",
+                "metropolitan_index": 4
+            },
+            "P.79": {
+                "state_constituencies": {
+                    "N.5": {
+                        "name": "BENTA"
+                    },
+                    "N.4": {
+                        "name": "CHEKA"
+                    },
+                    "N.3": {
+                        "name": "PADANG TENGKU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.06,
+                    "Chinese": 17.17,
+                    "Orang Asli": 0.72,
+                    "Malay": 76.09,
+                    "Indian": 5.81,
+                    "Others": 0.11,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "LIPIS",
+                "metropolitan_index": 3
+            },
+            "P.78": {
+                "state_constituencies": {
+                    "N.2": {
+                        "name": "JELAI"
+                    },
+                    "N.1": {
+                        "name": "TANAH RATA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 32.31,
+                    "Orang Asli": 20.73,
+                    "Malay": 34.19,
+                    "Indian": 12.46,
+                    "Others": 0.24,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "CAMERON HIGHLANDS",
+                "metropolitan_index": 4
+            },
+            "P.91": {
+                "state_constituencies": {
+                    "N.40": {
+                        "name": "BUKIT IBAM"
+                    },
+                    "N.41": {
+                        "name": "MUADZAM SHAH"
+                    },
+                    "N.42": {
+                        "name": "TIOMAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 2.49,
+                    "Orang Asli": 8.38,
+                    "Malay": 87.7,
+                    "Indian": 1.15,
+                    "Others": 0.17,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "ROMPIN",
+                "metropolitan_index": 4
+            },
+            "P.88": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "LANCHANG"
+                    },
+                    "N.30": {
+                        "name": "MENTAKAB"
+                    },
+                    "N.32": {
+                        "name": "KUALA SEMANTAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.73,
+                    "Chinese": 24.22,
+                    "Orang Asli": 1.28,
+                    "Malay": 64.34,
+                    "Indian": 8.72,
+                    "Others": 0.43,
+                    "Bumiputra Sabah": 0.29
+                },
+                "name": "TEMERLOH",
+                "metropolitan_index": 4
+            }
+        }
+    },
+    "PERAK": {
+        "parliament_constituencies": {
+            "P.59": {
+                "state_constituencies": {
+                    "N.13": {
+                        "name": "KUALA SAPETANG"
+                    },
+                    "N.15": {
+                        "name": "TRONG"
+                    },
+                    "N.14": {
+                        "name": "CHANGKAT JERING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 25.18,
+                    "Orang Asli": 0.01,
+                    "Malay": 64.81,
+                    "Indian": 9.77,
+                    "Others": 0.16,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "BUKIT GANTANG",
+                "metropolitan_index": 3
+            },
+            "P.58": {
+                "state_constituencies": {
+                    "N.12": {
+                        "name": "SELINSING"
+                    },
+                    "N.11": {
+                        "name": "GUNONG SEMANGGOL"
+                    },
+                    "N.10": {
+                        "name": "ALOR PONGSU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 14.0,
+                    "Orang Asli": 0.0,
+                    "Malay": 75.79,
+                    "Indian": 10.05,
+                    "Others": 0.11,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "BAGAN SERAI",
+                "metropolitan_index": 4
+            },
+            "P.60": {
+                "state_constituencies": {
+                    "N.18": {
+                        "name": "AULONG"
+                    },
+                    "N.17": {
+                        "name": "POKOK ASSAM"
+                    },
+                    "N.16": {
+                        "name": "KAMUNTING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.66,
+                    "Chinese": 47.93,
+                    "Orang Asli": 0.03,
+                    "Malay": 37.14,
+                    "Indian": 13.51,
+                    "Others": 0.46,
+                    "Bumiputra Sabah": 0.27
+                },
+                "name": "TAIPING",
+                "metropolitan_index": 5
+            },
+            "P.61": {
+                "state_constituencies": {
+                    "N.19": {
+                        "name": "CHENDEROH"
+                    },
+                    "N.20": {
+                        "name": "LUBOK MERBAU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.02,
+                    "Chinese": 16.55,
+                    "Orang Asli": 0.0,
+                    "Malay": 76.22,
+                    "Indian": 7.1,
+                    "Others": 0.06,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "PADANG RENGAS",
+                "metropolitan_index": 3
+            },
+            "P.62": {
+                "state_constituencies": {
+                    "N.22": {
+                        "name": "JALONG"
+                    },
+                    "N.21": {
+                        "name": "LINTANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 39.15,
+                    "Orang Asli": 6.18,
+                    "Malay": 33.05,
+                    "Indian": 21.41,
+                    "Others": 0.13,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "SUNGAI SIPUT",
+                "metropolitan_index": 2
+            },
+            "P.63": {
+                "state_constituencies": {
+                    "N.24": {
+                        "name": "HULU KINTA"
+                    },
+                    "N.23": {
+                        "name": "MANJOI"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.16,
+                    "Chinese": 22.01,
+                    "Orang Asli": 1.13,
+                    "Malay": 64.1,
+                    "Indian": 12.1,
+                    "Others": 0.41,
+                    "Bumiputra Sabah": 0.08
+                },
+                "name": "TAMBUN",
+                "metropolitan_index": 3
+            },
+            "P.64": {
+                "state_constituencies": {
+                    "N.26": {
+                        "name": "TEBING TINGGI"
+                    },
+                    "N.27": {
+                        "name": "PASIR PINJI"
+                    },
+                    "N.25": {
+                        "name": "CANNING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.36,
+                    "Chinese": 79.31,
+                    "Orang Asli": 0.09,
+                    "Malay": 14.18,
+                    "Indian": 5.48,
+                    "Others": 0.4,
+                    "Bumiputra Sabah": 0.18
+                },
+                "name": "IPOH TIMOR",
+                "metropolitan_index": 6
+            },
+            "P.65": {
+                "state_constituencies": {
+                    "N.30": {
+                        "name": "BUNTONG"
+                    },
+                    "N.28": {
+                        "name": "BERCHAM"
+                    },
+                    "N.29": {
+                        "name": "KEPAYANG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.11,
+                    "Chinese": 62.19,
+                    "Orang Asli": 0.03,
+                    "Malay": 13.58,
+                    "Indian": 23.58,
+                    "Others": 0.48,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "IPOH BARAT",
+                "metropolitan_index": 6
+            },
+            "P.66": {
+                "state_constituencies": {
+                    "N.31": {
+                        "name": "JELAPANG"
+                    },
+                    "N.33": {
+                        "name": "TRONOH"
+                    },
+                    "N.32": {
+                        "name": "MENGLEMBU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 73.89,
+                    "Orang Asli": 0.05,
+                    "Malay": 10.71,
+                    "Indian": 14.99,
+                    "Others": 0.27,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "BATU GAJAH",
+                "metropolitan_index": 4
+            },
+            "P.67": {
+                "state_constituencies": {
+                    "N.35": {
+                        "name": "MANONG"
+                    },
+                    "N.34": {
+                        "name": "BUKIT CHANDAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 23.93,
+                    "Orang Asli": 0.92,
+                    "Malay": 67.94,
+                    "Indian": 6.97,
+                    "Others": 0.16,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "KUALA KANGSAR",
+                "metropolitan_index": 4
+            },
+            "P.68": {
+                "state_constituencies": {
+                    "N.37": {
+                        "name": "PANTAI REMIS"
+                    },
+                    "N.36": {
+                        "name": "PENGKALAN BAHARU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 52.28,
+                    "Orang Asli": 0.0,
+                    "Malay": 32.71,
+                    "Indian": 14.87,
+                    "Others": 0.09,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "BERUAS",
+                "metropolitan_index": 3
+            },
+            "P.69": {
+                "state_constituencies": {
+                    "N.39": {
+                        "name": "BOTA"
+                    },
+                    "N.38": {
+                        "name": "BELANJA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.08,
+                    "Chinese": 2.64,
+                    "Orang Asli": 1.87,
+                    "Malay": 92.41,
+                    "Indian": 2.87,
+                    "Others": 0.09,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "PARIT",
+                "metropolitan_index": 3
+            },
+            "P.73": {
+                "state_constituencies": {
+                    "N.48": {
+                        "name": "SUNGAI MANIK"
+                    },
+                    "N.49": {
+                        "name": "KAMPONG GAJAH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.05,
+                    "Chinese": 13.54,
+                    "Orang Asli": 2.71,
+                    "Malay": 79.71,
+                    "Indian": 3.87,
+                    "Others": 0.06,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "PASIR SALAK",
+                "metropolitan_index": 3
+            },
+            "P.72": {
+                "state_constituencies": {
+                    "N.46": {
+                        "name": "CHENDERIANG"
+                    },
+                    "N.47": {
+                        "name": "AYER KUNING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.12,
+                    "Chinese": 27.87,
+                    "Orang Asli": 11.83,
+                    "Malay": 46.47,
+                    "Indian": 13.29,
+                    "Others": 0.36,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "TAPAH",
+                "metropolitan_index": 4
+            },
+            "P.71": {
+                "state_constituencies": {
+                    "N.44": {
+                        "name": "SIMPANG PULAI"
+                    },
+                    "N.45": {
+                        "name": "TEJA"
+                    },
+                    "N.43": {
+                        "name": "SUNGAI RAPAT"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.07,
+                    "Chinese": 45.97,
+                    "Orang Asli": 1.8,
+                    "Malay": 42.88,
+                    "Indian": 9.01,
+                    "Others": 0.2,
+                    "Bumiputra Sabah": 0.06
+                },
+                "name": "GOPENG",
+                "metropolitan_index": 4
+            },
+            "P.70": {
+                "state_constituencies": {
+                    "N.40": {
+                        "name": "MALIM NAWAR"
+                    },
+                    "N.41": {
+                        "name": "KERANJI"
+                    },
+                    "N.42": {
+                        "name": "TUALANG SEKAH"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 60.39,
+                    "Orang Asli": 0.99,
+                    "Malay": 28.79,
+                    "Indian": 9.57,
+                    "Others": 0.19,
+                    "Bumiputra Sabah": 0.04
+                },
+                "name": "KAMPAR",
+                "metropolitan_index": 4
+            },
+            "P.77": {
+                "state_constituencies": {
+                    "N.57": {
+                        "name": "SUNGKAI"
+                    },
+                    "N.59": {
+                        "name": "BEHRANG"
+                    },
+                    "N.58": {
+                        "name": "SLIM"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.23,
+                    "Chinese": 11.48,
+                    "Orang Asli": 0.01,
+                    "Malay": 84.35,
+                    "Indian": 1.5,
+                    "Others": 2.31,
+                    "Bumiputra Sabah": 0.12
+                },
+                "name": "TANJONG MALIM",
+                "metropolitan_index": 4
+            },
+            "P.76": {
+                "state_constituencies": {
+                    "N.56": {
+                        "name": "CHANGKAT JONG"
+                    },
+                    "N.55": {
+                        "name": "PASIR BEDAMAR"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.03,
+                    "Chinese": 41.93,
+                    "Orang Asli": 0.19,
+                    "Malay": 38.58,
+                    "Indian": 19.05,
+                    "Others": 0.21,
+                    "Bumiputra Sabah": 0.01
+                },
+                "name": "TELOK INTAN",
+                "metropolitan_index": 5
+            },
+            "P.75": {
+                "state_constituencies": {
+                    "N.54": {
+                        "name": "HUTAN MELINTANG"
+                    },
+                    "N.53": {
+                        "name": "RUNGKUP"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.02,
+                    "Chinese": 19.71,
+                    "Orang Asli": 0.0,
+                    "Malay": 56.53,
+                    "Indian": 23.53,
+                    "Others": 0.19,
+                    "Bumiputra Sabah": 0.02
+                },
+                "name": "BAGAN DATOH",
+                "metropolitan_index": 3
+            },
+            "P.74": {
+                "state_constituencies": {
+                    "N.52": {
+                        "name": "PANGKOR"
+                    },
+                    "N.51": {
+                        "name": "PASIR PANJANG"
+                    },
+                    "N.50": {
+                        "name": "SITIAWAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.63,
+                    "Chinese": 35.37,
+                    "Orang Asli": 0.02,
+                    "Malay": 51.28,
+                    "Indian": 12.05,
+                    "Others": 0.21,
+                    "Bumiputra Sabah": 0.44
+                },
+                "name": "LUMUT",
+                "metropolitan_index": 3
+            },
+            "P.55": {
+                "state_constituencies": {
+                    "N.4": {
+                        "name": "KOTA TAMPAN"
+                    },
+                    "N.3": {
+                        "name": "KENERING"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 14.32,
+                    "Orang Asli": 2.11,
+                    "Malay": 81.85,
+                    "Indian": 1.52,
+                    "Others": 0.08,
+                    "Bumiputra Sabah": 0.07
+                },
+                "name": "LENGGONG",
+                "metropolitan_index": 3
+            },
+            "P.54": {
+                "state_constituencies": {
+                    "N.2": {
+                        "name": "TEMENGOR"
+                    },
+                    "N.1": {
+                        "name": "PENGKALAN HULU"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.91,
+                    "Chinese": 15.75,
+                    "Orang Asli": 7.87,
+                    "Malay": 68.15,
+                    "Indian": 3.64,
+                    "Others": 3.04,
+                    "Bumiputra Sabah": 0.64
+                },
+                "name": "GERIK",
+                "metropolitan_index": 4
+            },
+            "P.57": {
+                "state_constituencies": {
+                    "N.9": {
+                        "name": "KUALA KURAU"
+                    },
+                    "N.8": {
+                        "name": "TITI SERONG"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.01,
+                    "Chinese": 26.97,
+                    "Orang Asli": 0.0,
+                    "Malay": 68.0,
+                    "Indian": 4.93,
+                    "Others": 0.06,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "PARIT BUNTAR",
+                "metropolitan_index": 4
+            },
+            "P.56": {
+                "state_constituencies": {
+                    "N.7": {
+                        "name": "BATU KURAU"
+                    },
+                    "N.6": {
+                        "name": "KUBU GAJAH"
+                    },
+                    "N.5": {
+                        "name": "SELAMA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 4.97,
+                    "Orang Asli": 0.0,
+                    "Malay": 88.7,
+                    "Indian": 6.04,
+                    "Others": 0.21,
+                    "Bumiputra Sabah": 0.03
+                },
+                "name": "LARUT",
+                "metropolitan_index": 3
+            }
+        }
+    }
+}

@@ -48,10 +48,11 @@ def scrape(url, kods):
 
     return records
 
-records = scrape(URL_PARLIAMENT, KODS_PARLIAMENT)
-with open("pru13_parliament.json", 'w') as f:
-    json.dump(records, f)
+if __name__ == "__main__":
+    records = scrape(URL_PARLIAMENT, KODS_PARLIAMENT)
+    with open("pru13_parliament.json", 'w') as f:
+        json.dump(records, f)
 
-records = scrape(URL_STATE, KODS_STATE)
-with open("pru13_state.json", 'w') as f:
-    json.dump(records, f)
+    records = scrape(URL_STATE, KODS_STATE)
+    with open("pru13_state.json", 'w') as f:
+        json.dump(records, f)
