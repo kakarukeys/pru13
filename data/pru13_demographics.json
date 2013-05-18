@@ -3,11 +3,11 @@
         "parliament_constituencies": {
             "P.220": {
                 "state_constituencies": {
-                    "N. 67": {
-                        "name": "TELANG USAN"
-                    },
-                    "N. 66": {
+                    "N.66": {
                         "name": "MARUDI"
+                    },
+                    "N.67": {
+                        "name": "TELANG USAN"
                     }
                 },
                 "racial_breakdown": {
@@ -24,10 +24,10 @@
             },
             "P.218": {
                 "state_constituencies": {
-                    "N. 62": {
+                    "N.62": {
                         "name": "LAMBIR"
                     },
-                    "N. 61": {
+                    "N.61": {
                         "name": "BEKENU"
                     }
                 },
@@ -45,14 +45,14 @@
             },
             "P.219": {
                 "state_constituencies": {
-                    "N. 63": {
+                    "N.63": {
                         "name": "PIASAU"
                     },
-                    "N. 65": {
-                        "name": "SENADIN"
-                    },
-                    "N. 64": {
+                    "N.64": {
                         "name": "PUJUT"
+                    },
+                    "N.65": {
+                        "name": "SENADIN"
                     }
                 },
                 "racial_breakdown": {
@@ -69,11 +69,11 @@
             },
             "P.216": {
                 "state_constituencies": {
-                    "N. 56": {
-                        "name": "BALEH"
-                    },
-                    "N. 57": {
+                    "N.57": {
                         "name": "BELAGA"
+                    },
+                    "N.56": {
+                        "name": "BALEH"
                     }
                 },
                 "racial_breakdown": {
@@ -90,14 +90,14 @@
             },
             "P.217": {
                 "state_constituencies": {
-                    "N. 60": {
+                    "N.60": {
                         "name": "KEMENA"
                     },
-                    "N. 58": {
-                        "name": "JEPAK"
-                    },
-                    "N. 59": {
+                    "N.59": {
                         "name": "KIDURONG"
+                    },
+                    "N.58": {
+                        "name": "JEPAK"
                     }
                 },
                 "racial_breakdown": {
@@ -114,11 +114,11 @@
             },
             "P.214": {
                 "state_constituencies": {
-                    "N. 52": {
-                        "name": "TAMIN"
-                    },
-                    "N. 53": {
+                    "N.53": {
                         "name": "KAKUS"
+                    },
+                    "N.52": {
+                        "name": "TAMIN"
                     }
                 },
                 "racial_breakdown": {
@@ -135,11 +135,11 @@
             },
             "P.215": {
                 "state_constituencies": {
-                    "N. 54": {
-                        "name": "PELAGUS"
-                    },
-                    "N. 55": {
+                    "N.55": {
                         "name": "KATIBAS"
+                    },
+                    "N.54": {
+                        "name": "PELAGUS"
                     }
                 },
                 "racial_breakdown": {
@@ -156,14 +156,14 @@
             },
             "P.212": {
                 "state_constituencies": {
-                    "N. 47": {
+                    "N.47": {
                         "name": "BAWANG ASSAN"
                     },
-                    "N. 49": {
-                        "name": "NANGKA"
-                    },
-                    "N. 48": {
+                    "N.48": {
                         "name": "PELAWAN"
+                    },
+                    "N.49": {
+                        "name": "NANGKA"
                     }
                 },
                 "racial_breakdown": {
@@ -180,11 +180,11 @@
             },
             "P.213": {
                 "state_constituencies": {
-                    "N. 50": {
-                        "name": "DALAT"
-                    },
-                    "N. 51": {
+                    "N.51": {
                         "name": "BALINGIAN"
+                    },
+                    "N.50": {
+                        "name": "DALAT"
                     }
                 },
                 "racial_breakdown": {
@@ -201,10 +201,10 @@
             },
             "P.210": {
                 "state_constituencies": {
-                    "N. 44": {
+                    "N.44": {
                         "name": "MACHAN"
                     },
-                    "N. 43": {
+                    "N.43": {
                         "name": "NGEMAH"
                     }
                 },
@@ -222,10 +222,10 @@
             },
             "P.211": {
                 "state_constituencies": {
-                    "N. 45": {
+                    "N.45": {
                         "name": "BUKIT ASSEK"
                     },
-                    "N. 46": {
+                    "N.46": {
                         "name": "DUDONG"
                     }
                 },
@@ -285,11 +285,11 @@
             },
             "P.195": {
                 "state_constituencies": {
-                    "N.09": {
-                        "name": "PADUNGAN"
-                    },
                     "N.10": {
                         "name": "PENDING"
+                    },
+                    "N.9": {
+                        "name": "PADUNGAN"
                     }
                 },
                 "racial_breakdown": {
@@ -306,14 +306,14 @@
             },
             "P.194": {
                 "state_constituencies": {
-                    "N.08": {
-                        "name": "SATOK"
+                    "N.7": {
+                        "name": "SAMARIANG"
                     },
-                    "N.06": {
+                    "N.6": {
                         "name": "TUPONG"
                     },
-                    "N.07": {
-                        "name": "SAMARIANG"
+                    "N.8": {
+                        "name": "SATOK"
                     }
                 },
                 "racial_breakdown": {
@@ -375,14 +375,14 @@
             },
             "P.193": {
                 "state_constituencies": {
-                    "N.03": {
-                        "name": "TANJONG DATU"
+                    "N.5": {
+                        "name": "DEMAK LAUT"
                     },
-                    "N.04": {
+                    "N.4": {
                         "name": "PANTAI DAMAI"
                     },
-                    "N.05": {
-                        "name": "DEMAK LAUT"
+                    "N.3": {
+                        "name": "TANJONG DATU"
                     }
                 },
                 "racial_breakdown": {
@@ -399,11 +399,11 @@
             },
             "P.192": {
                 "state_constituencies": {
-                    "N.01": {
-                        "name": "OPAR"
-                    },
-                    "N.02": {
+                    "N.2": {
                         "name": "TASIK BIRU"
+                    },
+                    "N.1": {
+                        "name": "OPAR"
                     }
                 },
                 "racial_breakdown": {
@@ -420,10 +420,10 @@
             },
             "P.209": {
                 "state_constituencies": {
-                    "N. 41": {
+                    "N.41": {
                         "name": "PAKAN"
                     },
-                    "N. 42": {
+                    "N.42": {
                         "name": "MELUAN"
                     }
                 },
@@ -441,10 +441,10 @@
             },
             "P.208": {
                 "state_constituencies": {
-                    "N. 39": {
+                    "N.39": {
                         "name": "REPOK"
                     },
-                    "N. 40": {
+                    "N.40": {
                         "name": "MERADONG"
                     }
                 },
@@ -462,10 +462,10 @@
             },
             "P.205": {
                 "state_constituencies": {
-                    "N. 33": {
+                    "N.33": {
                         "name": "KALAKA"
                     },
-                    "N. 34": {
+                    "N.34": {
                         "name": "KRIAN"
                     }
                 },
@@ -483,13 +483,13 @@
             },
             "P.204": {
                 "state_constituencies": {
-                    "N. 30": {
-                        "name": "SARIBAS"
-                    },
-                    "N. 31": {
+                    "N.31": {
                         "name": "LAYAR"
                     },
-                    "N. 32": {
+                    "N.30": {
+                        "name": "SARIBAS"
+                    },
+                    "N.32": {
                         "name": "BUKIT SABAN"
                     }
                 },
@@ -507,10 +507,10 @@
             },
             "P.207": {
                 "state_constituencies": {
-                    "N. 38": {
+                    "N.38": {
                         "name": "JEMORENG"
                     },
-                    "N. 37": {
+                    "N.37": {
                         "name": "DARO"
                     }
                 },
@@ -528,10 +528,10 @@
             },
             "P.206": {
                 "state_constituencies": {
-                    "N. 35": {
+                    "N.35": {
                         "name": "BELAWAI"
                     },
-                    "N. 36": {
+                    "N.36": {
                         "name": "SEMOP"
                     }
                 },
@@ -594,11 +594,11 @@
             },
             "P.203": {
                 "state_constituencies": {
-                    "N. 29": {
-                        "name": "BATANG AIR"
-                    },
-                    "N. 28": {
+                    "N.28": {
                         "name": "ENGKILILI"
+                    },
+                    "N.29": {
+                        "name": "BATANG AIR"
                     }
                 },
                 "racial_breakdown": {
@@ -615,13 +615,13 @@
             },
             "P.202": {
                 "state_constituencies": {
-                    "N. 27": {
-                        "name": "SIMANGGANG"
-                    },
-                    "N. 26": {
+                    "N.26": {
                         "name": "BUKIT BEGUNAN"
                     },
-                    "N. 25": {
+                    "N.27": {
+                        "name": "SIMANGGANG"
+                    },
+                    "N.25": {
                         "name": "BALAI RINGIN"
                     }
                 },
@@ -639,11 +639,11 @@
             },
             "P.222": {
                 "state_constituencies": {
-                    "N. 70": {
-                        "name": "BA'KELALAN"
-                    },
-                    "N. 71": {
+                    "N.71": {
                         "name": "BUKIT SARI"
+                    },
+                    "N.70": {
+                        "name": "BA'KELALAN"
                     }
                 },
                 "racial_breakdown": {
@@ -660,11 +660,11 @@
             },
             "P.221": {
                 "state_constituencies": {
-                    "N. 69": {
-                        "name": "BATU DANAU"
-                    },
-                    "N. 68": {
+                    "N.68": {
                         "name": "BUKIT KOTA"
+                    },
+                    "N.69": {
+                        "name": "BATU DANAU"
                     }
                 },
                 "racial_breakdown": {

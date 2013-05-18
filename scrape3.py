@@ -1,3 +1,4 @@
+import re
 import json
 from functools import partial
 
@@ -28,7 +29,8 @@ def get_sarawak_state_seats(parliament_constituency_code):
 				if "Nama Dun" in statistik[no + i]:
 					break
 				else:
-					constituency_codes.append(statistik[no + i].strip())
+					cc = statistik[no + i].strip()
+					constituency_codes.append(re.sub('\.\s*0*', '.', cc))
 		elif extracting and "Nama Dun" in line:
 			for i in range(1, 6):
 				if "Kategori Pemilih" in statistik[no + i]:
