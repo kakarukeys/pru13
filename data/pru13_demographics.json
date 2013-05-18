@@ -302,7 +302,7 @@
                     "Bumiputra Sabah": 0.17
                 },
                 "name": "BANDAR KUCHING",
-                "metropolitan_index": 3
+                "metropolitan_index": 6
             },
             "P.194": {
                 "state_constituencies": {
@@ -855,7 +855,7 @@
                     "Bumiputra Sabah": 0.07
                 },
                 "name": "KOTA MELAKA",
-                "metropolitan_index": 2
+                "metropolitan_index": 6
             }
         }
     },
@@ -1741,7 +1741,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "KOTA BHARU",
-                "metropolitan_index": 2
+                "metropolitan_index": 5
             },
             "P.22": {
                 "state_constituencies": {
@@ -1892,7 +1892,7 @@
                     "Bumiputra Sabah": 0.18
                 },
                 "name": "AMPANG",
-                "metropolitan_index": 3
+                "metropolitan_index": 5
             },
             "P.98": {
                 "state_constituencies": {
@@ -2096,7 +2096,7 @@
                     "Bumiputra Sabah": 0.34
                 },
                 "name": "SUBANG",
-                "metropolitan_index": 4
+                "metropolitan_index": 5
             },
             "P.104": {
                 "state_constituencies": {
@@ -2117,7 +2117,7 @@
                     "Bumiputra Sabah": 0.41
                 },
                 "name": "KELANA JAYA",
-                "metropolitan_index": 4
+                "metropolitan_index": 5
             },
             "P.105": {
                 "state_constituencies": {
@@ -2228,7 +2228,7 @@
                     "Bumiputra Sabah": 0.24
                 },
                 "name": "HULU LANGAT",
-                "metropolitan_index": 4
+                "metropolitan_index": 5
             },
             "P.108": {
                 "state_constituencies": {
@@ -3513,7 +3513,7 @@
                     "Bumiputra Sabah": 0.23
                 },
                 "name": "TEBRAU",
-                "metropolitan_index": 2
+                "metropolitan_index": 5
             },
             "P.151": {
                 "state_constituencies": {
@@ -3558,7 +3558,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "BATU PAHAT",
-                "metropolitan_index": 3
+                "metropolitan_index": 4
             },
             "P.153": {
                 "state_constituencies": {
