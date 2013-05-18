@@ -12,8 +12,8 @@ def open_page():
 PAYLOAD = {
 	"form1:bttnNext": "Submit >>",
 	"form1:ddlState": None,
-	"form1:txtArea": None,
-	"form1:txtBuilding": '',
+	"form1:txtArea": '',
+	"form1:txtBuilding": None,
 	"form1:txtStreet": '',
 	"form1_hidden": "form1_hidden",
 	"javax.faces.ViewState": None,
@@ -22,7 +22,7 @@ def query_celcom(cookies, view_state, state, area):
 	state = state.replace("W.P.", "WP")
 	payload = PAYLOAD.copy()
 	payload["form1:ddlState"] = state
-	payload["form1:txtArea"] = area
+	payload["form1:txtBuilding"] = area
 	payload["javax.faces.ViewState"] = view_state
 
 	r = requests.post(URL, cookies=cookies, data=payload)

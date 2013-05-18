@@ -42,7 +42,7 @@
                     "Bumiputra Sabah": 0.26
                 },
                 "name": "SIBUTI",
-                "3G_penetration": 6,
+                "3G_penetration": 7,
                 "metropolitan_index": 2
             },
             "P.219": {
@@ -67,7 +67,7 @@
                     "Bumiputra Sabah": 0.32
                 },
                 "name": "MIRI",
-                "3G_penetration": 28,
+                "3G_penetration": 127,
                 "metropolitan_index": 5
             },
             "P.216": {
@@ -89,7 +89,7 @@
                     "Bumiputra Sabah": 0.22
                 },
                 "name": "HULU RAJANG",
-                "3G_penetration": 0,
+                "3G_penetration": 2,
                 "metropolitan_index": 3
             },
             "P.217": {
@@ -114,7 +114,7 @@
                     "Bumiputra Sabah": 0.28
                 },
                 "name": "BINTULU",
-                "3G_penetration": 32,
+                "3G_penetration": 98,
                 "metropolitan_index": 5
             },
             "P.214": {
@@ -136,7 +136,7 @@
                     "Bumiputra Sabah": 0.11
                 },
                 "name": "SELANGAU",
-                "3G_penetration": 0,
+                "3G_penetration": 5,
                 "metropolitan_index": 4
             },
             "P.215": {
@@ -158,7 +158,7 @@
                     "Bumiputra Sabah": 0.14
                 },
                 "name": "KAPIT",
-                "3G_penetration": 0,
+                "3G_penetration": 3,
                 "metropolitan_index": 4
             },
             "P.212": {
@@ -183,7 +183,7 @@
                     "Bumiputra Sabah": 0.43
                 },
                 "name": "SIBU",
-                "3G_penetration": 16,
+                "3G_penetration": 128,
                 "metropolitan_index": 5
             },
             "P.213": {
@@ -205,7 +205,7 @@
                     "Bumiputra Sabah": 0.35
                 },
                 "name": "MUKAH",
-                "3G_penetration": 9,
+                "3G_penetration": 39,
                 "metropolitan_index": 3
             },
             "P.210": {
@@ -227,7 +227,7 @@
                     "Bumiputra Sabah": 0.09
                 },
                 "name": "KANOWIT",
-                "3G_penetration": 0,
+                "3G_penetration": 25,
                 "metropolitan_index": 4
             },
             "P.211": {
@@ -249,7 +249,7 @@
                     "Bumiputra Sabah": 0.15
                 },
                 "name": "LANANG",
-                "3G_penetration": 0,
+                "3G_penetration": 7,
                 "metropolitan_index": 2
             },
             "P.199": {
@@ -271,7 +271,7 @@
                     "Bumiputra Sabah": 0.15
                 },
                 "name": "SERIAN",
-                "3G_penetration": 53,
+                "3G_penetration": 60,
                 "metropolitan_index": 4
             },
             "P.198": {
@@ -293,7 +293,7 @@
                     "Bumiputra Sabah": 0.31
                 },
                 "name": "MAMBONG",
-                "3G_penetration": 0,
+                "3G_penetration": 2,
                 "metropolitan_index": 2
             },
             "P.195": {
@@ -315,7 +315,7 @@
                     "Bumiputra Sabah": 0.17
                 },
                 "name": "BANDAR KUCHING",
-                "3G_penetration": 2,
+                "3G_penetration": 32,
                 "metropolitan_index": 6
             },
             "P.194": {
@@ -340,7 +340,7 @@
                     "Bumiputra Sabah": 0.22
                 },
                 "name": "PETRA JAYA",
-                "3G_penetration": 6,
+                "3G_penetration": 36,
                 "metropolitan_index": 2
             },
             "P.197": {
@@ -362,7 +362,7 @@
                     "Bumiputra Sabah": 0.67
                 },
                 "name": "KOTA SAMARAHAN",
-                "3G_penetration": 14,
+                "3G_penetration": 17,
                 "metropolitan_index": 4
             },
             "P.196": {
@@ -387,7 +387,7 @@
                     "Bumiputra Sabah": 0.18
                 },
                 "name": "STAMPIN",
-                "3G_penetration": 6,
+                "3G_penetration": 13,
                 "metropolitan_index": 4
             },
             "P.193": {
@@ -412,7 +412,7 @@
                     "Bumiputra Sabah": 0.07
                 },
                 "name": "SANTUBONG",
-                "3G_penetration": 4,
+                "3G_penetration": 10,
                 "metropolitan_index": 2
             },
             "P.192": {
@@ -434,7 +434,7 @@
                     "Bumiputra Sabah": 0.15
                 },
                 "name": "MAS GADING",
-                "3G_penetration": 0,
+                "3G_penetration": 2,
                 "metropolitan_index": 2
             },
             "P.209": {
@@ -456,7 +456,7 @@
                     "Bumiputra Sabah": 0.08
                 },
                 "name": "JULAU",
-                "3G_penetration": 4,
+                "3G_penetration": 14,
                 "metropolitan_index": 4
             },
             "P.208": {
@@ -478,7 +478,7 @@
                     "Bumiputra Sabah": 0.12
                 },
                 "name": "SARIKEI",
-                "3G_penetration": 10,
+                "3G_penetration": 74,
                 "metropolitan_index": 4
             },
             "P.205": {
@@ -500,7 +500,7 @@
                     "Bumiputra Sabah": 0.06
                 },
                 "name": "SARATOK",
-                "3G_penetration": 9,
+                "3G_penetration": 17,
                 "metropolitan_index": 3
             },
             "P.204": {
@@ -525,7 +525,7 @@
                     "Bumiputra Sabah": 0.13
                 },
                 "name": "BETONG",
-                "3G_penetration": 21,
+                "3G_penetration": 23,
                 "metropolitan_index": 3
             },
             "P.207": {
@@ -569,7 +569,7 @@
                     "Bumiputra Sabah": 0.26
                 },
                 "name": "BARAM",
-                "3G_penetration": 0,
+                "3G_penetration": 2,
                 "metropolitan_index": 4
             },
             "P.201": {
@@ -594,7 +594,7 @@
                     "Bumiputra Sabah": 0.09
                 },
                 "name": "BATANG LUPAR",
-                "3G_penetration": 5,
+                "3G_penetration": 0,
                 "metropolitan_index": 2
             },
             "P.200": {
@@ -616,7 +616,7 @@
                     "Bumiputra Sabah": 0.1
                 },
                 "name": "BATANG SADONG",
-                "3G_penetration": 4,
+                "3G_penetration": 0,
                 "metropolitan_index": 3
             },
             "P.203": {
@@ -638,7 +638,7 @@
                     "Bumiputra Sabah": 0.18
                 },
                 "name": "LUBOK ANTU",
-                "3G_penetration": 9,
+                "3G_penetration": 13,
                 "metropolitan_index": 3
             },
             "P.202": {
@@ -663,7 +663,7 @@
                     "Bumiputra Sabah": 0.17
                 },
                 "name": "SRI AMAN",
-                "3G_penetration": 103,
+                "3G_penetration": 68,
                 "metropolitan_index": 4
             },
             "P.222": {
@@ -739,7 +739,7 @@
                     "Bumiputra Sabah": 0.16
                 },
                 "name": "BUKIT KATIL",
-                "3G_penetration": 21,
+                "3G_penetration": 37,
                 "metropolitan_index": 4
             },
             "P.136": {
@@ -767,7 +767,7 @@
                     "Bumiputra Sabah": 1.06
                 },
                 "name": "TANGGA BATU",
-                "3G_penetration": 7,
+                "3G_penetration": 5,
                 "metropolitan_index": 4
             },
             "P.135": {
@@ -798,7 +798,7 @@
                     "Bumiputra Sabah": 0.07
                 },
                 "name": "ALOR GAJAH",
-                "3G_penetration": 115,
+                "3G_penetration": 28,
                 "metropolitan_index": 3
             },
             "P.134": {
@@ -829,7 +829,7 @@
                     "Bumiputra Sabah": 0.07
                 },
                 "name": "MASJID TANAH",
-                "3G_penetration": 32,
+                "3G_penetration": 2,
                 "metropolitan_index": 3
             },
             "P.139": {
@@ -860,7 +860,7 @@
                     "Bumiputra Sabah": 0.22
                 },
                 "name": "JASIN",
-                "3G_penetration": 82,
+                "3G_penetration": 35,
                 "metropolitan_index": 3
             },
             "P.138": {
@@ -891,7 +891,7 @@
                     "Bumiputra Sabah": 0.07
                 },
                 "name": "KOTA MELAKA",
-                "3G_penetration": 4,
+                "3G_penetration": 8,
                 "metropolitan_index": 6
             }
         }
@@ -920,7 +920,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "ALOR STAR",
-                "3G_penetration": 0,
+                "3G_penetration": 18,
                 "metropolitan_index": 5
             },
             "P.8": {
@@ -945,7 +945,7 @@
                     "Bumiputra Sabah": 0.06
                 },
                 "name": "POKOK SENA",
-                "3G_penetration": 82,
+                "3G_penetration": 18,
                 "metropolitan_index": 3
             },
             "P.5": {
@@ -967,7 +967,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "JERLUN",
-                "3G_penetration": 37,
+                "3G_penetration": 9,
                 "metropolitan_index": 4
             },
             "P.4": {
@@ -989,7 +989,7 @@
                     "Bumiputra Sabah": 0.11
                 },
                 "name": "LANGKAWI",
-                "3G_penetration": 72,
+                "3G_penetration": 161,
                 "metropolitan_index": 4
             },
             "P.7": {
@@ -1011,7 +1011,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "PADANG TERAP",
-                "3G_penetration": 98,
+                "3G_penetration": 18,
                 "metropolitan_index": 4
             },
             "P.6": {
@@ -1033,7 +1033,7 @@
                     "Bumiputra Sabah": 0.14
                 },
                 "name": "KUBANG PASU",
-                "3G_penetration": 121,
+                "3G_penetration": 67,
                 "metropolitan_index": 4
             },
             "P.15": {
@@ -1058,7 +1058,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "SUNGAI PETANI",
-                "3G_penetration": 124,
+                "3G_penetration": 113,
                 "metropolitan_index": 5
             },
             "P.14": {
@@ -1080,7 +1080,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "MERBOK",
-                "3G_penetration": 24,
+                "3G_penetration": 13,
                 "metropolitan_index": 3
             },
             "P.17": {
@@ -1102,7 +1102,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "PADANG SERAI",
-                "3G_penetration": 59,
+                "3G_penetration": 24,
                 "metropolitan_index": 4
             },
             "P.16": {
@@ -1127,7 +1127,7 @@
                     "Bumiputra Sabah": 0.17
                 },
                 "name": "BALING",
-                "3G_penetration": 199,
+                "3G_penetration": 58,
                 "metropolitan_index": 4
             },
             "P.11": {
@@ -1149,7 +1149,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "PENDANG",
-                "3G_penetration": 53,
+                "3G_penetration": 29,
                 "metropolitan_index": 3
             },
             "P.10": {
@@ -1174,7 +1174,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "KUALA KEDAH",
-                "3G_penetration": 32,
+                "3G_penetration": 18,
                 "metropolitan_index": 4
             },
             "P.13": {
@@ -1196,7 +1196,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "SIK",
-                "3G_penetration": 66,
+                "3G_penetration": 8,
                 "metropolitan_index": 3
             },
             "P.12": {
@@ -1221,7 +1221,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "JERAI",
-                "3G_penetration": 33,
+                "3G_penetration": 48,
                 "metropolitan_index": 4
             },
             "P.18": {
@@ -1243,7 +1243,7 @@
                     "Bumiputra Sabah": 0.06
                 },
                 "name": "KULIM-BANDAR BAHARU",
-                "3G_penetration": 19,
+                "3G_penetration": 109,
                 "metropolitan_index": 5
             }
         }
@@ -1272,7 +1272,7 @@
                     "Bumiputra Sabah": 0.11
                 },
                 "name": "TAMPIN",
-                "3G_penetration": 60,
+                "3G_penetration": 19,
                 "metropolitan_index": 4
             },
             "P.132": {
@@ -1303,7 +1303,7 @@
                     "Bumiputra Sabah": 0.65
                 },
                 "name": "TELOK KEMANG",
-                "3G_penetration": 101,
+                "3G_penetration": 72,
                 "metropolitan_index": 4
             },
             "P.131": {
@@ -1331,7 +1331,7 @@
                     "Bumiputra Sabah": 0.1
                 },
                 "name": "REMBAU",
-                "3G_penetration": 103,
+                "3G_penetration": 53,
                 "metropolitan_index": 3
             },
             "P.130": {
@@ -1362,7 +1362,7 @@
                     "Bumiputra Sabah": 0.18
                 },
                 "name": "RASAH",
-                "3G_penetration": 33,
+                "3G_penetration": 51,
                 "metropolitan_index": 3
             },
             "P.128": {
@@ -1396,7 +1396,7 @@
                     "Bumiputra Sabah": 0.16
                 },
                 "name": "SEREMBAN",
-                "3G_penetration": 69,
+                "3G_penetration": 203,
                 "metropolitan_index": 6
             },
             "P.129": {
@@ -1427,7 +1427,7 @@
                     "Bumiputra Sabah": 0.06
                 },
                 "name": "KUALA PILAH",
-                "3G_penetration": 158,
+                "3G_penetration": 26,
                 "metropolitan_index": 4
             },
             "P.126": {
@@ -1455,7 +1455,7 @@
                     "Bumiputra Sabah": 0.15
                 },
                 "name": "JELEBU",
-                "3G_penetration": 5,
+                "3G_penetration": 6,
                 "metropolitan_index": 3
             },
             "P.127": {
@@ -1483,7 +1483,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "JEMPOL",
-                "3G_penetration": 29,
+                "3G_penetration": 13,
                 "metropolitan_index": 4
             }
         }
@@ -1518,7 +1518,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "PADANG BESAR",
-                "3G_penetration": 21,
+                "3G_penetration": 32,
                 "metropolitan_index": 3
             },
             "P.3": {
@@ -1549,7 +1549,7 @@
                     "Bumiputra Sabah": 0.32
                 },
                 "name": "ARAU",
-                "3G_penetration": 34,
+                "3G_penetration": 37,
                 "metropolitan_index": 3
             },
             "P.2": {
@@ -1580,7 +1580,7 @@
                     "Bumiputra Sabah": 0.1
                 },
                 "name": "KANGAR",
-                "3G_penetration": 183,
+                "3G_penetration": 81,
                 "metropolitan_index": 4
             }
         }
@@ -1612,7 +1612,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "PASIR PUTEH",
-                "3G_penetration": 58,
+                "3G_penetration": 36,
                 "metropolitan_index": 3
             },
             "P.29": {
@@ -1637,7 +1637,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "MACHANG",
-                "3G_penetration": 70,
+                "3G_penetration": 41,
                 "metropolitan_index": 4
             },
             "P.24": {
@@ -1662,7 +1662,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "KUBANG KERIAN",
-                "3G_penetration": 0,
+                "3G_penetration": 15,
                 "metropolitan_index": 4
             },
             "P.25": {
@@ -1687,7 +1687,7 @@
                     "Bumiputra Sabah": 0.01
                 },
                 "name": "BACHOK",
-                "3G_penetration": 3,
+                "3G_penetration": 9,
                 "metropolitan_index": 5
             },
             "P.26": {
@@ -1712,7 +1712,7 @@
                     "Bumiputra Sabah": 0.25
                 },
                 "name": "KETEREH",
-                "3G_penetration": 54,
+                "3G_penetration": 13,
                 "metropolitan_index": 4
             },
             "P.27": {
@@ -1737,7 +1737,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "TANAH MERAH",
-                "3G_penetration": 54,
+                "3G_penetration": 27,
                 "metropolitan_index": 4
             },
             "P.20": {
@@ -1762,7 +1762,7 @@
                     "Bumiputra Sabah": 0.1
                 },
                 "name": "PENGKALAN CHEPA",
-                "3G_penetration": 0,
+                "3G_penetration": 15,
                 "metropolitan_index": 3
             },
             "P.32": {
@@ -1787,7 +1787,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "GUA MUSANG",
-                "3G_penetration": 13,
+                "3G_penetration": 30,
                 "metropolitan_index": 4
             },
             "P.22": {
@@ -1812,7 +1812,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "PASIR MAS",
-                "3G_penetration": 102,
+                "3G_penetration": 18,
                 "metropolitan_index": 4
             },
             "P.21": {
@@ -1837,7 +1837,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "KOTA BHARU",
-                "3G_penetration": 118,
+                "3G_penetration": 100,
                 "metropolitan_index": 5
             },
             "P.31": {
@@ -1865,7 +1865,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "KUALA KRAI",
-                "3G_penetration": 45,
+                "3G_penetration": 39,
                 "metropolitan_index": 4
             },
             "P.23": {
@@ -1890,7 +1890,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "RANTAU PANJANG",
-                "3G_penetration": 10,
+                "3G_penetration": 7,
                 "metropolitan_index": 3
             },
             "P.19": {
@@ -1918,7 +1918,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "TUMPAT",
-                "3G_penetration": 62,
+                "3G_penetration": 15,
                 "metropolitan_index": 4
             },
             "P.30": {
@@ -1943,7 +1943,7 @@
                     "Bumiputra Sabah": 0.32
                 },
                 "name": "JELI",
-                "3G_penetration": 28,
+                "3G_penetration": 33,
                 "metropolitan_index": 4
             }
         }
@@ -1969,7 +1969,7 @@
                     "Bumiputra Sabah": 0.18
                 },
                 "name": "AMPANG",
-                "3G_penetration": 23,
+                "3G_penetration": 174,
                 "metropolitan_index": 5
             },
             "P.98": {
@@ -1994,7 +1994,7 @@
                     "Bumiputra Sabah": 0.13
                 },
                 "name": "GOMBAK",
-                "3G_penetration": 18,
+                "3G_penetration": 94,
                 "metropolitan_index": 4
             },
             "P.95": {
@@ -2016,7 +2016,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "TANJONG KARANG",
-                "3G_penetration": 30,
+                "3G_penetration": 9,
                 "metropolitan_index": 4
             },
             "P.94": {
@@ -2041,7 +2041,7 @@
                     "Bumiputra Sabah": 0.11
                 },
                 "name": "HULU SELANGOR",
-                "3G_penetration": 22,
+                "3G_penetration": 5,
                 "metropolitan_index": 4
             },
             "P.97": {
@@ -2066,7 +2066,7 @@
                     "Bumiputra Sabah": 0.16
                 },
                 "name": "SELAYANG",
-                "3G_penetration": 35,
+                "3G_penetration": 190,
                 "metropolitan_index": 5
             },
             "P.96": {
@@ -2091,7 +2091,7 @@
                     "Bumiputra Sabah": 0.07
                 },
                 "name": "KUALA SELANGOR",
-                "3G_penetration": 60,
+                "3G_penetration": 76,
                 "metropolitan_index": 4
             },
             "P.93": {
@@ -2113,7 +2113,7 @@
                     "Bumiputra Sabah": 0.06
                 },
                 "name": "SUNGAI BESAR",
-                "3G_penetration": 55,
+                "3G_penetration": 52,
                 "metropolitan_index": 4
             },
             "P.92": {
@@ -2135,7 +2135,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "SABAK BERNAM",
-                "3G_penetration": 41,
+                "3G_penetration": 69,
                 "metropolitan_index": 4
             },
             "P.106": {
@@ -2157,7 +2157,7 @@
                     "Bumiputra Sabah": 0.11
                 },
                 "name": "PETALING JAYA UTARA",
-                "3G_penetration": 96,
+                "3G_penetration": 93,
                 "metropolitan_index": 5
             },
             "P.107": {
@@ -2182,7 +2182,7 @@
                     "Bumiputra Sabah": 0.34
                 },
                 "name": "SUBANG",
-                "3G_penetration": 37,
+                "3G_penetration": 310,
                 "metropolitan_index": 5
             },
             "P.104": {
@@ -2204,7 +2204,7 @@
                     "Bumiputra Sabah": 0.41
                 },
                 "name": "KELANA JAYA",
-                "3G_penetration": 50,
+                "3G_penetration": 158,
                 "metropolitan_index": 5
             },
             "P.105": {
@@ -2226,7 +2226,7 @@
                     "Bumiputra Sabah": 0.13
                 },
                 "name": "PETALING JAYA SELATAN",
-                "3G_penetration": 100,
+                "3G_penetration": 57,
                 "metropolitan_index": 5
             },
             "P.102": {
@@ -2251,7 +2251,7 @@
                     "Bumiputra Sabah": 0.18
                 },
                 "name": "SERDANG",
-                "3G_penetration": 70,
+                "3G_penetration": 222,
                 "metropolitan_index": 5
             },
             "P.103": {
@@ -2273,7 +2273,7 @@
                     "Bumiputra Sabah": 0.28
                 },
                 "name": "PUCHONG",
-                "3G_penetration": 35,
+                "3G_penetration": 201,
                 "metropolitan_index": 2
             },
             "P.100": {
@@ -2295,7 +2295,7 @@
                     "Bumiputra Sabah": 0.3
                 },
                 "name": "PANDAN",
-                "3G_penetration": 15,
+                "3G_penetration": 147,
                 "metropolitan_index": 3
             },
             "P.101": {
@@ -2320,7 +2320,7 @@
                     "Bumiputra Sabah": 0.24
                 },
                 "name": "HULU LANGAT",
-                "3G_penetration": 76,
+                "3G_penetration": 205,
                 "metropolitan_index": 5
             },
             "P.108": {
@@ -2342,7 +2342,7 @@
                     "Bumiputra Sabah": 0.26
                 },
                 "name": "SHAH ALAM",
-                "3G_penetration": 135,
+                "3G_penetration": 247,
                 "metropolitan_index": 5
             },
             "P.109": {
@@ -2370,7 +2370,7 @@
                     "Bumiputra Sabah": 0.19
                 },
                 "name": "KAPAR",
-                "3G_penetration": 25,
+                "3G_penetration": 86,
                 "metropolitan_index": 4
             },
             "P.111": {
@@ -2392,7 +2392,7 @@
                     "Bumiputra Sabah": 0.42
                 },
                 "name": "KOTA RAJA",
-                "3G_penetration": 2,
+                "3G_penetration": 13,
                 "metropolitan_index": 2
             },
             "P.110": {
@@ -2417,7 +2417,7 @@
                     "Bumiputra Sabah": 0.52
                 },
                 "name": "KLANG",
-                "3G_penetration": 34,
+                "3G_penetration": 258,
                 "metropolitan_index": 5
             },
             "P.113": {
@@ -2442,7 +2442,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "SEPANG",
-                "3G_penetration": 52,
+                "3G_penetration": 63,
                 "metropolitan_index": 4
             },
             "P.112": {
@@ -2467,7 +2467,7 @@
                     "Bumiputra Sabah": 0.16
                 },
                 "name": "KUALA LANGAT",
-                "3G_penetration": 6,
+                "3G_penetration": 27,
                 "metropolitan_index": 2
             }
         }
@@ -2496,7 +2496,7 @@
                     "Bumiputra Sabah": 71.73
                 },
                 "name": "KUDAT",
-                "3G_penetration": 3,
+                "3G_penetration": 0,
                 "metropolitan_index": 4
             },
             "P.168": {
@@ -2518,7 +2518,7 @@
                     "Bumiputra Sabah": 91.92
                 },
                 "name": "KOTA MARUDU",
-                "3G_penetration": 3,
+                "3G_penetration": 0,
                 "metropolitan_index": 4
             },
             "P.188": {
@@ -2543,7 +2543,7 @@
                     "Bumiputra Sabah": 50.69
                 },
                 "name": "SILAM",
-                "3G_penetration": 11,
+                "3G_penetration": 91,
                 "metropolitan_index": 4
             },
             "P.189": {
@@ -2568,7 +2568,7 @@
                     "Bumiputra Sabah": 85.12
                 },
                 "name": "SEMPORNA",
-                "3G_penetration": 3,
+                "3G_penetration": 36,
                 "metropolitan_index": 5
             },
             "P.186": {
@@ -2590,7 +2590,7 @@
                     "Bumiputra Sabah": 25.21
                 },
                 "name": "SANDAKAN",
-                "3G_penetration": 20,
+                "3G_penetration": 140,
                 "metropolitan_index": 5
             },
             "P.169": {
@@ -2615,7 +2615,7 @@
                     "Bumiputra Sabah": 91.64
                 },
                 "name": "KOTA BELUD",
-                "3G_penetration": 3,
+                "3G_penetration": 0,
                 "metropolitan_index": 4
             },
             "P.184": {
@@ -2637,7 +2637,7 @@
                     "Bumiputra Sabah": 38.54
                 },
                 "name": "LIBARAN",
-                "3G_penetration": 0,
+                "3G_penetration": 2,
                 "metropolitan_index": 2
             },
             "P.185": {
@@ -2659,7 +2659,7 @@
                     "Bumiputra Sabah": 38.03
                 },
                 "name": "BATU SAPI",
-                "3G_penetration": 0,
+                "3G_penetration": 2,
                 "metropolitan_index": 2
             },
             "P.182": {
@@ -2681,7 +2681,7 @@
                     "Bumiputra Sabah": 94.4
                 },
                 "name": "PENSIANGAN",
-                "3G_penetration": 4,
+                "3G_penetration": 0,
                 "metropolitan_index": 3
             },
             "P.183": {
@@ -2703,7 +2703,7 @@
                     "Bumiputra Sabah": 81.02
                 },
                 "name": "BELURAN",
-                "3G_penetration": 11,
+                "3G_penetration": 6,
                 "metropolitan_index": 4
             },
             "P.180": {
@@ -2728,7 +2728,7 @@
                     "Bumiputra Sabah": 81.88
                 },
                 "name": "KENINGAU",
-                "3G_penetration": 8,
+                "3G_penetration": 0,
                 "metropolitan_index": 4
             },
             "P.181": {
@@ -2750,7 +2750,7 @@
                     "Bumiputra Sabah": 78.56
                 },
                 "name": "TENOM",
-                "3G_penetration": 5,
+                "3G_penetration": 0,
                 "metropolitan_index": 4
             },
             "P.177": {
@@ -2772,7 +2772,7 @@
                     "Bumiputra Sabah": 81.55
                 },
                 "name": "BEAUFORT",
-                "3G_penetration": 15,
+                "3G_penetration": 31,
                 "metropolitan_index": 4
             },
             "P.176": {
@@ -2794,7 +2794,7 @@
                     "Bumiputra Sabah": 81.72
                 },
                 "name": "KIMANIS",
-                "3G_penetration": 2,
+                "3G_penetration": 0,
                 "metropolitan_index": 3
             },
             "P.175": {
@@ -2816,7 +2816,7 @@
                     "Bumiputra Sabah": 77.32
                 },
                 "name": "PAPAR",
-                "3G_penetration": 11,
+                "3G_penetration": 0,
                 "metropolitan_index": 5
             },
             "P.174": {
@@ -2860,7 +2860,7 @@
                     "Bumiputra Sabah": 50.76
                 },
                 "name": "PUTATAN",
-                "3G_penetration": 7,
+                "3G_penetration": 8,
                 "metropolitan_index": 3
             },
             "P.172": {
@@ -2885,7 +2885,7 @@
                     "Bumiputra Sabah": 21.64
                 },
                 "name": "KOTA KINABALU",
-                "3G_penetration": 337,
+                "3G_penetration": 226,
                 "metropolitan_index": 5
             },
             "P.171": {
@@ -2907,7 +2907,7 @@
                     "Bumiputra Sabah": 57.96
                 },
                 "name": "SEPANGGAR",
-                "3G_penetration": 0,
+                "3G_penetration": 17,
                 "metropolitan_index": 2
             },
             "P.170": {
@@ -2932,7 +2932,7 @@
                     "Bumiputra Sabah": 87.13
                 },
                 "name": "TUARAN",
-                "3G_penetration": 11,
+                "3G_penetration": 18,
                 "metropolitan_index": 4
             },
             "P.191": {
@@ -2982,7 +2982,7 @@
                     "Bumiputra Sabah": 16.54
                 },
                 "name": "TAWAU",
-                "3G_penetration": 31,
+                "3G_penetration": 130,
                 "metropolitan_index": 5
             },
             "P.179": {
@@ -3007,7 +3007,7 @@
                     "Bumiputra Sabah": 93.92
                 },
                 "name": "RANAU",
-                "3G_penetration": 21,
+                "3G_penetration": 29,
                 "metropolitan_index": 4
             },
             "P.178": {
@@ -3029,7 +3029,7 @@
                     "Bumiputra Sabah": 82.37
                 },
                 "name": "SIPITANG",
-                "3G_penetration": 4,
+                "3G_penetration": 0,
                 "metropolitan_index": 4
             },
             "P.187": {
@@ -3051,7 +3051,7 @@
                     "Bumiputra Sabah": 75.4
                 },
                 "name": "KINABATANGAN",
-                "3G_penetration": 0,
+                "3G_penetration": 5,
                 "metropolitan_index": 2
             }
         }
@@ -3070,7 +3070,7 @@
                     "Bumiputra Sabah": 0.33
                 },
                 "name": "BATU",
-                "3G_penetration": 24,
+                "3G_penetration": 57,
                 "metropolitan_index": 6
             },
             "P.114": {
@@ -3085,7 +3085,7 @@
                     "Bumiputra Sabah": 0.33
                 },
                 "name": "KEPONG",
-                "3G_penetration": 33,
+                "3G_penetration": 84,
                 "metropolitan_index": 6
             },
             "P.117": {
@@ -3100,7 +3100,7 @@
                     "Bumiputra Sabah": 0.39
                 },
                 "name": "SEGAMBUT",
-                "3G_penetration": 54,
+                "3G_penetration": 31,
                 "metropolitan_index": 6
             },
             "P.116": {
@@ -3115,7 +3115,7 @@
                     "Bumiputra Sabah": 0.37
                 },
                 "name": "WANGSA MAJU",
-                "3G_penetration": 10,
+                "3G_penetration": 69,
                 "metropolitan_index": 6
             },
             "P.124": {
@@ -3130,7 +3130,7 @@
                     "Bumiputra Sabah": 0.37
                 },
                 "name": "BANDAR TUN RAZAK",
-                "3G_penetration": 10,
+                "3G_penetration": 24,
                 "metropolitan_index": 6
             },
             "P.119": {
@@ -3145,7 +3145,7 @@
                     "Bumiputra Sabah": 0.31
                 },
                 "name": "TITIWANGSA",
-                "3G_penetration": 10,
+                "3G_penetration": 20,
                 "metropolitan_index": 6
             },
             "P.120": {
@@ -3160,7 +3160,7 @@
                     "Bumiputra Sabah": 0.45
                 },
                 "name": "BUKIT BINTANG",
-                "3G_penetration": 10,
+                "3G_penetration": 35,
                 "metropolitan_index": 6
             },
             "P.118": {
@@ -3175,7 +3175,7 @@
                     "Bumiputra Sabah": 0.59
                 },
                 "name": "SETIAWANGSA",
-                "3G_penetration": 10,
+                "3G_penetration": 23,
                 "metropolitan_index": 6
             },
             "P.122": {
@@ -3190,7 +3190,7 @@
                     "Bumiputra Sabah": 0.18
                 },
                 "name": "SEPUTEH",
-                "3G_penetration": 15,
+                "3G_penetration": 14,
                 "metropolitan_index": 6
             },
             "P.121": {
@@ -3205,7 +3205,7 @@
                     "Bumiputra Sabah": 0.34
                 },
                 "name": "LEMBAH PANTAI",
-                "3G_penetration": 10,
+                "3G_penetration": 3,
                 "metropolitan_index": 6
             },
             "P.123": {
@@ -3220,7 +3220,7 @@
                     "Bumiputra Sabah": 0.21
                 },
                 "name": "CHERAS",
-                "3G_penetration": 21,
+                "3G_penetration": 97,
                 "metropolitan_index": 6
             }
         }
@@ -3239,7 +3239,7 @@
                     "Bumiputra Sabah": 31.57
                 },
                 "name": "LABUAN",
-                "3G_penetration": 24,
+                "3G_penetration": 22,
                 "metropolitan_index": 5
             }
         }
@@ -3258,7 +3258,7 @@
                     "Bumiputra Sabah": 0.72
                 },
                 "name": "PUTRAJAYA",
-                "3G_penetration": 69,
+                "3G_penetration": 84,
                 "metropolitan_index": 5
             }
         }
@@ -3284,7 +3284,7 @@
                     "Bumiputra Sabah": 0.17
                 },
                 "name": "JOHOR BAHRU",
-                "3G_penetration": 208,
+                "3G_penetration": 74,
                 "metropolitan_index": 6
             },
             "P.161": {
@@ -3306,7 +3306,7 @@
                     "Bumiputra Sabah": 0.21
                 },
                 "name": "PULAI",
-                "3G_penetration": 19,
+                "3G_penetration": 27,
                 "metropolitan_index": 4
             },
             "P.162": {
@@ -3328,7 +3328,7 @@
                     "Bumiputra Sabah": 0.14
                 },
                 "name": "GELANG PATAH",
-                "3G_penetration": 22,
+                "3G_penetration": 76,
                 "metropolitan_index": 4
             },
             "P.163": {
@@ -3353,7 +3353,7 @@
                     "Bumiputra Sabah": 0.17
                 },
                 "name": "KULAI",
-                "3G_penetration": 57,
+                "3G_penetration": 72,
                 "metropolitan_index": 4
             },
             "P.164": {
@@ -3375,7 +3375,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "PONTIAN",
-                "3G_penetration": 46,
+                "3G_penetration": 21,
                 "metropolitan_index": 4
             },
             "P.165": {
@@ -3397,7 +3397,7 @@
                     "Bumiputra Sabah": 0.06
                 },
                 "name": "TANJONG PIAI",
-                "3G_penetration": 22,
+                "3G_penetration": 6,
                 "metropolitan_index": 4
             },
             "P.148": {
@@ -3419,7 +3419,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "AYER HITAM",
-                "3G_penetration": 26,
+                "3G_penetration": 20,
                 "metropolitan_index": 4
             },
             "P.149": {
@@ -3441,7 +3441,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "SRI GADING",
-                "3G_penetration": 9,
+                "3G_penetration": 7,
                 "metropolitan_index": 4
             },
             "P.142": {
@@ -3463,7 +3463,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "LABIS",
-                "3G_penetration": 22,
+                "3G_penetration": 9,
                 "metropolitan_index": 4
             },
             "P.143": {
@@ -3485,7 +3485,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "PAGOH",
-                "3G_penetration": 13,
+                "3G_penetration": 8,
                 "metropolitan_index": 3
             },
             "P.140": {
@@ -3507,7 +3507,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "SEGAMAT",
-                "3G_penetration": 12,
+                "3G_penetration": 37,
                 "metropolitan_index": 5
             },
             "P.141": {
@@ -3551,7 +3551,7 @@
                     "Bumiputra Sabah": 0.07
                 },
                 "name": "MUAR",
-                "3G_penetration": 72,
+                "3G_penetration": 41,
                 "metropolitan_index": 3
             },
             "P.147": {
@@ -3573,7 +3573,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "PARIT SULONG",
-                "3G_penetration": 17,
+                "3G_penetration": 9,
                 "metropolitan_index": 3
             },
             "P.144": {
@@ -3598,7 +3598,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "LEDANG",
-                "3G_penetration": 22,
+                "3G_penetration": 40,
                 "metropolitan_index": 4
             },
             "P.145": {
@@ -3623,7 +3623,7 @@
                     "Bumiputra Sabah": 0.08
                 },
                 "name": "BAKRI",
-                "3G_penetration": 7,
+                "3G_penetration": 18,
                 "metropolitan_index": 2
             },
             "P.159": {
@@ -3645,7 +3645,7 @@
                     "Bumiputra Sabah": 1.23
                 },
                 "name": "PASIR GUDANG",
-                "3G_penetration": 11,
+                "3G_penetration": 108,
                 "metropolitan_index": 5
             },
             "P.158": {
@@ -3667,7 +3667,7 @@
                     "Bumiputra Sabah": 0.23
                 },
                 "name": "TEBRAU",
-                "3G_penetration": 17,
+                "3G_penetration": 57,
                 "metropolitan_index": 5
             },
             "P.151": {
@@ -3689,7 +3689,7 @@
                     "Bumiputra Sabah": 0.08
                 },
                 "name": "SIMPANG RENGGAM",
-                "3G_penetration": 24,
+                "3G_penetration": 34,
                 "metropolitan_index": 3
             },
             "P.150": {
@@ -3714,7 +3714,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "BATU PAHAT",
-                "3G_penetration": 44,
+                "3G_penetration": 52,
                 "metropolitan_index": 4
             },
             "P.153": {
@@ -3736,7 +3736,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "SEMBRONG",
-                "3G_penetration": 9,
+                "3G_penetration": 14,
                 "metropolitan_index": 4
             },
             "P.152": {
@@ -3758,7 +3758,7 @@
                     "Bumiputra Sabah": 0.29
                 },
                 "name": "KLUANG",
-                "3G_penetration": 45,
+                "3G_penetration": 62,
                 "metropolitan_index": 5
             },
             "P.155": {
@@ -3780,7 +3780,7 @@
                     "Bumiputra Sabah": 0.45
                 },
                 "name": "TENGGARA",
-                "3G_penetration": 2,
+                "3G_penetration": 10,
                 "metropolitan_index": 4
             },
             "P.154": {
@@ -3802,7 +3802,7 @@
                     "Bumiputra Sabah": 0.47
                 },
                 "name": "MERSING",
-                "3G_penetration": 50,
+                "3G_penetration": 41,
                 "metropolitan_index": 4
             },
             "P.157": {
@@ -3824,7 +3824,7 @@
                     "Bumiputra Sabah": 0.13
                 },
                 "name": "PENGERANG",
-                "3G_penetration": 26,
+                "3G_penetration": 13,
                 "metropolitan_index": 4
             },
             "P.156": {
@@ -3846,7 +3846,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "KOTA TINGGI",
-                "3G_penetration": 44,
+                "3G_penetration": 46,
                 "metropolitan_index": 4
             }
         }
@@ -3875,7 +3875,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "BUKIT MERTAJAM",
-                "3G_penetration": 47,
+                "3G_penetration": 60,
                 "metropolitan_index": 4
             },
             "P.47": {
@@ -3900,7 +3900,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "NIBONG TEBAL",
-                "3G_penetration": 29,
+                "3G_penetration": 71,
                 "metropolitan_index": 3
             },
             "P.43": {
@@ -3925,7 +3925,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "BAGAN",
-                "3G_penetration": 10,
+                "3G_penetration": 91,
                 "metropolitan_index": 3
             },
             "P.46": {
@@ -3950,7 +3950,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "BATU KAWAN",
-                "3G_penetration": 6,
+                "3G_penetration": 55,
                 "metropolitan_index": 4
             },
             "P.48": {
@@ -3978,7 +3978,7 @@
                     "Bumiputra Sabah": 0.06
                 },
                 "name": "BUKIT BENDERA",
-                "3G_penetration": 0,
+                "3G_penetration": 21,
                 "metropolitan_index": 2
             },
             "P.49": {
@@ -4003,7 +4003,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "TANJONG",
-                "3G_penetration": 0,
+                "3G_penetration": 12,
                 "metropolitan_index": 2
             },
             "P.51": {
@@ -4028,7 +4028,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "BUKIT GELUGOR",
-                "3G_penetration": 0,
+                "3G_penetration": 23,
                 "metropolitan_index": 3
             },
             "P.50": {
@@ -4053,82 +4053,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "JELUTONG",
-                "3G_penetration": 16,
-                "metropolitan_index": 3
-            },
-            "P.44": {
-                "state_constituencies": {
-                    "N.12": {
-                        "name": "PENANTI"
-                    },
-                    "N.11": {
-                        "name": "PERMATANG PASIR"
-                    },
-                    "N.10": {
-                        "name": "SEBERANG JAYA"
-                    }
-                },
-                "racial_breakdown": {
-                    "Bumiputra Sarawak": 0.04,
-                    "Chinese": 23.06,
-                    "Orang Asli": 0.0,
-                    "Malay": 70.24,
-                    "Indian": 6.27,
-                    "Others": 0.33,
-                    "Bumiputra Sabah": 0.05
-                },
-                "name": "PERMATANG PAUH",
-                "3G_penetration": 18,
-                "metropolitan_index": 3
-            },
-            "P.52": {
-                "state_constituencies": {
-                    "N.35": {
-                        "name": "BATU UBAN"
-                    },
-                    "N.37": {
-                        "name": "BATU MAUNG"
-                    },
-                    "N.36": {
-                        "name": "PANTAI JEREJAK"
-                    }
-                },
-                "racial_breakdown": {
-                    "Bumiputra Sarawak": 0.21,
-                    "Chinese": 49.0,
-                    "Orang Asli": 0.0,
-                    "Malay": 39.15,
-                    "Indian": 11.04,
-                    "Others": 0.43,
-                    "Bumiputra Sabah": 0.18
-                },
-                "name": "BAYAN BARU",
-                "3G_penetration": 16,
-                "metropolitan_index": 2
-            },
-            "P.42": {
-                "state_constituencies": {
-                    "N.6": {
-                        "name": "TELOK AYER TAWAR"
-                    },
-                    "N.5": {
-                        "name": "SUNGAI DUA"
-                    },
-                    "N.4": {
-                        "name": "PERMATANG BERANGAN"
-                    }
-                },
-                "racial_breakdown": {
-                    "Bumiputra Sarawak": 0.19,
-                    "Chinese": 14.56,
-                    "Orang Asli": 0.0,
-                    "Malay": 78.01,
-                    "Indian": 6.92,
-                    "Others": 0.21,
-                    "Bumiputra Sabah": 0.11
-                },
-                "name": "TASEK GELUGOR",
-                "3G_penetration": 26,
+                "3G_penetration": 51,
                 "metropolitan_index": 3
             },
             "P.53": {
@@ -4153,8 +4078,83 @@
                     "Bumiputra Sabah": 31.57
                 },
                 "name": "BALIK PULAU",
-                "3G_penetration": 75,
+                "3G_penetration": 62,
                 "metropolitan_index": 2
+            },
+            "P.52": {
+                "state_constituencies": {
+                    "N.35": {
+                        "name": "BATU UBAN"
+                    },
+                    "N.37": {
+                        "name": "BATU MAUNG"
+                    },
+                    "N.36": {
+                        "name": "PANTAI JEREJAK"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.21,
+                    "Chinese": 49.0,
+                    "Orang Asli": 0.0,
+                    "Malay": 39.15,
+                    "Indian": 11.04,
+                    "Others": 0.43,
+                    "Bumiputra Sabah": 0.18
+                },
+                "name": "BAYAN BARU",
+                "3G_penetration": 49,
+                "metropolitan_index": 2
+            },
+            "P.42": {
+                "state_constituencies": {
+                    "N.6": {
+                        "name": "TELOK AYER TAWAR"
+                    },
+                    "N.5": {
+                        "name": "SUNGAI DUA"
+                    },
+                    "N.4": {
+                        "name": "PERMATANG BERANGAN"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.19,
+                    "Chinese": 14.56,
+                    "Orang Asli": 0.0,
+                    "Malay": 78.01,
+                    "Indian": 6.92,
+                    "Others": 0.21,
+                    "Bumiputra Sabah": 0.11
+                },
+                "name": "TASEK GELUGOR",
+                "3G_penetration": 27,
+                "metropolitan_index": 3
+            },
+            "P.44": {
+                "state_constituencies": {
+                    "N.12": {
+                        "name": "PENANTI"
+                    },
+                    "N.11": {
+                        "name": "PERMATANG PASIR"
+                    },
+                    "N.10": {
+                        "name": "SEBERANG JAYA"
+                    }
+                },
+                "racial_breakdown": {
+                    "Bumiputra Sarawak": 0.04,
+                    "Chinese": 23.06,
+                    "Orang Asli": 0.0,
+                    "Malay": 70.24,
+                    "Indian": 6.27,
+                    "Others": 0.33,
+                    "Bumiputra Sabah": 0.05
+                },
+                "name": "PERMATANG PAUH",
+                "3G_penetration": 58,
+                "metropolitan_index": 3
             },
             "P.41": {
                 "state_constituencies": {
@@ -4178,7 +4178,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "KEPALA BATAS",
-                "3G_penetration": 78,
+                "3G_penetration": 48,
                 "metropolitan_index": 3
             }
         }
@@ -4210,7 +4210,7 @@
                     "Bumiputra Sabah": 0.07
                 },
                 "name": "DUNGUN",
-                "3G_penetration": 120,
+                "3G_penetration": 93,
                 "metropolitan_index": 5
             },
             "P.38": {
@@ -4238,7 +4238,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "HULU TERENGGANU",
-                "3G_penetration": 97,
+                "3G_penetration": 37,
                 "metropolitan_index": 4
             },
             "P.37": {
@@ -4266,7 +4266,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "MARANG",
-                "3G_penetration": 64,
+                "3G_penetration": 34,
                 "metropolitan_index": 4
             },
             "P.36": {
@@ -4294,7 +4294,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "KUALA TERENGGANU",
-                "3G_penetration": 419,
+                "3G_penetration": 131,
                 "metropolitan_index": 5
             },
             "P.35": {
@@ -4322,7 +4322,7 @@
                     "Bumiputra Sabah": 0.06
                 },
                 "name": "KUALA NERUS",
-                "3G_penetration": 0,
+                "3G_penetration": 11,
                 "metropolitan_index": 4
             },
             "P.34": {
@@ -4350,7 +4350,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "SETIU",
-                "3G_penetration": 32,
+                "3G_penetration": 34,
                 "metropolitan_index": 4
             },
             "P.33": {
@@ -4378,7 +4378,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "BESUT",
-                "3G_penetration": 20,
+                "3G_penetration": 38,
                 "metropolitan_index": 4
             },
             "P.40": {
@@ -4406,7 +4406,7 @@
                     "Bumiputra Sabah": 0.72
                 },
                 "name": "KEMAMAN",
-                "3G_penetration": 84,
+                "3G_penetration": 76,
                 "metropolitan_index": 4
             }
         }
@@ -4432,7 +4432,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "CAMERON HIGHLANDS",
-                "3G_penetration": 7,
+                "3G_penetration": 36,
                 "metropolitan_index": 4
             },
             "P.82": {
@@ -4454,7 +4454,7 @@
                     "Bumiputra Sabah": 0.25
                 },
                 "name": "INDERA MAHKOTA",
-                "3G_penetration": 9,
+                "3G_penetration": 45,
                 "metropolitan_index": 4
             },
             "P.83": {
@@ -4479,7 +4479,7 @@
                     "Bumiputra Sabah": 0.09
                 },
                 "name": "KUANTAN",
-                "3G_penetration": 248,
+                "3G_penetration": 167,
                 "metropolitan_index": 6
             },
             "P.80": {
@@ -4504,7 +4504,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "RAUB",
-                "3G_penetration": 47,
+                "3G_penetration": 102,
                 "metropolitan_index": 4
             },
             "P.81": {
@@ -4529,7 +4529,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "JERANTUT",
-                "3G_penetration": 108,
+                "3G_penetration": 95,
                 "metropolitan_index": 4
             },
             "P.86": {
@@ -4554,7 +4554,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "MARAN",
-                "3G_penetration": 58,
+                "3G_penetration": 39,
                 "metropolitan_index": 2
             },
             "P.87": {
@@ -4579,7 +4579,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "KUALA KRAU",
-                "3G_penetration": 82,
+                "3G_penetration": 48,
                 "metropolitan_index": 3
             },
             "P.84": {
@@ -4604,7 +4604,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "PAYA BESAR",
-                "3G_penetration": 26,
+                "3G_penetration": 15,
                 "metropolitan_index": 2
             },
             "P.85": {
@@ -4632,7 +4632,7 @@
                     "Bumiputra Sabah": 0.24
                 },
                 "name": "PEKAN",
-                "3G_penetration": 139,
+                "3G_penetration": 70,
                 "metropolitan_index": 4
             },
             "P.88": {
@@ -4657,7 +4657,7 @@
                     "Bumiputra Sabah": 0.29
                 },
                 "name": "TEMERLOH",
-                "3G_penetration": 152,
+                "3G_penetration": 166,
                 "metropolitan_index": 4
             },
             "P.89": {
@@ -4685,7 +4685,7 @@
                     "Bumiputra Sabah": 0.1
                 },
                 "name": "BENTONG",
-                "3G_penetration": 66,
+                "3G_penetration": 108,
                 "metropolitan_index": 4
             },
             "P.91": {
@@ -4710,7 +4710,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "ROMPIN",
-                "3G_penetration": 13,
+                "3G_penetration": 106,
                 "metropolitan_index": 4
             },
             "P.90": {
@@ -4735,7 +4735,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "BERA",
-                "3G_penetration": 21,
+                "3G_penetration": 93,
                 "metropolitan_index": 4
             },
             "P.79": {
@@ -4760,7 +4760,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "LIPIS",
-                "3G_penetration": 49,
+                "3G_penetration": 101,
                 "metropolitan_index": 3
             }
         }
@@ -4789,7 +4789,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "BUKIT GANTANG",
-                "3G_penetration": 30,
+                "3G_penetration": 23,
                 "metropolitan_index": 3
             },
             "P.58": {
@@ -4814,7 +4814,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "BAGAN SERAI",
-                "3G_penetration": 35,
+                "3G_penetration": 40,
                 "metropolitan_index": 4
             },
             "P.60": {
@@ -4839,7 +4839,7 @@
                     "Bumiputra Sabah": 0.27
                 },
                 "name": "TAIPING",
-                "3G_penetration": 71,
+                "3G_penetration": 191,
                 "metropolitan_index": 5
             },
             "P.61": {
@@ -4861,7 +4861,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "PADANG RENGAS",
-                "3G_penetration": 20,
+                "3G_penetration": 7,
                 "metropolitan_index": 3
             },
             "P.62": {
@@ -4883,7 +4883,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "SUNGAI SIPUT",
-                "3G_penetration": 50,
+                "3G_penetration": 55,
                 "metropolitan_index": 2
             },
             "P.63": {
@@ -4905,7 +4905,7 @@
                     "Bumiputra Sabah": 0.08
                 },
                 "name": "TAMBUN",
-                "3G_penetration": 16,
+                "3G_penetration": 23,
                 "metropolitan_index": 3
             },
             "P.64": {
@@ -4930,7 +4930,7 @@
                     "Bumiputra Sabah": 0.18
                 },
                 "name": "IPOH TIMOR",
-                "3G_penetration": 13,
+                "3G_penetration": 254,
                 "metropolitan_index": 6
             },
             "P.65": {
@@ -4955,7 +4955,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "IPOH BARAT",
-                "3G_penetration": 26,
+                "3G_penetration": 265,
                 "metropolitan_index": 6
             },
             "P.66": {
@@ -4980,7 +4980,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "BATU GAJAH",
-                "3G_penetration": 34,
+                "3G_penetration": 70,
                 "metropolitan_index": 4
             },
             "P.67": {
@@ -5002,7 +5002,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "KUALA KANGSAR",
-                "3G_penetration": 138,
+                "3G_penetration": 98,
                 "metropolitan_index": 4
             },
             "P.68": {
@@ -5024,7 +5024,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "BERUAS",
-                "3G_penetration": 22,
+                "3G_penetration": 27,
                 "metropolitan_index": 3
             },
             "P.69": {
@@ -5046,7 +5046,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "PARIT",
-                "3G_penetration": 33,
+                "3G_penetration": 81,
                 "metropolitan_index": 3
             },
             "P.73": {
@@ -5068,7 +5068,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "PASIR SALAK",
-                "3G_penetration": 33,
+                "3G_penetration": 5,
                 "metropolitan_index": 3
             },
             "P.72": {
@@ -5090,7 +5090,7 @@
                     "Bumiputra Sabah": 0.05
                 },
                 "name": "TAPAH",
-                "3G_penetration": 38,
+                "3G_penetration": 69,
                 "metropolitan_index": 4
             },
             "P.71": {
@@ -5115,7 +5115,7 @@
                     "Bumiputra Sabah": 0.06
                 },
                 "name": "GOPENG",
-                "3G_penetration": 8,
+                "3G_penetration": 46,
                 "metropolitan_index": 4
             },
             "P.70": {
@@ -5140,7 +5140,7 @@
                     "Bumiputra Sabah": 0.04
                 },
                 "name": "KAMPAR",
-                "3G_penetration": 19,
+                "3G_penetration": 84,
                 "metropolitan_index": 4
             },
             "P.77": {
@@ -5165,7 +5165,7 @@
                     "Bumiputra Sabah": 0.12
                 },
                 "name": "TANJONG MALIM",
-                "3G_penetration": 21,
+                "3G_penetration": 83,
                 "metropolitan_index": 4
             },
             "P.76": {
@@ -5187,7 +5187,7 @@
                     "Bumiputra Sabah": 0.01
                 },
                 "name": "TELOK INTAN",
-                "3G_penetration": 0,
+                "3G_penetration": 8,
                 "metropolitan_index": 5
             },
             "P.75": {
@@ -5209,7 +5209,7 @@
                     "Bumiputra Sabah": 0.02
                 },
                 "name": "BAGAN DATOH",
-                "3G_penetration": 31,
+                "3G_penetration": 34,
                 "metropolitan_index": 3
             },
             "P.74": {
@@ -5234,7 +5234,7 @@
                     "Bumiputra Sabah": 0.44
                 },
                 "name": "LUMUT",
-                "3G_penetration": 63,
+                "3G_penetration": 108,
                 "metropolitan_index": 3
             },
             "P.55": {
@@ -5256,7 +5256,7 @@
                     "Bumiputra Sabah": 0.07
                 },
                 "name": "LENGGONG",
-                "3G_penetration": 41,
+                "3G_penetration": 25,
                 "metropolitan_index": 3
             },
             "P.54": {
@@ -5278,7 +5278,7 @@
                     "Bumiputra Sabah": 0.64
                 },
                 "name": "GERIK",
-                "3G_penetration": 48,
+                "3G_penetration": 43,
                 "metropolitan_index": 4
             },
             "P.57": {
@@ -5300,7 +5300,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "PARIT BUNTAR",
-                "3G_penetration": 16,
+                "3G_penetration": 64,
                 "metropolitan_index": 4
             },
             "P.56": {
@@ -5325,7 +5325,7 @@
                     "Bumiputra Sabah": 0.03
                 },
                 "name": "LARUT",
-                "3G_penetration": 79,
+                "3G_penetration": 59,
                 "metropolitan_index": 3
             }
         }
