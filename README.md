@@ -14,3 +14,11 @@ Analysis of the results of 13th Malaysian General Election
   * Who voted for and who voted against a party?
   * Which areas should be focused on for the next GE?
   * What are the critical factors in deciding a winning campaigning strategy?
+
+## Data sources
+
+PRU13 results - Portal Rasmi PRU-13 (SPR), http://www.pru13.gov.my/
+PRU12 results - RTM Final Results, http://www.pru13.com/
+Racial breakdown of constituencies - STATISTIK UMUM PILIHANRAYA, http://www.pru13.gov.my/default.informasi.00.04.php
+Metropolitan data - World Gazetteer: Malaysia - largest cities (per geographical entity), http://www.world-gazetteer.com/wg.php?x=1171193898&men=gcis&lng=en&des=gamelan&dat=32&geo=-152&srt=pnan&col=ohdq&pt=c&va=x
+3G penetration data - Broadband Coverage Map, http://coverage.celcom.com.my/CelcomCoverageIIPub/faces/CelcomCoverage.jsp
